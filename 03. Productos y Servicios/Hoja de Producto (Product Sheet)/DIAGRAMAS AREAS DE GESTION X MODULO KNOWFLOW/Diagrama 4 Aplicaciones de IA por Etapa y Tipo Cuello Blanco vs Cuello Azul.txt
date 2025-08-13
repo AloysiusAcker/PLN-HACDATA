@@ -1,0 +1,150 @@
+// SankeyMATIC diagram inputs - Saved: 3/6/2025, 20:27:15
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+// Código SankeyMatic para el Diagrama 4: Aplicaciones de IA por Etapa y Tipo (Cuello Blanco vs. Cuello Azul)
+// Nombres completos para etapas, tipos de IA, y aplicaciones de IA
+// Pesos basados en la frecuencia de cada aplicación de IA en los subprocesos
+
+// Mejora Continua
+Mejora Continua [9] Cuello Blanco
+Mejora Continua [3] Cuello Azul
+Cuello Blanco [2] IA Predictiva
+Cuello Blanco [1] IA para Clustering
+Cuello Blanco [1] IA para Análisis de Datos
+Cuello Blanco [1] IA para Búsqueda Semántica
+Cuello Blanco [1] IA para Personalización
+Cuello Blanco [1] IA para Análisis de Sentimientos
+Cuello Blanco [1] IA Generativa
+Cuello Blanco [1] IA para Evaluación de Impacto
+Cuello Azul [1] Visión Computacional
+Cuello Azul [2] IA para Optimización de Procesos
+
+// Transformación Digital
+Transformación Digital [3] Cuello Blanco
+Transformación Digital [5] Cuello Azul
+Cuello Blanco [1] IA para Detección de Fraudes
+Cuello Blanco [2] IA para Análisis de Comportamiento
+Cuello Azul [2] IA para Optimización de Procesos
+Cuello Azul [1] Visión Computacional
+Cuello Azul [1] IA para Mantenimiento Predictivo
+Cuello Azul [1] IA para Análisis de Calidad
+
+// Logística de Entrada
+Logística de Entrada [6] Cuello Blanco
+Logística de Entrada [4] Cuello Azul
+Cuello Blanco [2] IA para Verificación Automática
+Cuello Blanco [2] IA para Ranking
+Cuello Blanco [2] IA Predictiva
+Cuello Azul [1] Visión Computacional
+Cuello Azul [1] IA para Análisis de Calidad
+Cuello Azul [2] IA para Optimización de Procesos
+
+// Operaciones
+Operaciones [4] Cuello Blanco
+Operaciones [6] Cuello Azul
+Cuello Blanco [1] IA Generativa
+Cuello Blanco [2] IA para Análisis de Datos
+Cuello Blanco [1] IA para Optimización de Precios
+Cuello Azul [2] Visión Computacional
+Cuello Azul [2] IA para Optimización de Procesos
+Cuello Azul [2] IA para Análisis de Calidad
+
+// Marketing y Ventas
+Marketing y Ventas [10] Cuello Blanco
+Cuello Blanco [1] IA Predictiva
+Cuello Blanco [1] IA para Personalización
+Cuello Blanco [2] IA para Optimización de Precios
+Cuello Blanco [1] Chatbots IA
+Cuello Blanco [2] IA para Análisis de Datos
+Cuello Blanco [1] IA para Análisis de Sentimientos
+Cuello Blanco [1] IA para Clustering
+Cuello Blanco [1] IA para Análisis Comparativo
+
+// Logística de Salida
+Logística de Salida [5] Cuello Blanco
+Logística de Salida [3] Cuello Azul
+Cuello Blanco [2] IA Predictiva
+Cuello Blanco [1] IA para Análisis de Datos
+Cuello Blanco [2] IA para Optimización de Procesos
+Cuello Azul [2] IA para Optimización de Procesos
+Cuello Azul [1] Visión Computacional
+
+// Servicios Posventa
+Servicios Posventa [8] Cuello Blanco
+Cuello Blanco [1] Chatbots IA
+Cuello Blanco [1] IA para Análisis de Sentimientos
+Cuello Blanco [2] IA para Personalización
+Cuello Blanco [1] IA para Análisis de Datos
+Cuello Blanco [1] IA para Evaluación de Impacto
+Cuello Blanco [1] IA Predictiva
+Cuello Blanco [1] IA para Verificación Automática
+
+// Soporte Continuo
+Soporte Continuo [13] Cuello Blanco
+Cuello Blanco [2] IA para Personalización
+Cuello Blanco [3] IA Predictiva
+Cuello Blanco [2] IA para Análisis de Datos
+Cuello Blanco [1] Chatbots IA
+Cuello Blanco [1] IA para Verificación Automática
+Cuello Blanco [1] IA para Optimización de Precios
+Cuello
+
+// === Settings ===
+
+size w 980
+  h 1972
+margin l 12
+  r 12
+  t 18
+  b 4
+bg color #ffffff
+  transparent N
+node w 12
+  h 73.5
+  spacing 80.5
+  border 0
+  theme c
+  color #888888
+  opacity 1
+flow curvature 0.5
+  inheritfrom outside-in
+  color #999999
+  opacity 0.45
+layout order automatic
+  justifyorigins Y
+  justifyends Y
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0.9
+  fontface sans-serif
+  linespacing 0.05
+  relativesize 129
+  magnify 119
+labelname appears Y
+  size 16
+  weight 400
+labelvalue appears N
+  fullprecision Y
+  position below
+  weight 400
+labelposition autoalign -1
+  scheme auto
+  first before
+  breakpoint 4
+value format ',.'
+  prefix ''
+  suffix ''
+themeoffset a 6
+  b 0
+  c 1
+  d 0
+meta mentionsankeymatic Y
+  listimbalances Y
+
+// === Moved Nodes ===
+
+move Transformación Digital -1.02941, -0.15303

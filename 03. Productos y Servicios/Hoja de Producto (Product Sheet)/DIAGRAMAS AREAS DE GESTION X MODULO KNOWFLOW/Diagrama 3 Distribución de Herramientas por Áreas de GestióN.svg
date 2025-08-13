@@ -1,0 +1,499 @@
+<svg height="1972" width="980" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 3/6/2025, 20:20:56 -->
+<rect height="1972" width="980" fill="#ffffff"></rect>
+<g transform="translate(221.36619,18)">
+<g id="sankey_flows">
+<path id="flow11" d="M177.45462 487.17439C391.63654 487.17439 391.63654 639.92866 605.81845 639.92866" fill="none" stroke-width="64.57589" stroke="#a6761d" opacity="0.45"><title>Cadena de Suministro Extendida → SRM: 5</title></path>
+<path id="flow47" d="M146.90915 1855.97596C376.3638 1855.97596 376.3638 1868.6208 605.81845 1868.6208" fill="none" stroke-width="64.57589" stroke="#66a61e" opacity="0.45"><title>Conocimiento → KMS: 5</title></path>
+<path id="flow12" d="M177.45462 390.31055C391.63654 390.31055 391.63654 261.97589 605.81845 261.97589" fill="none" stroke-width="51.66071" stroke="#a6761d" opacity="0.45"><title>Cadena de Suministro Extendida → WMS: 4</title></path>
+<path id="flow20" d="M12 876.65671C308.90923 876.65671 308.90923 928.49018 605.81845 928.49018" fill="none" stroke-width="51.66071" stroke="#a6761d" opacity="0.45"><title>Producción y Manufactura → MES: 4</title></path>
+<path id="flow23" d="M182.54553 656.59294C394.18199 656.59294 394.18199 757.97946 605.81845 757.97946" fill="none" stroke-width="51.66071" stroke="#7570b3" opacity="0.45"><title>Comercial → CRM: 4</title></path>
+<path id="flow45" d="M145.63642 1360.69492C375.72744 1360.69492 375.72744 1363.54625 605.81845 1363.54625" fill="none" stroke-width="51.66071" stroke="#7570b3" opacity="0.45"><title>Calidad → QMS: 4</title></path>
+<path id="flow49" d="M12 975.33475C308.90923 975.33475 308.90923 1001.33786 605.81845 1001.33786" fill="none" stroke-width="51.66071" stroke="#666666" opacity="0.45"><title>Sostenibilidad y RSE → ESG Tool: 4</title></path>
+<path id="flow37" d="M12 1586.61427v38.74554L605.81845 1623.44821v-38.74554z" fill="#1b9e77" stroke-width="0.5" stroke="#1b9e77" opacity="0.45"><title>IT/Soporte → ITSM: 3</title></path>
+<path id="flow41" d="M269.09102 1752.67158C437.45474 1752.67158 437.45474 1727.56884 605.81845 1727.56884" fill="none" stroke-width="38.74554" stroke="#a6761d" opacity="0.45"><title>Financiera → ERP Financiero: 3</title></path>
+<path id="flow43" d="M12 1785.78454C308.90923 1785.78454 308.90923 1808.6883 605.81845 1808.6883" fill="none" stroke-width="38.74554" stroke="#1b9e77" opacity="0.45"><title>Riesgos y Cumplimiento → GRC: 3</title></path>
+<path id="flow53" d="M12 707.76508C308.90923 707.76508 308.90923 422.40063 605.81845 422.40063" fill="none" stroke-width="38.74554" stroke="#d95f02" opacity="0.45"><title>Ciberseguridad y Protección de Datos → SIEM: 3</title></path>
+<path id="flow0" d="M12 304.09781C308.90923 304.09781 308.90923 189.12821 605.81845 189.12821" fill="none" stroke-width="25.83036" stroke="#d95f02" opacity="0.45"><title>Estratégica y Planificación Corporativa → Software de Planificación: 2</title></path>
+<path id="flow8" d="M12 90.40625C308.90923 90.40625 308.90923 390.11268 605.81845 390.11268" fill="none" stroke-width="25.83036" stroke="#66a61e" opacity="0.45"><title>Transformación Digital → SIEM: 2</title></path>
+<path id="flow9" d="M12 244.16531C308.90923 244.16531 308.90923 223.23036 605.81845 223.23036" fill="none" stroke-width="25.83036" stroke="#66a61e" opacity="0.45"><title>Logística/Operativa → WMS: 2</title></path>
+<path id="flow10" d="M12 269.99567C308.90923 269.99567 308.90923 308.99321 605.81845 308.99321" fill="none" stroke-width="25.83036" stroke="#66a61e" opacity="0.45"><title>Logística/Operativa → TMS: 2</title></path>
+<path id="flow13" d="M177.45462 429.05609C391.63654 429.05609 391.63654 334.82357 605.81845 334.82357" fill="none" stroke-width="25.83036" stroke="#a6761d" opacity="0.45"><title>Cadena de Suministro Extendida → TMS: 2</title></path>
+<path id="flow19" d="M12 1308.72018C308.90923 1308.72018 308.90923 1324.80071 605.81845 1324.80071" fill="none" stroke-width="25.83036" stroke="#e7298a" opacity="0.45"><title>Innovación y Desarrollo de Productos (I+D) → QMS: 2</title></path>
+<path id="flow28" d="M182.54553 566.18669C394.18199 566.18669 394.18199 475.87554 605.81845 475.87554" fill="none" stroke-width="25.83036" stroke="#7570b3" opacity="0.45"><title>Comercial → BI Tool: 2</title></path>
+<path id="flow29" d="M12 1146.86046C308.90923 1146.86046 308.90923 1193.03554 605.81845 1193.03554" fill="none" stroke-width="25.83036" stroke="#666666" opacity="0.45"><title>Experiencia del Cliente (CX) → Helpdesk: 2</title></path>
+<path id="flow30" d="M12 1172.69082C308.90923 1172.69082 308.90923 1227.13768 605.81845 1227.13768" fill="none" stroke-width="25.83036" stroke="#666666" opacity="0.45"><title>Experiencia del Cliente (CX) → CX Tool: 2</title></path>
+<path id="flow33" d="M12 1121.0301C308.90923 1121.0301 308.90923 796.725 605.81845 796.725" fill="none" stroke-width="25.83036" stroke="#666666" opacity="0.45"><title>Experiencia del Cliente (CX) → CRM: 2</title></path>
+<path id="flow39" d="M269.09102 1677.98C437.45474 1677.98 437.45474 1665.82214 605.81845 1665.82214" fill="none" stroke-width="25.83036" stroke="#e7298a" opacity="0.45"><title>Administrativa → DMS: 2</title></path>
+<path id="flow52" d="M12 1026.99546C308.90923 1026.99546 308.90923 1111.91607 605.81845 1111.91607" fill="none" stroke-width="25.83036" stroke="#666666" opacity="0.45"><title>Sostenibilidad y RSE → CSR Platform: 2</title></path>
+<path id="flow57" d="M12 1475.6025C308.90923 1475.6025 308.90923 1444.66571 605.81845 1444.66571" fill="none" stroke-width="25.83036" stroke="#e7298a" opacity="0.45"><title>Innovación → CAD/PLM: 2</title></path>
+<path id="flow62" d="M12 787.07035C308.90923 787.07035 308.90923 501.70589 605.81845 501.70589" fill="none" stroke-width="25.83036" stroke="#a6761d" opacity="0.45"><title>Competitividad → BI Tool: 2</title></path>
+<path id="flow63" d="M12 1083.33058C308.90923 1083.33058 308.90923 698.04696 605.81845 698.04696" fill="none" stroke-width="25.83036" stroke="#d95f02" opacity="0.45"><title>Alianzas Estratégicas → SRM: 2</title></path>
+<path id="flow1" d="M12 323.47058C308.90923 323.47058 308.90923 456.50277 605.81845 456.50277" fill="none" stroke-width="12.91518" stroke="#d95f02" opacity="0.45"><title>Estratégica y Planificación Corporativa → BI Tool: 1</title></path>
+<path id="flow2" d="M12 6.45759C308.90923 6.45759 308.90923 55.54884 605.81845 55.54884" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Transformación Digital → RPA: 1</title></path>
+<path id="flow3" d="M12 19.37277C308.90923 19.37277 308.90923 76.7358 605.81845 76.7358" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Transformación Digital → WMS con RFID: 1</title></path>
+<path id="flow4" d="M12 32.28795C308.90923 32.28795 308.90923 97.92277 605.81845 97.92277" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Transformación Digital → E-commerce Platform: 1</title></path>
+<path id="flow5" d="M12 45.20313C308.90923 45.20313 308.90923 119.10973 605.81845 119.10973" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Transformación Digital → Payment Gateway: 1</title></path>
+<path id="flow6" d="M12 58.1183C308.90923 58.1183 308.90923 140.2967 605.81845 140.2967" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Transformación Digital → IoT Platform: 1</title></path>
+<path id="flow7" d="M12 71.03348C308.90923 71.03348 308.90923 161.48366 605.81845 161.48366" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Transformación Digital → QMS con Visión: 1</title></path>
+<path id="flow14" d="M177.45462 448.42886C391.63654 448.42886 391.63654 362.46813 605.81845 362.46813" fill="none" stroke-width="12.91518" stroke="#a6761d" opacity="0.45"><title>Cadena de Suministro Extendida → WMS/CRM: 1</title></path>
+<path id="flow15" d="M177.45462 538.83511C391.63654 538.83511 391.63654 969.04991 605.81845 969.04991" fill="none" stroke-width="12.91518" stroke="#a6761d" opacity="0.45"><title>Cadena de Suministro Extendida → ESG Tool: 1</title></path>
+<path id="flow16" d="M177.45462 525.91993C391.63654 525.91993 391.63654 725.69152 605.81845 725.69152" fill="none" stroke-width="12.91518" stroke="#a6761d" opacity="0.45"><title>Cadena de Suministro Extendida → CRM: 1</title></path>
+<path id="flow17" d="M12 1289.34741C308.90923 1289.34741 308.90923 1297.15616 605.81845 1297.15616" fill="none" stroke-width="12.91518" stroke="#e7298a" opacity="0.45"><title>Innovación y Desarrollo de Productos (I+D) → CAD: 1</title></path>
+<path id="flow18" d="M12 1328.09295C308.90923 1328.09295 308.90923 1425.29295 605.81845 1425.29295" fill="none" stroke-width="12.91518" stroke="#e7298a" opacity="0.45"><title>Innovación y Desarrollo de Productos (I+D) → CAD/PLM: 1</title></path>
+<path id="flow21" d="M12 908.94466C308.90923 908.94466 308.90923 1041.89759 605.81845 1041.89759" fill="none" stroke-width="12.91518" stroke="#a6761d" opacity="0.45"><title>Producción y Manufactura → MES/QMS: 1</title></path>
+<path id="flow22" d="M12 921.85984C308.90923 921.85984 308.90923 1063.08455 605.81845 1063.08455" fill="none" stroke-width="12.91518" stroke="#a6761d" opacity="0.45"><title>Producción y Manufactura → ERP/MES: 1</title></path>
+<path id="flow24" d="M182.54553 585.55946C394.18199 585.55946 394.18199 529.35045 605.81845 529.35045" fill="none" stroke-width="12.91518" stroke="#7570b3" opacity="0.45"><title>Comercial → CPQ: 1</title></path>
+<path id="flow25" d="M182.54553 598.47464C394.18199 598.47464 394.18199 550.53741 605.81845 550.53741" fill="none" stroke-width="12.91518" stroke="#7570b3" opacity="0.45"><title>Comercial → CRM/CPQ: 1</title></path>
+<path id="flow26" d="M182.54553 611.38981C394.18199 611.38981 394.18199 571.72438 605.81845 571.72438" fill="none" stroke-width="12.91518" stroke="#7570b3" opacity="0.45"><title>Comercial → Marketing Automation: 1</title></path>
+<path id="flow27" d="M182.54553 624.30499C394.18199 624.30499 394.18199 592.91134 605.81845 592.91134" fill="none" stroke-width="12.91518" stroke="#7570b3" opacity="0.45"><title>Comercial → POS System: 1</title></path>
+<path id="flow31" d="M12 1192.06359C308.90923 1192.06359 308.90923 1254.78223 605.81845 1254.78223" fill="none" stroke-width="12.91518" stroke="#666666" opacity="0.45"><title>Experiencia del Cliente (CX) → Social Media Monitoring Tool: 1</title></path>
+<path id="flow32" d="M12 1204.97876C308.90923 1204.97876 308.90923 1275.9692 605.81845 1275.9692" fill="none" stroke-width="12.91518" stroke="#666666" opacity="0.45"><title>Experiencia del Cliente (CX) → CRM/Helpdesk: 1</title></path>
+<path id="flow34" d="M12 1435.04277C308.90923 1435.04277 308.90923 1472.31027 605.81845 1472.31027" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Recursos Humanos → ATS: 1</title></path>
+<path id="flow35" d="M12 1422.12759C308.90923 1422.12759 308.90923 1165.39098 605.81845 1165.39098" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Recursos Humanos → LMS: 1</title></path>
+<path id="flow36" d="M12 1447.95795C308.90923 1447.95795 308.90923 1493.49723 605.81845 1493.49723" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Recursos Humanos → HRMS: 1</title></path>
+<path id="flow38" d="M12 1631.81739C308.90923 1631.81739 308.90923 1638.17759 605.81845 1638.17759" fill="none" stroke-width="12.91518" stroke="#1b9e77" opacity="0.45"><title>IT/Soporte → CMMS: 1</title></path>
+<path id="flow40" d="M269.09102 1697.35277C437.45474 1697.35277 437.45474 1693.4667 605.81845 1693.4667" fill="none" stroke-width="12.91518" stroke="#e7298a" opacity="0.45"><title>Administrativa → ERP: 1</title></path>
+<path id="flow42" d="M269.09102 1778.50194C437.45474 1778.50194 437.45474 1774.58616 605.81845 1774.58616" fill="none" stroke-width="12.91518" stroke="#a6761d" opacity="0.45"><title>Financiera → Tesorería: 1</title></path>
+<path id="flow44" d="M12 1759.95418C308.90923 1759.95418 308.90923 1753.3992 605.81845 1753.3992" fill="none" stroke-width="12.91518" stroke="#1b9e77" opacity="0.45"><title>Riesgos y Cumplimiento → ERP Financiero: 1</title></path>
+<path id="flow46" d="M145.63642 1392.98287C375.72744 1392.98287 375.72744 1404.10598 605.81845 1404.10598" fill="none" stroke-width="12.91518" stroke="#7570b3" opacity="0.45"><title>Calidad → Lean Management Tool: 1</title></path>
+<path id="flow48" d="M146.90915 1817.23043C376.3638 1817.23043 376.3638 1527.59937 605.81845 1527.59937" fill="none" stroke-width="12.91518" stroke="#66a61e" opacity="0.45"><title>Conocimiento → Collaboration Platform: 1</title></path>
+<path id="flow50" d="M12 1007.62269C308.90923 1007.62269 308.90923 1084.27152 605.81845 1084.27152" fill="none" stroke-width="12.91518" stroke="#666666" opacity="0.45"><title>Sostenibilidad y RSE → ESG Reporting Tool: 1</title></path>
+<path id="flow51" d="M12 943.0468C308.90923 943.0468 308.90923 678.6742 605.81845 678.6742" fill="none" stroke-width="12.91518" stroke="#666666" opacity="0.45"><title>Sostenibilidad y RSE → SRM: 1</title></path>
+<path id="flow54" d="M12 759.4258C308.90923 759.4258 308.90923 1152.4758 605.81845 1152.4758" fill="none" stroke-width="12.91518" stroke="#d95f02" opacity="0.45"><title>Ciberseguridad y Protección de Datos → LMS: 1</title></path>
+<path id="flow55" d="M12 733.59544C308.90923 733.59544 308.90923 824.36955 605.81845 824.36955" fill="none" stroke-width="12.91518" stroke="#d95f02" opacity="0.45"><title>Ciberseguridad y Protección de Datos → DLP Solution: 1</title></path>
+<path id="flow56" d="M12 746.51062C308.90923 746.51062 308.90923 845.55652 605.81845 845.55652" fill="none" stroke-width="12.91518" stroke="#d95f02" opacity="0.45"><title>Ciberseguridad y Protección de Datos → Backup Solution: 1</title></path>
+<path id="flow58" d="M12 1494.97527C308.90923 1494.97527 308.90923 1548.78634 605.81845 1548.78634" fill="none" stroke-width="12.91518" stroke="#e7298a" opacity="0.45"><title>Innovación → Digital Printing Solution: 1</title></path>
+<path id="flow59" d="M12 1507.89045C308.90923 1507.89045 308.90923 1569.9733 605.81845 1569.9733" fill="none" stroke-width="12.91518" stroke="#e7298a" opacity="0.45"><title>Innovación → MES/RPA: 1</title></path>
+<path id="flow60" d="M12 806.44312C308.90923 806.44312 308.90923 866.74348 605.81845 866.74348" fill="none" stroke-width="12.91518" stroke="#a6761d" opacity="0.45"><title>Competitividad → CRM/Marketing Automation: 1</title></path>
+<path id="flow61" d="M12 819.3583C308.90923 819.3583 308.90923 887.93045 605.81845 887.93045" fill="none" stroke-width="12.91518" stroke="#a6761d" opacity="0.45"><title>Competitividad → CPQ/CRM: 1</title></path>
+<path id="flow64" d="M12 1115.61852C308.90923 1115.61852 308.90923 1514.6842 605.81845 1514.6842" fill="none" stroke-width="12.91518" stroke="#d95f02" opacity="0.45"><title>Alianzas Estratégicas → Collaboration Platform: 1</title></path>
+<path id="flow65" d="M12 1102.70334C308.90923 1102.70334 308.90923 1131.28884 605.81845 1131.28884" fill="none" stroke-width="12.91518" stroke="#d95f02" opacity="0.45"><title>Alianzas Estratégicas → CSR Platform: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="291.18263" height="38.74554" width="12" fill="#d95f02" fill-opacity="1"><title>Estratégica y Planificación Corporativa:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="605.81845" y="176.21304" height="25.83036" width="12" fill="#7570b3" fill-opacity="1"><title>Software de Planificación:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="605.81845" y="450.04518" height="64.57589" width="12" fill="#e7298a" fill-opacity="1"><title>BI Tool:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="0" y="119.65692" height="103.32143" width="12" fill="#66a61e" fill-opacity="1" transform="translate(0,-119.65692)"><title>Transformación Digital:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="605.81845" y="49.09125" height="12.91518" width="12" fill="#e6ab02" fill-opacity="1"><title>RPA:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="605.81845" y="70.27821" height="12.91518" width="12" fill="#a6761d" fill-opacity="1"><title>WMS con RFID:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="605.81845" y="91.46518" height="12.91518" width="12" fill="#666666" fill-opacity="1"><title>E-commerce Platform:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="605.81845" y="112.65214" height="12.91518" width="12" fill="#1b9e77" fill-opacity="1"><title>Payment Gateway:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="605.81845" y="133.83911" height="12.91518" width="12" fill="#d95f02" fill-opacity="1"><title>IoT Platform:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="605.81845" y="155.02607" height="12.91518" width="12" fill="#7570b3" fill-opacity="1"><title>QMS con Visión:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="605.81845" y="377.1975" height="64.57589" width="12" fill="#e7298a" fill-opacity="1"><title>SIEM:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="0" y="231.25013" height="51.66071" width="12" fill="#66a61e" fill-opacity="1"><title>Logística/Operativa:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="605.81845" y="210.31518" height="77.49107" width="12" fill="#a6761d" fill-opacity="1"><title>WMS:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="605.81845" y="296.07804" height="51.66071" width="12" fill="#e6ab02" fill-opacity="1"><title>TMS:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="0" y="361.88446" height="180.8125" width="12" fill="#a6761d" fill-opacity="1" transform="translate(165.45462,2.59574)"><title>Cadena de Suministro Extendida:
+14</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="605.81845" y="607.64071" height="103.32143" width="12" fill="#666666" fill-opacity="1"><title>SRM:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="605.81845" y="356.01054" height="12.91518" width="12" fill="#1b9e77" fill-opacity="1"><title>WMS/CRM:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="605.81845" y="962.59232" height="64.57589" width="12" fill="#d95f02" fill-opacity="1"><title>ESG Tool:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="605.81845" y="719.23393" height="90.40625" width="12" fill="#7570b3" fill-opacity="1"><title>CRM:
+7</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="0" y="1282.88982" height="51.66071" width="12" fill="#e7298a" fill-opacity="1"><title>Innovación y Desarrollo de Productos (I+D):
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="605.81845" y="1290.69857" height="12.91518" width="12" fill="#66a61e" fill-opacity="1"><title>CAD:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="605.81845" y="1418.83536" height="38.74554" width="12" fill="#e6ab02" fill-opacity="1"><title>CAD/PLM:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="605.81845" y="1311.88554" height="77.49107" width="12" fill="#7570b3" fill-opacity="1"><title>QMS:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="0" y="850.82635" height="77.49107" width="12" fill="#a6761d" fill-opacity="1"><title>Producción y Manufactura:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="605.81845" y="902.65982" height="51.66071" width="12" fill="#666666" fill-opacity="1"><title>MES:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="605.81845" y="1035.44" height="12.91518" width="12" fill="#1b9e77" fill-opacity="1"><title>MES/QMS:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="605.81845" y="1056.62696" height="12.91518" width="12" fill="#d95f02" fill-opacity="1"><title>ERP/MES:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="0" y="550.96874" height="129.15179" width="12" fill="#7570b3" fill-opacity="1" transform="translate(170.54553,2.30277)"><title>Comercial:
+10</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="605.81845" y="522.89286" height="12.91518" width="12" fill="#e7298a" fill-opacity="1"><title>CPQ:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="605.81845" y="544.07982" height="12.91518" width="12" fill="#66a61e" fill-opacity="1"><title>CRM/CPQ:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="605.81845" y="565.26679" height="12.91518" width="12" fill="#e6ab02" fill-opacity="1"><title>Marketing Automation:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="605.81845" y="586.45375" height="12.91518" width="12" fill="#a6761d" fill-opacity="1"><title>POS System:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="0" y="1108.11492" height="103.32143" width="12" fill="#666666" fill-opacity="1"><title>Experiencia del Cliente (CX):
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="605.81845" y="1180.12036" height="25.83036" width="12" fill="#1b9e77" fill-opacity="1"><title>Helpdesk:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="605.81845" y="1214.2225" height="25.83036" width="12" fill="#d95f02" fill-opacity="1"><title>CX Tool:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="605.81845" y="1248.32464" height="12.91518" width="12" fill="#7570b3" fill-opacity="1"><title>Social Media Monitoring Tool:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="605.81845" y="1269.51161" height="12.91518" width="12" fill="#e7298a" fill-opacity="1"><title>CRM/Helpdesk:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="0" y="1415.67" height="38.74554" width="12" fill="#66a61e" fill-opacity="1"><title>Recursos Humanos:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r38" class="for_r38" x="605.81845" y="1465.85268" height="12.91518" width="12" fill="#e6ab02" fill-opacity="1"><title>ATS:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r39" class="for_r39" x="605.81845" y="1146.01821" height="25.83036" width="12" fill="#a6761d" fill-opacity="1"><title>LMS:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r40" class="for_r40" x="605.81845" y="1487.03964" height="12.91518" width="12" fill="#666666" fill-opacity="1"><title>HRMS:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r41" class="for_r41" x="0" y="1586.61427" height="51.66071" width="12" fill="#1b9e77" fill-opacity="1"><title>IT/Soporte:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r42" class="for_r42" x="605.81845" y="1584.70268" height="38.74554" width="12" fill="#d95f02" fill-opacity="1"><title>ITSM:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r43" class="for_r43" x="605.81845" y="1631.72" height="12.91518" width="12" fill="#7570b3" fill-opacity="1"><title>CMMS:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r44" class="for_r44" x="0" y="1646.54677" height="38.74554" width="12" fill="#e7298a" fill-opacity="1" transform="translate(257.09102,18.51805)"><title>Administrativa:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r45" class="for_r45" x="605.81845" y="1652.90696" height="25.83036" width="12" fill="#66a61e" fill-opacity="1"><title>DMS:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r46" class="for_r46" x="605.81845" y="1687.00911" height="12.91518" width="12" fill="#e6ab02" fill-opacity="1"><title>ERP:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r47" class="for_r47" x="0" y="1693.56409" height="51.66071" width="12" fill="#a6761d" fill-opacity="1" transform="translate(257.09102,39.73473)"><title>Financiera:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r48" class="for_r48" x="605.81845" y="1708.19607" height="51.66071" width="12" fill="#e6ab02" fill-opacity="1"><title>ERP Financiero:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r49" class="for_r49" x="605.81845" y="1768.12857" height="12.91518" width="12" fill="#666666" fill-opacity="1"><title>Tesorería:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r50" class="for_r50" x="0" y="1753.49659" height="51.66071" width="12" fill="#1b9e77" fill-opacity="1"><title>Riesgos y Cumplimiento:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r51" class="for_r51" x="605.81845" y="1789.31554" height="38.74554" width="12" fill="#d95f02" fill-opacity="1"><title>GRC:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r52" class="for_r52" x="0" y="1342.82232" height="64.57589" width="12" fill="#7570b3" fill-opacity="1" transform="translate(133.63642,-7.95776)"><title>Calidad:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r53" class="for_r53" x="605.81845" y="1397.64839" height="12.91518" width="12" fill="#e7298a" fill-opacity="1"><title>Lean Management Tool:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r54" class="for_r54" x="0" y="1813.42909" height="77.49107" width="12" fill="#66a61e" fill-opacity="1" transform="translate(134.90915,-2.65625)"><title>Conocimiento:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r55" class="for_r55" x="605.81845" y="1836.33286" height="64.57589" width="12" fill="#e6ab02" fill-opacity="1"><title>KMS:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r56" class="for_r56" x="605.81845" y="1508.22661" height="25.83036" width="12" fill="#a6761d" fill-opacity="1"><title>Collaboration Platform:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r57" class="for_r57" x="0" y="936.58921" height="103.32143" width="12" fill="#666666" fill-opacity="1"><title>Sostenibilidad y RSE:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r58" class="for_r58" x="605.81845" y="1077.81393" height="12.91518" width="12" fill="#d95f02" fill-opacity="1"><title>ESG Reporting Tool:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r59" class="for_r59" x="605.81845" y="1099.00089" height="38.74554" width="12" fill="#1b9e77" fill-opacity="1"><title>CSR Platform:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r60" class="for_r60" x="0" y="688.39232" height="77.49107" width="12" fill="#d95f02" fill-opacity="1"><title>Ciberseguridad y Protección de Datos:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r61" class="for_r61" x="605.81845" y="817.91196" height="12.91518" width="12" fill="#7570b3" fill-opacity="1"><title>DLP Solution:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r62" class="for_r62" x="605.81845" y="839.09893" height="12.91518" width="12" fill="#e7298a" fill-opacity="1"><title>Backup Solution:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r63" class="for_r63" x="0" y="1462.68732" height="51.66071" width="12" fill="#e7298a" fill-opacity="1"><title>Innovación:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r64" class="for_r64" x="605.81845" y="1542.32875" height="12.91518" width="12" fill="#66a61e" fill-opacity="1"><title>Digital Printing Solution:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r65" class="for_r65" x="605.81845" y="1563.51571" height="12.91518" width="12" fill="#e6ab02" fill-opacity="1"><title>MES/RPA:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r66" class="for_r66" x="0" y="774.15517" height="51.66071" width="12" fill="#a6761d" fill-opacity="1"><title>Competitividad:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r67" class="for_r67" x="605.81845" y="860.28589" height="12.91518" width="12" fill="#666666" fill-opacity="1"><title>CRM/Marketing Automation:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r68" class="for_r68" x="605.81845" y="881.47286" height="12.91518" width="12" fill="#1b9e77" fill-opacity="1"><title>CPQ/CRM:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r69" class="for_r69" x="0" y="1048.18242" height="51.66071" width="12" fill="#d95f02" fill-opacity="1" transform="translate(0,22.23297)"><title>Alianzas Estratégicas:
+4</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="268.63381" y="1947" font-size="15.49333px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-180.15911" y="301.74539" width="179.04031" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="310.5554" font-weight="400" font-size="9.86572px" dy="3.19">Estratégica y Planificación Corporativa</text>
+<rect id="label1_bg" class="for_r1" x="619.45112" y="180.31821" width="117.43699" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="624.11599" y="189.12821" font-weight="400" font-size="9.53366px" dy="3.19">Software de Planificación</text>
+<rect id="label2_bg" class="for_r2" x="619.45112" y="472.81314" width="42.3632" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="start" x="624.11599" y="482.33313" font-weight="400" font-size="10.52985px" dy="3.48">BI Tool</text>
+<rect id="label3_bg" class="for_r3" x="-126.17473" y="161.79762" width="124.98184" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-119.65692)"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="-6.29754" y="171.31763" font-weight="400" font-size="11.52603px" dy="3.48" transform="translate(0,-119.65692)">Transformación Digital</text>
+<rect id="label4_bg" class="for_r4" x="619.45112" y="47.44884" width="28.82694" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="624.11599" y="55.54884" font-weight="400" font-size="9.2016px" dy="2.9">RPA</text>
+<rect id="label5_bg" class="for_r5" x="618.45112" y="68.6358" width="74.97788" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="624.11599" y="76.7358" font-weight="400" font-size="9.2016px" dy="2.9">WMS con RFID</text>
+<rect id="label6_bg" class="for_r6" x="619.45112" y="89.82277" width="99.01554" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="624.11599" y="97.92277" font-weight="400" font-size="9.2016px" dy="2.9">E-commerce Platform</text>
+<rect id="label7_bg" class="for_r7" x="619.45112" y="111.00974" width="85.29716" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="624.11599" y="119.10973" font-weight="400" font-size="9.2016px" dy="2.9">Payment Gateway</text>
+<rect id="label8_bg" class="for_r8" x="619.45112" y="132.1967" width="60.00089" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="624.11599" y="140.2967" font-weight="400" font-size="9.2016px" dy="2.9">IoT Platform</text>
+<rect id="label9_bg" class="for_r9" x="619.45112" y="153.38365" width="75.52641" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="624.11599" y="161.48366" font-weight="400" font-size="9.2016px" dy="2.9">QMS con Visión</text>
+<rect id="label10_bg" class="for_r10" x="619.45112" y="399.96545" width="35.68583" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="624.11599" y="409.48545" font-weight="400" font-size="10.52985px" dy="3.48">SIEM</text>
+<rect id="label11_bg" class="for_r11" x="-99.1591" y="248.27048" width="97.85644" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="end" x="-6.29754" y="257.08049" font-weight="400" font-size="10.19778px" dy="3.19">Logística/Operativa</text>
+<rect id="label12_bg" class="for_r12" x="618.45112" y="239.54071" width="38.02616" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="624.11599" y="249.06071" font-weight="400" font-size="10.86191px" dy="3.48">WMS</text>
+<rect id="label13_bg" class="for_r13" x="618.45112" y="313.09839" width="32.4423" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="624.11599" y="321.90839" font-weight="400" font-size="10.19778px" dy="3.19">TMS</text>
+<rect id="label14_bg" class="for_r14" x="-208.89348" y="441.64072" width="207.73351" height="21" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(165.45462,2.59574)"></rect>
+<text id="label14" class="for_r14" text-anchor="end" x="-6.29754" y="452.29071" font-weight="400" font-size="13.5184px" dy="4.35" transform="translate(165.45462,2.59574)">Cadena de Suministro Extendida</text>
+<rect id="label15_bg" class="for_r15" x="619.45112" y="649.78143" width="35.73264" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="624.11599" y="659.30143" font-weight="400" font-size="11.52603px" dy="3.48">SRM</text>
+<rect id="label16_bg" class="for_r16" x="618.45112" y="354.36813" width="57.0568" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="624.11599" y="362.46813" font-weight="400" font-size="9.2016px" dy="2.9">WMS/CRM</text>
+<rect id="label17_bg" class="for_r17" x="619.45112" y="985.36023" width="54.63993" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="624.11599" y="994.88027" font-weight="400" font-size="10.52985px" dy="3.48">ESG Tool</text>
+<rect id="label18_bg" class="for_r18" x="619.45112" y="754.91705" width="35.21391" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="start" x="624.11599" y="764.43705" font-weight="400" font-size="11.19397px" dy="3.48">CRM</text>
+<rect id="label19_bg" class="for_r19" x="-206.48723" y="1299.91016" width="205.45353" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="end" x="-6.29754" y="1308.72018" font-weight="400" font-size="10.19778px" dy="3.19">Innovación y Desarrollo de Productos (I+D)</text>
+<rect id="label20_bg" class="for_r20" x="619.45112" y="1289.05615" width="29.5098" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="624.11599" y="1297.15616" font-weight="400" font-size="9.2016px" dy="2.9">CAD</text>
+<rect id="label21_bg" class="for_r21" x="619.45112" y="1429.39807" width="53.57328" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="start" x="624.11599" y="1438.20812" font-weight="400" font-size="9.86572px" dy="3.19">CAD/PLM</text>
+<rect id="label22_bg" class="for_r22" x="619.45112" y="1341.11108" width="35.22324" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="start" x="624.11599" y="1350.63107" font-weight="400" font-size="10.86191px" dy="3.48">QMS</text>
+<rect id="label23_bg" class="for_r23" x="-137.53411" y="880.05188" width="135.90141" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="end" x="-6.29754" y="889.57189" font-weight="400" font-size="10.86191px" dy="3.48">Producción y Manufactura</text>
+<rect id="label24_bg" class="for_r24" x="619.45112" y="919.68018" width="32.0145" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="624.11599" y="928.49018" font-weight="400" font-size="10.19778px" dy="3.19">MES</text>
+<rect id="label25_bg" class="for_r25" x="619.45112" y="1033.79761" width="53.18266" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="624.11599" y="1041.89759" font-weight="400" font-size="9.2016px" dy="2.9">MES/QMS</text>
+<rect id="label26_bg" class="for_r26" x="619.45112" y="1054.98462" width="51.15141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="start" x="624.11599" y="1063.08455" font-weight="400" font-size="9.2016px" dy="2.9">ERP/MES</text>
+<rect id="label27_bg" class="for_r27" x="-66.23723" y="605.60461" width="64.88816" height="20" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(170.54553,2.30277)"></rect>
+<text id="label27" class="for_r27" text-anchor="end" x="-6.29754" y="615.54464" font-weight="400" font-size="12.19015px" dy="4.06" transform="translate(170.54553,2.30277)">Comercial</text>
+<rect id="label28_bg" class="for_r28" x="619.45112" y="521.25049" width="29.66703" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="start" x="624.11599" y="529.35045" font-weight="400" font-size="9.2016px" dy="2.9">CPQ</text>
+<rect id="label29_bg" class="for_r29" x="619.45112" y="542.43744" width="53.18266" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="start" x="624.11599" y="550.53741" font-weight="400" font-size="9.2016px" dy="2.9">CRM/CPQ</text>
+<rect id="label30_bg" class="for_r30" x="619.45112" y="563.62439" width="98.71391" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="start" x="624.11599" y="571.72438" font-weight="400" font-size="9.2016px" dy="2.9">Marketing Automation</text>
+<rect id="label31_bg" class="for_r31" x="619.45112" y="584.81134" width="62.72318" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="start" x="624.11599" y="592.91134" font-weight="400" font-size="9.2016px" dy="2.9">POS System</text>
+<rect id="label32_bg" class="for_r32" x="-156.06536" y="1150.25562" width="154.59618" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="end" x="-6.29754" y="1159.77564" font-weight="400" font-size="11.52603px" dy="3.48">Experiencia del Cliente (CX)</text>
+<rect id="label33_bg" class="for_r33" x="619.45112" y="1184.22546" width="50.6945" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="start" x="624.11599" y="1193.03554" font-weight="400" font-size="9.53366px" dy="3.19">Helpdesk</text>
+<rect id="label34_bg" class="for_r34" x="619.45112" y="1218.32764" width="42.93266" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="start" x="624.11599" y="1227.13768" font-weight="400" font-size="9.53366px" dy="3.19">CX Tool</text>
+<rect id="label35_bg" class="for_r35" x="619.45112" y="1246.68225" width="127.18266" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="start" x="624.11599" y="1254.78223" font-weight="400" font-size="9.2016px" dy="2.9">Social Media Monitoring Tool</text>
+<rect id="label36_bg" class="for_r36" x="619.45112" y="1267.86926" width="71.99137" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="start" x="624.11599" y="1275.9692" font-weight="400" font-size="9.2016px" dy="2.9">CRM/Helpdesk</text>
+<rect id="label37_bg" class="for_r37" x="-97.95598" y="1426.23267" width="96.38258" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="end" x="-6.29754" y="1435.04277" font-weight="400" font-size="9.86572px" dy="3.19">Recursos Humanos</text>
+<rect id="label38_bg" class="for_r38" x="618.45112" y="1464.21033" width="27.94828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label38" class="for_r38" text-anchor="start" x="624.11599" y="1472.31027" font-weight="400" font-size="9.2016px" dy="2.9">ATS</text>
+<rect id="label39_bg" class="for_r39" x="619.45112" y="1150.12329" width="29.96818" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label39" class="for_r39" text-anchor="start" x="624.11599" y="1158.93339" font-weight="400" font-size="9.53366px" dy="3.19">LMS</text>
+<rect id="label40_bg" class="for_r40" x="619.45112" y="1485.39722" width="36.82328" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label40" class="for_r40" text-anchor="start" x="624.11599" y="1493.49723" font-weight="400" font-size="9.2016px" dy="2.9">HRMS</text>
+<rect id="label41_bg" class="for_r41" x="-58.94035" y="1603.63452" width="57.63885" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label41" class="for_r41" text-anchor="end" x="-6.29754" y="1612.44462" font-weight="400" font-size="10.19778px" dy="3.19">IT/Soporte</text>
+<rect id="label42_bg" class="for_r42" x="619.45112" y="1595.26538" width="33.29203" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label42" class="for_r42" text-anchor="start" x="624.11599" y="1604.07545" font-weight="400" font-size="9.86572px" dy="3.19">ITSM</text>
+<rect id="label43_bg" class="for_r43" x="619.45112" y="1630.07764" width="37.83891" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label43" class="for_r43" text-anchor="start" x="624.11599" y="1638.17759" font-weight="400" font-size="9.2016px" dy="2.9">CMMS</text>
+<rect id="label44_bg" class="for_r44" x="-74.2841" y="1657.1095" width="73.16445" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(257.09102,18.51805)"></rect>
+<text id="label44" class="for_r44" text-anchor="end" x="-6.29754" y="1665.91954" font-weight="400" font-size="9.86572px" dy="3.19" transform="translate(257.09102,18.51805)">Administrativa</text>
+<rect id="label45_bg" class="for_r45" x="619.45112" y="1657.01208" width="31.55033" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label45" class="for_r45" text-anchor="start" x="624.11599" y="1665.82214" font-weight="400" font-size="9.53366px" dy="3.19">DMS</text>
+<rect id="label46_bg" class="for_r46" x="619.45112" y="1685.3667" width="28.65141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label46" class="for_r46" text-anchor="start" x="624.11599" y="1693.4667" font-weight="400" font-size="9.2016px" dy="2.9">ERP</text>
+<rect id="label47_bg" class="for_r47" x="-58.94035" y="1710.58435" width="57.63885" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(257.09102,39.73473)"></rect>
+<text id="label47" class="for_r47" text-anchor="end" x="-6.29754" y="1719.39445" font-weight="400" font-size="10.19778px" dy="3.19" transform="translate(257.09102,39.73473)">Financiera</text>
+<rect id="label48_bg" class="for_r48" x="619.45112" y="1725.21643" width="81.23802" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label48" class="for_r48" text-anchor="start" x="624.11599" y="1734.02643" font-weight="400" font-size="10.19778px" dy="3.19">ERP Financiero</text>
+<rect id="label49_bg" class="for_r49" x="618.45112" y="1766.48621" width="49.08891" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label49" class="for_r49" text-anchor="start" x="624.11599" y="1774.58616" font-weight="400" font-size="9.2016px" dy="2.9">Tesorería</text>
+<rect id="label50_bg" class="for_r50" x="-121.23723" y="1770.51685" width="119.92812" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label50" class="for_r50" text-anchor="end" x="-6.29754" y="1779.32695" font-weight="400" font-size="10.19778px" dy="3.19">Riesgos y Cumplimiento</text>
+<rect id="label51_bg" class="for_r51" x="619.45112" y="1799.8783" width="32.51951" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label51" class="for_r51" text-anchor="start" x="624.11599" y="1808.6883" font-weight="400" font-size="9.86572px" dy="3.19">GRC</text>
+<rect id="label52_bg" class="for_r52" x="-47.04973" y="1365.59021" width="45.55326" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(133.63642,-7.95776)"></rect>
+<text id="label52" class="for_r52" text-anchor="end" x="-6.29754" y="1375.11027" font-weight="400" font-size="10.52985px" dy="3.48" transform="translate(133.63642,-7.95776)">Calidad</text>
+<rect id="label53_bg" class="for_r53" x="619.45112" y="1396.00598" width="105.72953" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label53" class="for_r53" text-anchor="start" x="624.11599" y="1404.10598" font-weight="400" font-size="9.2016px" dy="2.9">Lean Management Tool</text>
+<rect id="label54_bg" class="for_r54" x="-77.76848" y="1842.65454" width="76.13578" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(134.90915,-2.65625)"></rect>
+<text id="label54" class="for_r54" text-anchor="end" x="-6.29754" y="1852.17462" font-weight="400" font-size="10.86191px" dy="3.48" transform="translate(134.90915,-2.65625)">Conocimiento</text>
+<rect id="label55_bg" class="for_r55" x="619.45112" y="1859.10083" width="33.5095" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label55" class="for_r55" text-anchor="start" x="624.11599" y="1868.6208" font-weight="400" font-size="10.52985px" dy="3.48">KMS</text>
+<rect id="label56_bg" class="for_r56" x="619.45112" y="1512.33179" width="104.07639" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label56" class="for_r56" text-anchor="start" x="624.11599" y="1521.14179" font-weight="400" font-size="9.53366px" dy="3.19">Collaboration Platform</text>
+<rect id="label57_bg" class="for_r57" x="-118.94035" y="978.72992" width="117.62376" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label57" class="for_r57" text-anchor="end" x="-6.29754" y="988.24992" font-weight="400" font-size="11.52603px" dy="3.48">Sostenibilidad y RSE</text>
+<rect id="label58_bg" class="for_r58" x="619.45112" y="1076.17151" width="90.88578" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label58" class="for_r58" text-anchor="start" x="624.11599" y="1084.27152" font-weight="400" font-size="9.2016px" dy="2.9">ESG Reporting Tool</text>
+<rect id="label59_bg" class="for_r59" x="619.45112" y="1109.5636" width="70.01078" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label59" class="for_r59" text-anchor="start" x="624.11599" y="1118.37366" font-weight="400" font-size="9.86572px" dy="3.19">CSR Platform</text>
+<rect id="label60_bg" class="for_r60" x="-194.28411" y="717.61786" width="193.20651" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label60" class="for_r60" text-anchor="end" x="-6.29754" y="727.13785" font-weight="400" font-size="10.86191px" dy="3.48">Ciberseguridad y Protección de Datos</text>
+<rect id="label61_bg" class="for_r61" x="619.45112" y="816.26959" width="63.27641" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label61" class="for_r61" text-anchor="start" x="624.11599" y="824.36955" font-weight="400" font-size="9.2016px" dy="2.9">DLP Solution</text>
+<rect id="label62_bg" class="for_r62" x="619.45112" y="837.45654" width="76.22953" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label62" class="for_r62" text-anchor="start" x="624.11599" y="845.55652" font-weight="400" font-size="9.2016px" dy="2.9">Backup Solution</text>
+<rect id="label63_bg" class="for_r63" x="-60.6591" y="1479.70764" width="59.35044" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label63" class="for_r63" text-anchor="end" x="-6.29754" y="1488.51768" font-weight="400" font-size="10.19778px" dy="3.19">Innovación</text>
+<rect id="label64_bg" class="for_r64" x="619.45112" y="1540.6864" width="104.85453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label64" class="for_r64" text-anchor="start" x="624.11599" y="1548.78634" font-weight="400" font-size="9.2016px" dy="2.9">Digital Printing Solution</text>
+<rect id="label65_bg" class="for_r65" x="619.45112" y="1561.87329" width="51.31931" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label65" class="for_r65" text-anchor="start" x="624.11599" y="1569.9733" font-weight="400" font-size="9.2016px" dy="2.9">MES/RPA</text>
+<rect id="label66_bg" class="for_r66" x="-78.76848" y="791.17554" width="77.46156" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label66" class="for_r66" text-anchor="end" x="-6.29754" y="799.98553" font-weight="400" font-size="10.19778px" dy="3.19">Competitividad</text>
+<rect id="label67_bg" class="for_r67" x="619.45112" y="858.64349" width="122.22953" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label67" class="for_r67" text-anchor="start" x="624.11599" y="866.74348" font-weight="400" font-size="9.2016px" dy="2.9">CRM/Marketing Automation</text>
+<rect id="label68_bg" class="for_r68" x="619.45112" y="879.83044" width="53.50974" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label68" class="for_r68" text-anchor="start" x="624.11599" y="887.93045" font-weight="400" font-size="9.2016px" dy="2.9">CPQ/CRM</text>
+<rect id="label69_bg" class="for_r69" x="-109.7841" y="1065.20276" width="108.15141" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,22.23297)"></rect>
+<text id="label69" class="for_r69" text-anchor="end" x="-6.29754" y="1074.01278" font-weight="400" font-size="10.19778px" dy="3.19" transform="translate(0,22.23297)">Alianzas Estratégicas</text>
+</g>
+</g></svg>

@@ -1,0 +1,742 @@
+﻿Módulo;Función principal
+Almacén;Gestión de Productos
+Almacén;Generación e Impresión de Código de Barras
+Almacén;Manejo de Lotes
+Almacén;Manejo de Serie de Productos
+Almacén;Generar múltiples almacenes
+Almacén;Salida de Productos en diferentes unidades
+Almacén;Salida por Centro de Costos
+Almacén;Generar Guía de Despacho
+Almacén;Transferencia entre Almacenes
+Almacén;Toma de Inventario
+Almacén;Reposición de Stock
+Almacén;Compras Directas sin Orden de Compra
+Almacén;Manejo de Fórmula y Receta
+Almacén;Consulta de Stock
+Almacén;Consulta de Movimiento por Producto
+Almacén;Reportes Estadísticos: Stock Actual
+Almacén;Stock por almacenes
+Almacén;Inventario Unidades
+Almacén;Inventario Valorizado
+Almacén;Costo de Ventas
+Almacén;Saldo Valorizado
+Almacén;Stock por Lotes
+Almacén;Movimientos por Producto
+Almacén;Movimientos por almacén
+Almacén;Resumen de Despacho.
+Compras;Registro de Compras
+Compras;Gestión de Proveedores
+Compras;Estado de Cuenta por Proveedor
+Compras;Manejo de Cartera Proveedores
+Compras;Generación de Orden de Compra
+Compras;Aprobación Electrónica de Orden de Compra
+Compras;Mercadería por Recibir
+Compras;Mercadería en Tránsito
+Compras;Gestión y control de Requerimientos
+Compras;Registro de Documentos de Proveedor
+Compras;Registro de Gastos
+Compras;Manejo de Centro de Costos
+Compras;Gastos por Centro de Costo
+Compras;Control de Gastos
+Compras;Registro Declaración de Importación
+Compras;Prorrateo de Costos Automático y Manual
+Compras;Costo de Importación
+Compras;Transferencia de Costos
+Compras;Reporte de Costo de Importación
+Compras;Reportes Estadísticos: Compras por Producto
+Compras;Compras por Proveedor
+Compras;Compras Mensuales por Proveedor
+Compras;Compras Mensuales por Producto
+Compras;Compra Detallada por proveedor
+Compras;Compra Detallada por Producto
+Compras;Gastos Mensuales
+Compras;Gastos por Centro de Costo.
+Ventas;Registro de Ventas
+Ventas;Gestión de Clientes
+Ventas;Estado de Cuenta por Cliente
+Ventas;Atención Rápida al Cliente
+Ventas;Facturación Directa
+Ventas;Gestión de Pedidos de Clientes
+Ventas;Facturación de Servicio
+Ventas;Manejo de múltiples listas de Precios
+Ventas;Manejo de Kit Promoción
+Ventas;Cálculo de Comisiones de Vendedores
+Ventas;Nota de Débito
+Ventas;Nota de Crédito
+Ventas;Gestión de Cobranzas
+Ventas;Depósito de Cobranzas
+Ventas;Resumen de Cobranzas
+Ventas;Manejo de Libro Caja y Bancos
+Ventas;Conciliación Bancaria
+Ventas;Pago a Proveedores
+Ventas;Resumen de Pagos
+Ventas;Manejo de Caja Menor
+Ventas;Manejo de Rendición de Cuentas
+Ventas;Reportes Estadísticos: Ventas por Cliente
+Ventas;Ventas Mensuales por Cliente
+Ventas;Ventas por línea de producto
+Ventas;Ventas por Anexos de Cliente
+Ventas;Ventas por Producto
+Ventas;Ventas por Vendedor
+Ventas;Ventas Mensuales por Vendedor
+Ventas;Ventas por Local
+Ventas;Ventas por Zona
+Ventas;Ventas Mensuales
+Ventas;Venta Detallada
+Ventas;Ranking de Ventas por Productos
+Ventas;Ranking de Ventas por Cliente
+Ventas;Ranking de Ventas por Vendedor
+Ventas;Ranking de Ventas por Línea de Producto
+Ventas;Utilidad por Cliente
+Ventas;Utilidad por Vendedor
+Ventas;Utilidad por Producto
+Ventas;Utilidad por Documento
+Tesorería;Manejo de Libro Caja y Bancos
+Tesorería;Libro Caja y Bancos
+Tesorería;Transferencia Bancaria
+Tesorería;Conciliación Bancaria
+Tesorería;Pago a Proveedores
+Tesorería;Resumen de Pagos
+Tesorería;Recibos de Anticipo
+Tesorería;Manejo de Caja Chica
+Tesorería;Manejo de Rendición de Cuentas
+Tesorería;Flujo de Caja
+Tesorería;Reportes Estadísticos: Reporte Libro Caja y Bancos
+Tesorería;Resumen de Saldos Bancarios
+Tesorería;Listado de Cheques Girados
+Tesorería;Cuentas por Pagar vs Cuentas por Cobrar
+Tesorería;Detalle de Pagos
+Tesorería;Resumen Caja Menor
+Tesorería;Caja Menor por Centro de Costo
+Tesorería;Caja Menor por Área
+Tesorería;Entregas a Rendir Cuentas Pendientes
+Tesorería;Entregas a Rendir por Centro de Costo
+Tesorería;Flujo de Caja Proyectado por rango de fechas
+Tesorería;Flujo de Caja Proyectado Mensualizado
+Tesorería;Proyección por Cobrar y por Pagar
+Tesorería;Proyección Ingresos y Egresos
+Tesorería;Flujo de Caja Realizado
+Tesorería;Flujo de Caja Realizado por rango de fechas
+Tesorería;Flujo de Caja Realizado Mensualizado
+Tesorería;Análisis Flujo de Caja
+Libros Electrónicos;Registro de Ventas
+Libros Electrónicos;Registro de Compras
+Libros Electrónicos;Inventario Permanente Físico
+Libros Electrónicos;Inventario Permanente Valorizado
+Producción;Manejo de Orden de Trabajo
+Producción;Generar Recetarios o Formulación
+Producción;Planificación de la Producción
+Producción;Requerimiento de Materiales
+Producción;Parte de Producción
+Producción;Costo Producción
+Producción;Generar Hoja de Costo
+Producción;Producción por Centro de Producción
+Producción;Producción por Máquina
+Producción;Eficiencia por Centro Producción
+Producción;Eficiencia por Máquina
+Producción;Gastos Fabricación
+Producción;Liquidación Componentes/Materiales
+Producción;Avance Producción
+Facturación;Gestión de Clientes
+Facturación;Estado de Cuenta por Cliente
+Facturación;Atención Rápida al Cliente
+Facturación;Facturación Directa
+Facturación;Gestión de Pedidos de Clientes
+Facturación;Manejo de múltiples listas de Precios
+Facturación;Manejo de Kit Promoción
+Facturación;Cálculo de Comisiones Vendedores
+Facturación;Nota de Débito
+Facturación;Nota de Crédito
+Almacenes;Gestión de Productos
+Almacenes;Generación e Impresión de Código de Barras
+Almacenes;Manejo de Lotes
+Almacenes;Generar múltiples almacenes
+Almacenes;Salida de Productos en diferentes unidades
+Almacenes;Generar Guía de Despacho
+Almacenes;Transferencia entre Almacenes
+Almacenes;Toma de Inventario
+Almacenes;Compras Directas sin Orden de Compra
+Almacenes;Consulta de Stock
+Compras;Gestión de Proveedores
+Compras;Estado de Cuenta Proveedores
+Compras;Registro de Orden de Compra
+Compras;Aprobación Electrónica Orden de Compra
+Compras;Seguimiento Orden de Compra
+Compras;Resumen Órdenes de Compra
+Compras;Registro de Documentos Proveedores
+Compras;Registro de Honorarios Profesionales
+Compras;Registro de Gastos
+Compras;Manejo de Centro de Costos
+Compras;Manejo de Centro de Gasto
+Caja;Gestión de Cobranzas
+Caja;Depósito de Cobranzas
+Caja;Resumen de Cobranzas
+Caja;Manejo de Libro Caja y Bancos
+Caja;Libro Caja y Bancos
+Caja;Conciliación Bancaria
+Caja;Pago a Proveedores
+Caja;Resumen de Pagos
+Caja;Manejo de Caja Chica
+Caja;Manejo de Rendición de Cuentas
+Importaciones;Registro Declaración de Importación
+Importaciones;Prorrateo de Costos Automático y Manual
+Importaciones;Costo de Importación
+Importaciones;Transferencia de Costos
+Importaciones;Reporte de Costo de Importación
+Reportes;Libro Electrónico – Ventas
+Reportes;Libro Electrónico – Compras
+Reportes;Libro Electrónico – Inventario Físico
+Reportes;Libro Electrónico – Inventario Valorizado
+Reportes;Generador de Reportes
+Reportes;Reportes Almacén: Stock Actual
+Reportes;Stock por almacenes
+Reportes;Inventario Unidades
+Reportes;Inventario Valorizado
+Reportes;Costo de Ventas
+Reportes;Saldo Valorizado
+Reportes;Stock por Lotes
+Reportes;Movimientos por Producto
+Reportes;Movimientos por almacén
+Reportes;Resumen de Despacho
+Reportes;Reportes Venta: Ventas por Cliente
+Reportes;Ventas Mensuales por Cliente
+Reportes;Ventas por línea de producto
+Reportes;Ventas por Anexos de Cliente
+Reportes;Ventas por Producto
+Reportes;Ventas por Vendedor
+Reportes;Ventas Mensuales por Vendedor
+Reportes;Ventas por Local
+Reportes;Ventas por Zona
+Reportes;Ventas Mensuales
+Reportes;Venta Detallada
+Reportes;Ranking de Ventas por Productos
+Reportes;Ranking de Ventas por Cliente
+Reportes;Ranking de Ventas por Vendedor
+Reportes;Ranking de Ventas por Línea de Producto
+Reportes;Utilidad por Cliente
+Reportes;Utilidad por Vendedor
+Reportes;Utilidad por Producto
+Reportes;Utilidad por Documento
+Reportes;Reportes Compras: Compras por Producto
+Reportes;Compras por Proveedor
+Reportes;Compras Mensuales por Proveedor
+Reportes;Compras Mensuales por Producto
+Reportes;Compra Detallada por proveedor
+Reportes;Compra Detallada por Producto
+Reportes;Gastos Mensuales
+Reportes;Gastos Por Centro de Costo
+Servicios;Generación de Presupuesto
+Servicios;Manejo de Orden de Servicio
+Servicios;Actividades por Orden de Servicio
+Servicios;Valorizar Orden de Servicio
+Servicios;Gastos por Orden Servicio
+Servicios;Rentabilidad por Orden Servicio
+Servicios;Manejo de Centro de Costo
+Servicios;Rentabilidad por Centro de Costo
+Servicios;Manejo de múltiples Listas de Precios
+Servicios;Facturación sin Orden de Servicio
+Servicios;Comisiones de Venta
+Servicios;Nota de Crédito
+Servicios;Nota de Débito
+Almacén;Gestión de Materiales
+Almacén;Salida de Productos por Orden de Servicio
+Almacén;Generar Guía de Despacho
+Almacén;Transferencia entre Almacenes
+Almacén;Toma de Inventario
+Almacén;Compras Directas sin Orden de Compra
+Almacén;Consulta de StocK
+Compras;Gestión de Proveedores
+Compras;Estado de Cuenta por Proveedor
+Compras;Generación de Orden de Compra
+Compras;Aprobación Electrónica de Orden de Compra
+Compras;Registro de Documentos de Proveedor
+Compras;Honorarios Profesionales
+Compras;Manejo de Centro de Costos
+Compras;Control de Gastos
+Caja;Gestión de Cobranzas
+Caja;Depósito de Cobranzas
+Caja;Resumen de Cobranzas
+Caja;Manejo de Libro Caja y Bancos
+Caja;Conciliación Bancaria
+Caja;Pago a Proveedores
+Caja;Resumen de Pagos
+Caja;Manejo de Caja Chica
+Caja;Manejo de Rendición de Cuentas
+Reportes;Libro Electrónico – Ventas
+Reportes;Libro Electrónico – Compras
+Reportes;Generador de Reportes
+Reportes;Reportes Almacén (Stock Actual)
+Reportes;Stock por almacenes
+Reportes;Inventario Unidades
+Reportes;Inventario Valorizado
+Reportes;Saldo Valorizado
+Reportes;Movimientos por Producto
+Reportes;Movimientos por almacén
+Reportes;Resumen de Despacho
+Reportes;Reportes Venta (Ventas por Cliente)
+Reportes;Ventas Mensuales por Cliente
+Reportes;Ventas por línea de servicio
+Reportes;Ventas por servicio
+Reportes;Ventas por Vendedor
+Reportes;Ventas Mensuales
+Reportes;Venta Detallada
+Reportes;Rankings de Ventas
+Reportes;Utilidad por Cliente
+Reportes;Utilidad por Vendedor
+Reportes;Utilidad por Servicio
+Reportes;Utilidad por Documento
+Reportes;Reportes Compras (Compras por Producto)
+Reportes;Compras por Proveedor
+Reportes;Compras Mensuales
+Reportes;Compras Detalladas
+Reportes;Gastos Mensuales
+Reportes;Gastos por Centro de Costo
+Productos;Administración y registro de productos a través de familias y subfamilias
+Productos;Búsqueda rápida
+Productos;Registro de códigos de barras y propios
+Productos;Control de lotes y series
+Productos;Control de stock mínimo y máximo
+Productos;Control de stock por producto
+Productos;Registro de fotos
+Equivalencias;Equivalencias entre distintas unidades métricas
+Movimientos;Ingresos de mercadería a almacén con o sin orden de compra
+Movimientos;Salidas de mercadería por área
+Movimientos;Identificación de usuarios
+Movimientos;Transferencias entre almacenes
+Movimientos;Emisión de guías de remisión y/o documentos internos
+Movimientos;Anulación de documentos/operaciones
+Reportes;Stock actual
+Reportes;Stock por familias y subfamilias
+Reportes;Inventario valorizado
+Reportes;Movimientos por almacén
+Reportes;Resúmenes de despachos
+Reportes;Salidas por centro de costos
+Reportes;Stock por lotes/series
+Reportes;Movimientos por producto
+Reportes;Ingresos a almacén
+Reportes;Entre otros
+Configuraciones;Creación de usuarios
+Configuraciones;Cambios de contraseñas
+Configuraciones;Configuraciones de permisos por usuario
+Configuraciones;Acceso a configurar las tablas principales del software
+Configuraciones;Importación/exportación de datos
+Configuraciones;Administración del tipo de cambio
+Proyectos;Generar Presupuesto por Proyecto
+Proyectos;Manejo de Partida Presupuestal
+Proyectos;Control y seguimiento por Proyecto
+Proyectos;Control de Personal por Proyecto
+Proyectos;Consumo por Proyecto
+Proyectos;Gastos por Proyecto
+Proyectos;Rentabilidad por Proyecto
+Proyectos;Facturación Proyectos
+Proyectos;Ejecutado versus Presupuestado 
+Facturación;Gestión de Clientes
+Facturación;Estado de Cuenta por Cliente
+Facturación;Facturación Electrónica Proyecto
+Facturación;Resumen de Documentos
+Facturación;Documentos Anulados
+Facturación;Nota de Débito
+Facturación;Nota de Crédito
+Almacén;Gestión de Productos
+Almacén;Generar múltiples almacenes
+Almacén;Salida de Productos por Proyecto
+Almacén;Generar Guía de Despacho
+Almacén;Transferencia entre Almacenes
+Almacén;Toma de Inventario
+Almacén;Compras Directas sin Orden de Compra
+Almacén;Consulta de Stock 
+Compras;Gestión de Proveedores
+Compras;Estado de Cuenta Proveedores
+Compras;Registro de Orden de Compra
+Compras;Aprobación Electrónica de Orden de Compra
+Compras;Seguimiento de Orden de Compra
+Compras;Resumen de Órdenes de Compra
+Compras;Registro de Documentos Proveedores
+Compras;Registro de Gastos
+Compras;Manejo de Centro de Costos
+Compras;Manejo de Centro de Gasto 
+Caja;Gestión de Cobranzas
+Caja;Depósito de Cobranzas
+Caja;Resumen de Cobranzas
+Caja;Manejo de Libro Caja y Bancos
+Caja;Libro Caja y Bancos
+Caja;Conciliación Bancaria
+Caja;Pago a Proveedores
+Caja;Resumen de Pagos
+Caja;Manejo de Caja Chica
+Caja;Manejo de Rendición de Cuentas 
+Reportes;Libro Electrónico – Ventas
+Reportes;Libro Electrónico – Compras
+Reportes;Generador de Reportes
+Reportes;Reportes Almacén: Stock Actual
+Reportes;Stock por almacenes
+Reportes;Inventario Unidades
+Reportes;Inventario Valorizado
+Reportes;Costo de Ventas
+Reportes;Saldo Valorizado
+Reportes;Movimientos por Producto
+Reportes;Movimientos por almacén
+Reportes;Resumen de Despacho
+Reportes;Reportes Venta: Ventas por Cliente
+Reportes;Ventas Mensuales por Cliente
+Reportes;Ventas Mensuales
+Reportes;Venta Detallada
+Reportes;Ranking de Ventas por Cliente
+Reportes;Utilidad por Cliente
+Reportes;Utilidad por Documento
+Reportes;Reportes Compras: Compras por Producto
+Reportes;Compras por Proveedor
+Reportes;Compras Mensuales por Proveedor
+Reportes;Compras Mensuales por Producto
+Reportes;Compra Detallada por proveedor
+Reportes;Compra Detallada por Producto
+Reportes;Gastos Mensuales
+Reportes;Gastos por Centro de Costo
+Reportes;Gastos por Centro de Gasto 
+Facturación;Gestión de Clientes
+Facturación;Estado de Cuenta por Cliente
+Facturación;Facturación Electrónica Servicio Taller
+Facturación;Facturación de Repuestos
+Facturación;Facturación solo Servicios
+Facturación;Resumen de Documentos
+Facturación;Documentos Anulados
+Facturación;Nota de Débito
+Facturación;Nota de Crédito (SICO Perú)
+Almacenes;Gestión de Productos
+Almacenes;Generar múltiples almacenes
+Almacenes;Salida de Productos por Taller
+Almacenes;Generar Guía de Despacho
+Almacenes;Transferencia entre Almacenes
+Almacenes;Toma de Inventario
+Almacenes;Compras Directas sin Orden de Compra
+Almacenes;Consulta de Stock (SICO Perú)
+Compras;Gestión de Proveedores
+Compras;Estado de Cuenta Proveedores
+Compras;Registro de Orden de Compra
+Compras;Aprobación Electrónica de Orden de Compra
+Compras;Seguimiento de Orden de Compra
+Compras;Resumen de Órdenes de Compra
+Compras;Registro de Documentos Proveedores
+Compras;Registro de Gastos
+Compras;Manejo de Centro de Costos
+Compras;Manejo de Centro de Gasto (SICO Perú)
+Caja;Gestión de Cobranzas
+Caja;Depósito de Cobranzas
+Caja;Resumen de Cobranzas
+Caja;Manejo de Libro Caja y Bancos
+Caja;Libro Caja y Bancos
+Caja;Conciliación Bancaria
+Caja;Pago a Proveedores
+Caja;Resumen de Pagos
+Caja;Manejo de Caja Chica
+Caja;Manejo de Rendición de Cuentas (SICO Perú)
+Reportes;Libro Electrónico – Ventas
+Reportes;Libro Electrónico – Compras
+Reportes;Generador de Reportes
+Reportes;Reportes Almacén: Stock Actual
+Reportes;Stock por almacenes
+Reportes;Inventario Unidades
+Reportes;Inventario Valorizado
+Reportes;Costo de Ventas
+Reportes;Saldo Valorizado
+Reportes;Movimientos por Producto
+Reportes;Movimientos por almacén
+Reportes;Resumen de Despacho
+Reportes;Reportes Venta: Ventas por Cliente
+Reportes;Ventas Mensuales por Cliente
+Reportes;Ventas Mensuales
+Reportes;Venta Detallada
+Reportes;Ranking de Ventas por Cliente
+Reportes;Utilidad por Cliente
+Reportes;Utilidad por Documento
+Reportes;Reportes Compras: Compras por Producto
+Reportes;Compras por Proveedor
+Reportes;Compras Mensuales por Proveedor
+Reportes;Compras Mensuales por Producto
+Reportes;Compra Detallada por proveedor
+Reportes;Compra Detallada por Producto
+Reportes;Gastos Mensuales
+Reportes;Gastos por Centro de Costo
+Reportes;Gastos por Centro de Gasto (SICO Perú)
+Estados Financieros;Genera Balance General
+Estados Financieros;Estado de Pérdidas y Ganancias
+Estados Financieros;Estado de Flujo de Efectivo
+Estados Financieros;Control Patrimonial
+Comprobantes;Plan de Cuentas hasta 10 dígitos
+Comprobantes;Manejo de Centro de Costos
+Comprobantes;Generación automática de comprobantes
+Comprobantes;Manejo de Diario y Pre-Diario
+Comprobantes;Cierres mensuales y anual
+Comprobantes;Generación automática de saldos iniciales y cierre de libros
+Comprobantes;Registro y asiento de Activos Fijos
+Comprobantes;Diferencia de Cambio por saldos
+Comprobantes;Diferencia de Cambio por movimiento
+Comprobantes;Ajuste de Translación
+Comprobantes;Consulta de saldos
+Comprobantes;Cálculo de ratios contables
+Libros Contables;Caja y Bancos – Efectivo y Cuentas Contables
+Libros Contables;Costo de Ventas Anual y Mensual
+Libros Contables;Costo de Producción
+Libros Contables;Inventario Permanente Físico y Valorizado
+Libros Contables;Registro de Ventas
+Libros Contables;Balance General
+Libros Contables;Inventario/Balance para cuentas 10,12,14,16,19,20,31,34,40,41,42,46,47,49
+Libros Contables;Balance de Comprobación
+Libros Contables;Estado de Flujo de Efectivo
+Libros Contables;Estado de Cambio Patrimonio
+Libros Contables;Estado de Pérdidas y Ganancias
+Libros Contables;Libro Diario
+Libros Contables;Libro Simplificado
+Libros Contables;Libro Mayor
+Libros Contables;Activos Fijos
+Libros Contables;Registro de Compras
+Libros Electrónicos;Libro Diario
+Libros Electrónicos;Libro Diario – Plan de Cuentas
+Libros Electrónicos;Libro Mayor
+Libros Electrónicos;Registro de Compras (Incluye no domiciliario y simplificado)
+Libros Electrónicos;Registro de Ventas (Incluye simplificado)
+Libros Electrónicos;Inventario Permanente Físico y Valorizado
+Reportes;Saldos Contables
+Reportes;Saldos Mensualizados
+Reportes;Libro Diario
+Reportes;Análisis Libro Diario
+Reportes;Balance de Comprobación
+Reportes;Balance General
+Reportes;Estado de Pérdidas y Ganancias
+Reportes;Análisis de Estados Financieros
+Reportes;Anexos de Balance General y de Pérdidas y Ganancias
+Reportes;Mayores Auxiliares (Analítico, Estructural, Analítico Estructural)
+Reportes;Cuenta Corriente – Mayor
+Reportes;Cuenta Corriente – Analítico
+Reportes;Informes de Gasto por Naturaleza/Destino
+Reportes;Informes de Gasto por Centro de Costo
+Ventas;Gestión de Clientes
+Ventas;Atención Rápida al Cliente
+Ventas;Facturación Directa
+Ventas;Gestión de Pedidos de Clientes
+Ventas;Facturación de Servicio
+Ventas;Manejo de múltiples listas de Precios
+Ventas;Manejo de Kit Promoción
+Ventas;Cálculo de Comisiones de Vendedores
+Ventas;Nota de Débito
+Ventas;Nota de Crédito
+Almacenes;Gestión de Productos
+Almacenes;Generación e Impresión de Código de Barras
+Almacenes;Manejo de Lotes
+Almacenes;Manejo de Serie de Productos
+Almacenes;Generar múltiples almacenes
+Almacenes;Salida de Productos en diferentes unidades
+Almacenes;Salida por Centro de Costos
+Almacenes;Generar Guía de Despacho
+Almacenes;Transferencia entre Almacenes
+Almacenes;Toma de Inventario
+Almacenes;Reposición de Stock
+Almacenes;Compras Directas sin Orden de Compra
+Almacenes;Manejo de Fórmula y Receta
+Almacenes;Consulta de Stock
+Almacenes;Consulta de Movimiento por Producto
+Almacenes;"Reportes Estadísticos (Stock Actual; Stock por almacenes; Inventario Unidades; Inventario Valorizado; Costo de Ventas; Saldo Valorizado; Stock por Lotes; Movimientos por Producto; Movimientos por almacén; Resumen de Despacho)"
+Compras;Registro de Compras
+Compras;Gestión de Proveedores
+Compras;Estado de Cuenta por Proveedor
+Compras;Generación de Orden de Compra
+Compras;Aprobación Electrónica de Orden de Compra
+Compras;Registro de Documentos de Proveedor
+Compras;Registro de Gastos
+Compras;Manejo de Centro de Costos
+Compras;Gastos por Centro de Costo
+Compras;Compras Directas sin Orden de Compra
+Importaciones;Registro de Declaración de Importación
+Importaciones;Prorrateo de Costos Automático y Manual
+Importaciones;Cálculo de Costo de Importación
+Importaciones;Transferencia de Costos
+Importaciones;Reporte de Costo de Importación
+Caja;Gestión de Cobranzas
+Caja;Depósito de Cobranzas
+Caja;Resumen de Cobranzas
+Caja;Manejo de Libro Caja y Bancos
+Caja;Conciliación Bancaria
+Caja;Pago a Proveedores
+Caja;Manejo de Caja Chica
+Caja;Manejo de Rendición de Cuentas
+Reportes;Generador de Reportes Personalizados
+Reportes;Libro Electrónico – Ventas
+Reportes;Libro Electrónico – Compras
+Reportes;Reportes de Ventas (ventas por cliente, vendedor, producto, línea, zona, etc.)
+Reportes;Reportes de Compras (compras por proveedor, producto, mensualizados, detallados)
+Reportes;Reportes de Stock e Inventario (stock actual, valorizado, movimientos, lotes, centros de costo)
+Trabajadores;Registro de trabajadores.
+Trabajadores;Registro de derechohabientes.
+Trabajadores;Programación de vacaciones.
+Trabajadores;Control de ingresos y salidas.
+Trabajadores;Pantalla de marcación.
+Trabajadores;Interfase con marcadores externos.
+Trabajadores;Generación de archivo T-Registro.
+Trabajadores;Gestión de préstamos a trabajadores.
+Trabajadores;Cuenta corriente por trabajador.
+Trabajadores;Manejo de contratos y pendientes por firmar.
+Planillas;Generar programa de cálculo.
+Planillas;Editar o modificar fórmulas.
+Planillas;Ingresos de datos por trabajador y por concepto.
+Planillas;Ingresos de datos masivos.
+Planillas;Cálculo automático de la planilla, 5ta categoría y CTS.
+Planillas;Cierre de planilla.
+Planillas;Generación automática de comprobante contable.
+Planillas;Generación de archivos para AFPNET y para el banco.
+Planilla Electrónica (Detalle);Datos de jornada laboral.
+Planilla Electrónica (Detalle);Datos de días subsidiados y no laborados.
+Planilla Electrónica (Detalle);Prestación de servicios y su inclusión en planilla.
+Planilla Electrónica (Detalle);Cálculo de la remuneración del trabajador.
+Reportes;Generar boleta de pago PDF y enviarla por correo.
+Reportes;Resumen de planillas y resultados por trabajador, centro de costos y mensualizados.
+Reportes;Reporte de CTS y liquidación de beneficios sociales.
+Reportes;Reporte de retención de quinta categoría.
+Reportes;Reporte de participación de utilidades.
+Reportes;Generador de reportes en Excel.
+Gestión de Habitaciones;Estado y situación de las habitaciones
+Gestión de Habitaciones;Disponibilidad de las habitaciones – Planning
+Gestión de Habitaciones;Facturación electrónica
+Gestión de Habitaciones;Manejo de reservas
+Gestión de Habitaciones;Estado de cuenta del cliente
+Gestión de Habitaciones;Acepta efectivo, tarjeta de crédito y débito
+Gestión de Habitaciones;Pagos a cuenta
+Gestión de Habitaciones;Otros cargos
+Gestión de Habitaciones;Descuentos corporativos
+Gestión de Habitaciones;Manejo de centro de costo 
+Caja;Creación de múltiples cajas
+Caja;Asignación de personal para el uso de la caja
+Caja;Apertura de caja
+Caja;Cierre y liquidación de caja 
+Almacenes;Gestión de productos
+Almacenes;Generación e impresión de códigos de barras
+Almacenes;Múltiples almacenes
+Almacenes;Salida de productos por centro de costo (habitación)
+Almacenes;Generar guía de despacho
+Almacenes;Transferencias entre almacenes
+Almacenes;Toma de inventario
+Almacenes;Compras directas sin orden de compra
+Almacenes;Consulta de stock 
+Ventas;Múltiples listas de precios
+Ventas;Crear combos/paquetes
+Ventas;Manejo de kit promoción
+Ventas;Cálculo de comisiones de vendedores
+Ventas;Resumen de documentos
+Ventas;Anulación de documentos
+Ventas;Nota de débito
+Ventas;Nota de crédito
+Compras;Gestión de proveedores
+Compras;Generación de orden de compra
+Compras;Aprobación electrónica de orden de compra
+Reportes Almacén;Stock actual
+Reportes Almacén;Stock por almacenes
+Reportes Almacén;Inventario unidades
+Reportes Almacén;Inventario valorizado
+Reportes Almacén;Costo de ventas
+Reportes Almacén;Saldo valorizado
+Reportes Almacén;Movimientos por producto
+Reportes Almacén;Movimientos por almacén 
+Reportes Ventas;Libro electrónico PLE – Ventas
+Reportes Ventas;Ventas por cliente
+Reportes Ventas;Ventas mensuales por cliente
+Reportes Ventas;Ventas por habitación
+Reportes Ventas;Ventas por counter
+Reportes Ventas;Ventas mensuales por counter
+Reportes Ventas;Ventas por local
+Reportes Ventas;Ventas mensuales
+Reportes Ventas;Ranking de ventas por habitación, cliente y counter
+Reportes Ventas;Utilidad por counter, habitación y documento
+Gestión de Mesas;Asigna y libera mesas
+Gestión de Mesas;Visualiza ocupación y turno de cada mesa
+Gestión de Mesas;Mueve comensales entre mesas
+Gestión de Mesas;Soporta reservas y turnos múltiples
+Comandas y Cocina;Toma de orden en tablet o terminal para enviar directamente a cocina
+Comandas y Cocina;Gestión de estados de preparación (pendiente, en curso, listo)
+Comandas y Cocina;Control de tiempos de preparación y prioridades
+Comandas y Cocina;División de cuentas y cierre por comensal o por mesa
+Menús y Productos;Definición de menús por turno (desayuno, almuerzo, cena)
+Menús y Productos;Gestión de recetas y porciones
+Menús y Productos;Manejo de combos y paquetes
+Menús y Productos;Precios por turno, por día o por zona del restaurante
+Caja;Apertura, cierre y arqueo de caja
+Caja;Soporta pagos en efectivo, tarjeta y vales
+Caja;Control de cierres parciales y finales
+Caja;Registro de propinas y redondeos
+Ventas;Emisión de boletas y facturas
+Ventas;Dividir y unir cuentas
+Ventas;Aplicar descuentos y promociones
+Ventas;Control de ventas por mesero, por sección y por turno
+Ventas;Resumen de documentos y anulaciones
+Compras;Gestión de proveedores
+Compras;Orden de compra y recepción de insumos
+Compras;Control de costos por ingrediente y por receta
+Compras;Stock mínimo y máximo para reaprovisionamiento
+Compras;Prorrateo de costos de compras a recetas
+Reportes;Ventas por día, turno, mesa, mesero y plato
+Reportes;Costos y rentabilidad por receta y por turno
+Reportes;Control de inventarios y movimientos de ingredientes
+Reportes;Reporte de desperdicios
+Reportes;Análisis de consumo por sección y hora
+Reportes;Reportes PLE de ventas y compras para SUNAT
+Punto de Venta;Facturación Electrónica
+Punto de Venta;Impresión de Ticket
+Punto de Venta;Acepta Múltiples Pagos (Crédito, Débito, Efectivo)
+Punto de Venta;Manejo de Códigos de Barras
+Punto de Venta;Manejo de Combos o Paquetes
+Punto de Venta;Crear Promociones
+Punto de Venta;Lectura de Balanzas
+Punto de Venta;Manejo de Descuentos
+Punto de Venta;Gestión de Devoluciones
+Punto de Venta;Generar Preventa y Cotizaciones
+Almacenes;Gestión de Productos
+Almacenes;Generación e Impresión de Código de Barras
+Almacenes;Generar Múltiples Almacenes
+Almacenes;Salida de Productos en Diferentes Unidades
+Almacenes;Generar Guía de Despacho
+Almacenes;Transferencia entre Almacenes
+Almacenes;Toma de Inventario
+Almacenes;Compras Directas sin Orden de Compra
+Almacenes;Manejo de Fórmula y Receta
+Almacenes;Consulta de Stock
+Ventas;Manejo de Múltiples Listas de Precios
+Ventas;Crear Combos / Paquetes
+Ventas;Manejo de Kit Promoción
+Ventas;Cálculo de Comisiones de Vendedores
+Ventas;Resumen de Documentos
+Ventas;Anulación de Documentos
+Ventas;Nota de Débito
+Ventas;Nota de Crédito
+Compras;Gestión de Proveedores
+Compras;Generación de Orden de Compra
+Compras;Aprobación Electrónica de Orden de Compra
+Caja;Creación de Múltiples Cajas
+Caja;Asignación de Personal para Uso de la Caja
+Caja;Apertura de Caja
+Caja;Cierre y Liquidación de Caja
+Reportes de Almacén;Stock Actual
+Reportes de Almacén;Stock por Almacenes
+Reportes de Almacén;Inventario Unidades
+Reportes de Almacén;Inventario Valorizado
+Reportes de Almacén;Costo de Ventas
+Reportes de Almacén;Saldo Valorizado
+Reportes de Almacén;Movimientos por Producto
+Reportes de Almacén;Movimientos por Almacén
+Reportes de Ventas;Libro Electrónico – Ventas
+Reportes de Ventas;Ventas por Cliente
+Reportes de Ventas;Ventas Mensuales por Cliente
+Reportes de Ventas;Ventas por Línea de Producto
+Reportes de Ventas;Ventas por Producto
+Reportes de Ventas;Ventas por Vendedor
+Reportes de Ventas;Ventas Mensuales por Vendedor
+Reportes de Ventas;Ventas por Local
+Reportes de Ventas;Ventas Mensuales
+Reportes de Ventas;Ranking de Ventas por Productos / Cliente / Vendedor / Línea de Producto
+Reportes de Ventas;Utilidad por Vendedor / Producto / Documento
+Movil Pedidos;Sincroniza y consulta base de datos de productos: descripción, código, línea, listas de precios y stock por almacén.
+Movil Pedidos;Lectura de código de barras con cámara para búsquedas rápidas. 
+Movil Pedidos;Comparte información de productos por WhatsApp. 
+Movil Tareos;Registro de tareos: captura y guarda actividades por trabajador con histórico completo.
+Movil Tareos;Sincroniza y consulta base de datos de trabajadores: descripción, código, documento.
+Movil Tareos;Funciona OFF-LINE y sincroniza automáticamente al reconectar. 
+Movil Gerente;Gran productividad: comparte información segura entre todas las áreas.
+Movil Gerente;Fácil de usar: interfaz amigable sin curva de aprendizaje.
+Movil Gerente;Es GRATIS: descarga y usa sin costo

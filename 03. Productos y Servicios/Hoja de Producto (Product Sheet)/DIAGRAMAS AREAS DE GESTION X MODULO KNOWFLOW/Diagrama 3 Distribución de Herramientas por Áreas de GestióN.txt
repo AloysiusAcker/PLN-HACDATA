@@ -1,0 +1,179 @@
+// SankeyMATIC diagram inputs - Saved: 3/6/2025, 20:21:03
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+// Código SankeyMatic para el Diagrama 3: Distribución de Herramientas por Áreas de Gestión
+// Nombres completos para áreas de gestión (sin "Gestión") y herramientas
+// Pesos basados en la frecuencia de uso de cada herramienta en los subprocesos
+
+// Estratégica y Planificación Corporativa
+Estratégica y Planificación Corporativa [2] Software de Planificación
+Estratégica y Planificación Corporativa [1] BI Tool
+
+// Transformación Digital
+Transformación Digital [1] RPA
+Transformación Digital [1] WMS con RFID
+Transformación Digital [1] E-commerce Platform
+Transformación Digital [1] Payment Gateway
+Transformación Digital [1] IoT Platform
+Transformación Digital [1] QMS con Visión
+Transformación Digital [2] SIEM
+
+// Logística/Operativa
+Logística/Operativa [2] WMS
+Logística/Operativa [2] TMS
+
+// Cadena de Suministro Extendida
+Cadena de Suministro Extendida [5] SRM
+Cadena de Suministro Extendida [4] WMS
+Cadena de Suministro Extendida [2] TMS
+Cadena de Suministro Extendida [1] WMS/CRM
+Cadena de Suministro Extendida [1] ESG Tool
+Cadena de Suministro Extendida [1] CRM
+
+// Innovación y Desarrollo de Productos (I+D)
+Innovación y Desarrollo de Productos (I+D) [1] CAD
+Innovación y Desarrollo de Productos (I+D) [1] CAD/PLM
+Innovación y Desarrollo de Productos (I+D) [2] QMS
+
+// Producción y Manufactura
+Producción y Manufactura [4] MES
+Producción y Manufactura [1] MES/QMS
+Producción y Manufactura [1] ERP/MES
+
+// Comercial
+Comercial [4] CRM
+Comercial [1] CPQ
+Comercial [1] CRM/CPQ
+Comercial [1] Marketing Automation
+Comercial [1] POS System
+Comercial [2] BI Tool
+
+// Experiencia del Cliente (CX)
+Experiencia del Cliente (CX) [2] Helpdesk
+Experiencia del Cliente (CX) [2] CX Tool
+Experiencia del Cliente (CX) [1] Social Media Monitoring Tool
+Experiencia del Cliente (CX) [1] CRM/Helpdesk
+Experiencia del Cliente (CX) [2] CRM
+
+// Recursos Humanos
+Recursos Humanos [1] ATS
+Recursos Humanos [1] LMS
+Recursos Humanos [1] HRMS
+
+// IT/Soporte
+IT/Soporte [3] ITSM
+IT/Soporte [1] CMMS
+
+// Administrativa
+Administrativa [2] DMS
+Administrativa [1] ERP
+
+// Financiera
+Financiera [3] ERP Financiero
+Financiera [1] Tesorería
+
+// Riesgos y Cumplimiento
+Riesgos y Cumplimiento [3] GRC
+Riesgos y Cumplimiento [1] ERP Financiero
+
+// Calidad
+Calidad [4] QMS
+Calidad [1] Lean Management Tool
+
+// Conocimiento
+Conocimiento [5] KMS
+Conocimiento [1] Collaboration Platform
+
+// Sostenibilidad y RSE
+Sostenibilidad y RSE [4] ESG Tool
+Sostenibilidad y RSE [1] ESG Reporting Tool
+Sostenibilidad y RSE [1] SRM
+Sostenibilidad y RSE [2] CSR Platform
+
+// Ciberseguridad y Protección de Datos
+Ciberseguridad y Protección de Datos [3] SIEM
+Ciberseguridad y Protección de Datos [1] LMS
+Ciberseguridad y Protección de Datos [1] DLP Solution
+Ciberseguridad y Protección de Datos [1] Backup Solution
+
+// Innovación
+Innovación [2] CAD/PLM
+Innovación [1] Digital Printing Solution
+Innovación [1] MES/RPA
+
+// Competitividad
+Competitividad [1] CRM/Marketing Automation
+Competitividad [1] CPQ/CRM
+Competitividad [2] BI Tool
+
+// Alianzas Estratégicas
+Alianzas Estratégicas [2] SRM
+Alianzas Estratégicas [1] Collaboration Platform
+Alianzas Estratégicas [1] CSR Platform
+
+// === Settings ===
+
+size w 980
+  h 1972
+margin l 12
+  r 12
+  t 18
+  b 4
+bg color #ffffff
+  transparent N
+node w 12
+  h 73.5
+  spacing 80.5
+  border 0
+  theme c
+  color #888888
+  opacity 1
+flow curvature 0.5
+  inheritfrom outside-in
+  color #999999
+  opacity 0.45
+layout order automatic
+  justifyorigins Y
+  justifyends Y
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0.9
+  fontface sans-serif
+  linespacing 0.05
+  relativesize 129
+  magnify 119
+labelname appears Y
+  size 16
+  weight 400
+labelvalue appears N
+  fullprecision Y
+  position below
+  weight 400
+labelposition autoalign -1
+  scheme auto
+  first before
+  breakpoint 3
+value format ',.'
+  prefix ''
+  suffix ''
+themeoffset a 6
+  b 0
+  c 1
+  d 0
+meta mentionsankeymatic Y
+  listimbalances Y
+
+// === Moved Nodes ===
+
+move Calidad 0.22059, -0.00422
+move Conocimiento 0.22269, -0.00142
+move Cadena de Suministro Extendida 0.27311, 0.00147
+move Comercial 0.28151, 0.00126
+move Administrativa 0.42437, 0.00969
+move Financiera 0.42437, 0.02093
+move Alianzas Estratégicas -0.0485, 0.01171
+move Transformación Digital -1.02941, -0.15303

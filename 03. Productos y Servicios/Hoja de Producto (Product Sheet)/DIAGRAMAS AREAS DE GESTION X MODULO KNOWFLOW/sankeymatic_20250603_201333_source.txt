@@ -1,0 +1,141 @@
+// SankeyMATIC diagram inputs - Saved: 3/6/2025, 20:13:33
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+```
+// Código SankeyMatic para el Diagrama 1: Flujo de Procesos por Etapas y Áreas de Gestión
+// Nombres completos para etapas y áreas de gestión, sin la palabra "Gestión"
+
+// Mejora Continua
+Mejora Continua [3] Estratégica y Planificación Corporativa
+Mejora Continua [3] Calidad
+Mejora Continua [3] Conocimiento
+Mejora Continua [3] Sostenibilidad y RSE
+
+// Transformación Digital
+Transformación Digital [6] Transformación Digital
+Transformación Digital [2] Ciberseguridad y Protección de Datos
+
+// Logística de Entrada
+Logística de Entrada [4] Logística/Operativa
+Logística de Entrada [4] Cadena de Suministro Extendida
+Logística de Entrada [2] Sostenibilidad y RSE
+
+// Operaciones
+Operaciones [4] Innovación y Desarrollo de Productos (I+D)
+Operaciones [6] Producción y Manufactura
+
+// Marketing y Ventas
+Marketing y Ventas [6] Comercial
+
+// Logística de Salida
+Logística de Salida [6] Cadena de Suministro Extendida
+
+// Servicios Posventa
+Servicios Posventa [6] Experiencia del Cliente (CX)
+
+// Soporte Continuo
+Soporte Continuo [3] Recursos Humanos
+Soporte Continuo [4] IT/Soporte
+Soporte Continuo [3] Administrativa
+Soporte Continuo [4] Financiera
+Soporte Continuo [4] Riesgos y Cumplimiento
+Soporte Continuo [4] Ciberseguridad y Protección de Datos
+
+// Gestión Estratégica y Sostenibilidad
+Gestión Estratégica y Sostenibilidad [2] Calidad
+Gestión Estratégica y Sostenibilidad [3] Conocimiento
+Gestión Estratégica y Sostenibilidad [3] Sostenibilidad y RSE
+Gestión Estratégica y Sostenibilidad [2] Ciberseguridad y Protección de Datos
+
+// Innovación y Competitividad
+Innovación y Competitividad [4] Innovación
+Innovación y Competitividad [4] Competitividad
+Innovación y Competitividad [4] Alianzas Estratégicas
+```
+
+// === Settings ===
+
+size w 980
+  h 852
+margin l 12
+  r 12
+  t 18
+  b 4
+bg color #ffffff
+  transparent N
+node w 12
+  h 73.5
+  spacing 80.5
+  border 0
+  theme c
+  color #888888
+  opacity 1
+flow curvature 0.5
+  inheritfrom outside-in
+  color #999999
+  opacity 0.45
+layout order automatic
+  justifyorigins N
+  justifyends N
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0.9
+  fontface sans-serif
+  linespacing 0.05
+  relativesize 110
+  magnify 119
+labelname appears Y
+  size 16
+  weight 400
+labelvalue appears Y
+  fullprecision Y
+  position below
+  weight 400
+labelposition autoalign 0
+  scheme auto
+  first before
+  breakpoint 30
+value format ',.'
+  prefix ''
+  suffix ''
+themeoffset a 6
+  b 0
+  c 1
+  d 0
+meta mentionsankeymatic Y
+  listimbalances Y
+
+// === Moved Nodes ===
+
+move Estratégica y Planificación Corporativa 0.21429, 0
+move Calidad 0.22059, -0.00422
+move Conocimiento 0.22269, -0.00142
+move Sostenibilidad y RSE 0.27101, 0
+move Logística/Operativa 0.27521, 0
+move Cadena de Suministro Extendida 0.27311, 0.00147
+move Innovación y Desarrollo de Productos (I+D) 0.27101, 0.00419
+move Producción y Manufactura 0.2563, -0.00426
+move Comercial 0.28151, 0.00126
+move Experiencia del Cliente (CX) 0.28782, 0
+move Recursos Humanos 0.41176, 0.00554
+move IT/Soporte 0.41597, 0.00837
+move Administrativa 0.42437, 0.00969
+move Financiera 0.42437, 0.02093
+move Riesgos y Cumplimiento 0.42857, 0.01675
+move Innovación 0.15546, 0
+move Competitividad 0.15756, 0.00558
+move Alianzas Estratégicas 0.17227, 0.01116
+move Soporte Continuo -0.0042, 0.02478
+move Servicios Posventa -0.0021, 0.03668
+move Marketing y Ventas 0.0021, 0.03415
+move Operaciones -0.0042, 0.03662
+move Logística de Salida 0, 0.03415
+move Logística de Entrada 0.0021, 0.04055
+move Gestión Estratégica y Sostenibilidad 0.0021, 0.03924
+move Mejora Continua 0, 0.04924
+move Transformación Digital -1.02941, -0.15303
+move Ciberseguridad y Protección de Datos 0.34664, 0.09902

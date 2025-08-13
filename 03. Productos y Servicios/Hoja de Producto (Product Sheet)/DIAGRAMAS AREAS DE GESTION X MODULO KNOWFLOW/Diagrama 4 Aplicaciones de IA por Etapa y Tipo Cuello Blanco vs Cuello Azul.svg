@@ -1,0 +1,254 @@
+<svg height="1972" width="980" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 3/6/2025, 20:27:02 -->
+<rect height="1972" width="980" fill="#ffffff"></rect>
+<g transform="translate(121.3466,18)">
+<g id="sankey_flows">
+<path id="flow60" d="M12 910.57597C174.04936 910.57597 174.04936 856.98808 336.09871 856.98808" fill="none" stroke-width="246.02243" stroke="#e7298a" opacity="0.45"><title>Soporte Continuo → Cuello Blanco: 13</title></path>
+<path id="flow36" d="M12 245.78959C174.04936 245.78959 174.04936 317.63121 336.09871 317.63121" fill="none" stroke-width="189.24803" stroke="#1b9e77" opacity="0.45"><title>Marketing y Ventas → Cuello Blanco: 10</title></path>
+<path id="flow0" d="M12 622.7437C174.04936 622.7437 174.04936 648.81526 336.09871 648.81526" fill="none" stroke-width="170.32322" stroke="#d95f02" opacity="0.45"><title>Mejora Continua → Cuello Blanco: 9</title></path>
+<path id="flow52" d="M12 438.99785C174.04936 438.99785 174.04936 487.95443 336.09871 487.95443" fill="none" stroke-width="151.39842" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Cuello Blanco: 8</title></path>
+<path id="flow20" d="M12 1113.24663C174.04936 1113.24663 174.04936 1036.77371 336.09871 1036.77371" fill="none" stroke-width="113.54882" stroke="#a6761d" opacity="0.45"><title>Logística de Entrada → Cuello Blanco: 6</title></path>
+<path id="flow29" d="M12 1749.6458C174.04936 1749.6458 174.04936 1684.17723 336.09871 1684.17723" fill="none" stroke-width="113.54882" stroke="#666666" opacity="0.45"><title>Operaciones → Cuello Azul: 6</title></path>
+<path id="flow13" d="M12 1271.73673C174.04936 1271.73673 174.04936 1523.31641 336.09871 1523.31641" fill="none" stroke-width="94.62401" stroke="#e6ab02" opacity="0.45"><title>Transformación Digital → Cuello Azul: 5</title></path>
+<path id="flow45" d="M12 1315.91728C174.04936 1315.91728 174.04936 1197.63453 336.09871 1197.63453" fill="none" stroke-width="94.62401" stroke="#a6761d" opacity="0.45"><title>Logística de Salida → Cuello Blanco: 5</title></path>
+<path id="flow21" d="M12 1207.87064C174.04936 1207.87064 174.04936 1438.15479 336.09871 1438.15479" fill="none" stroke-width="75.69921" stroke="#a6761d" opacity="0.45"><title>Logística de Entrada → Cuello Azul: 4</title></path>
+<path id="flow28" d="M12 1655.02179C174.04936 1655.02179 174.04936 1282.79614 336.09871 1282.79614" fill="none" stroke-width="75.69921" stroke="#666666" opacity="0.45"><title>Operaciones → Cuello Blanco: 4</title></path>
+<path id="flow1" d="M12 736.29252C174.04936 736.29252 174.04936 1371.91799 336.09871 1371.91799" fill="none" stroke-width="56.77441" stroke="#d95f02" opacity="0.45"><title>Mejora Continua → Cuello Azul: 3</title></path>
+<path id="flow12" d="M12 1196.03752C174.04936 1196.03752 174.04936 1121.93532 336.09871 1121.93532" fill="none" stroke-width="56.77441" stroke="#e6ab02" opacity="0.45"><title>Transformación Digital → Cuello Blanco: 3</title></path>
+<path id="flow46" d="M12 1391.61649C174.04936 1391.61649 174.04936 1599.01562 336.09871 1599.01562" fill="none" stroke-width="56.77441" stroke="#a6761d" opacity="0.45"><title>Logística de Salida → Cuello Azul: 3</title></path>
+<path id="flow62" d="M348.09871 402.79282C510.14807 402.79282 510.14807 229.67784 672.19742 229.67784" fill="none" stroke-width="56.77441" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA Predictiva: 3</title></path>
+<path id="flow2" d="M348.09871 241.932C510.14807 241.932 510.14807 68.81702 672.19742 68.81702" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA Predictiva: 2</title></path>
+<path id="flow11" d="M348.09871 1476.0044C510.14807 1476.0044 510.14807 1589.39049 672.19742 1589.39049" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Azul → IA para Optimización de Procesos: 2</title></path>
+<path id="flow15" d="M348.09871 942.1497C510.14807 942.1497 510.14807 975 672.19742 975" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Comportamiento: 2</title></path>
+<path id="flow16" d="M348.09871 1513.854C510.14807 1513.854 510.14807 1627.24009 672.19742 1627.24009" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Azul → IA para Optimización de Procesos: 2</title></path>
+<path id="flow22" d="M348.09871 979.9993C510.14807 979.9993 510.14807 1035.73464 672.19742 1035.73464" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Verificación Automática: 2</title></path>
+<path id="flow23" d="M348.09871 1055.69851C510.14807 1055.69851 510.14807 1134.31888 672.19742 1134.31888" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Ranking: 2</title></path>
+<path id="flow24" d="M348.09871 279.7816C510.14807 279.7816 510.14807 106.66662 672.19742 106.66662" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA Predictiva: 2</title></path>
+<path id="flow27" d="M348.09871 1551.70361C510.14807 1551.70361 510.14807 1665.0897 672.19742 1665.0897" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Azul → IA para Optimización de Procesos: 2</title></path>
+<path id="flow31" d="M348.09871 506.87924C510.14807 506.87924 510.14807 379.53432 672.19742 379.53432" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Datos: 2</title></path>
+<path id="flow33" d="M348.09871 1419.22999C510.14807 1419.22999 510.14807 1471.88144 672.19742 1471.88144" fill="none" stroke-width="37.84961" stroke="#66a61e" opacity="0.45"><title>Cuello Azul → Visión Computacional: 2</title></path>
+<path id="flow34" d="M348.09871 1589.55322C510.14807 1589.55322 510.14807 1702.9393 672.19742 1702.9393" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Azul → IA para Optimización de Procesos: 2</title></path>
+<path id="flow35" d="M348.09871 1722.02683C510.14807 1722.02683 510.14807 1881.18298 672.19742 1881.18298" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Azul → IA para Análisis de Calidad: 2</title></path>
+<path id="flow39" d="M348.09871 1112.47292C510.14807 1112.47292 510.14807 1213.97832 672.19742 1213.97832" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Optimización de Precios: 2</title></path>
+<path id="flow41" d="M348.09871 544.72884C510.14807 544.72884 510.14807 417.38392 672.19742 417.38392" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Datos: 2</title></path>
+<path id="flow47" d="M348.09871 336.55601C510.14807 336.55601 510.14807 163.44103 672.19742 163.44103" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA Predictiva: 2</title></path>
+<path id="flow49" d="M348.09871 1244.94654C510.14807 1244.94654 510.14807 1551.54088 672.19742 1551.54088" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Optimización de Procesos: 2</title></path>
+<path id="flow50" d="M348.09871 1627.40282C510.14807 1627.40282 510.14807 1740.78891 672.19742 1740.78891" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Azul → IA para Optimización de Procesos: 2</title></path>
+<path id="flow55" d="M348.09871 715.05207C510.14807 715.05207 510.14807 633.47721 672.19742 633.47721" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Personalización: 2</title></path>
+<path id="flow61" d="M348.09871 752.90167C510.14807 752.90167 510.14807 671.32681 672.19742 671.32681" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Personalización: 2</title></path>
+<path id="flow63" d="M348.09871 620.42805C510.14807 620.42805 510.14807 493.08313 672.19742 493.08313" fill="none" stroke-width="37.84961" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Datos: 2</title></path>
+<path id="flow3" d="M348.09871 440.64243C510.14807 440.64243 510.14807 290.41247 672.19742 290.41247" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Clustering: 1</title></path>
+<path id="flow4" d="M348.09871 478.49203C510.14807 478.49203 510.14807 351.14711 672.19742 351.14711" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Datos: 1</title></path>
+<path id="flow5" d="M348.09871 648.81526C510.14807 648.81526 510.14807 544.35537 672.19742 544.35537" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Búsqueda Semántica: 1</title></path>
+<path id="flow6" d="M348.09871 667.74006C510.14807 667.74006 510.14807 586.1652 672.19742 586.1652" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Personalización: 1</title></path>
+<path id="flow7" d="M348.09871 781.28887C510.14807 781.28887 510.14807 722.59905 672.19742 722.59905" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Sentimientos: 1</title></path>
+<path id="flow8" d="M348.09871 838.06328C510.14807 838.06328 510.14807 802.25849 672.19742 802.25849" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA Generativa: 1</title></path>
+<path id="flow9" d="M348.09871 875.91289C510.14807 875.91289 510.14807 862.99313 672.19742 862.99313" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Evaluación de Impacto: 1</title></path>
+<path id="flow10" d="M348.09871 1352.99318C510.14807 1352.99318 510.14807 1405.64463 672.19742 1405.64463" fill="none" stroke-width="18.9248" stroke="#66a61e" opacity="0.45"><title>Cuello Azul → Visión Computacional: 1</title></path>
+<path id="flow14" d="M348.09871 913.76249C510.14807 913.76249 510.14807 923.72776 672.19742 923.72776" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Detección de Fraudes: 1</title></path>
+<path id="flow17" d="M348.09871 1371.91799C510.14807 1371.91799 510.14807 1424.56944 672.19742 1424.56944" fill="none" stroke-width="18.9248" stroke="#66a61e" opacity="0.45"><title>Cuello Azul → Visión Computacional: 1</title></path>
+<path id="flow18" d="M348.09871 1655.79002C510.14807 1655.79002 510.14807 1792.06114 672.19742 1792.06114" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Azul → IA para Mantenimiento Predictivo: 1</title></path>
+<path id="flow19" d="M348.09871 1674.71483C510.14807 1674.71483 510.14807 1833.87098 672.19742 1833.87098" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Azul → IA para Análisis de Calidad: 1</title></path>
+<path id="flow25" d="M348.09871 1390.84279C510.14807 1390.84279 510.14807 1443.49424 672.19742 1443.49424" fill="none" stroke-width="18.9248" stroke="#66a61e" opacity="0.45"><title>Cuello Azul → Visión Computacional: 1</title></path>
+<path id="flow26" d="M348.09871 1693.63963C510.14807 1693.63963 510.14807 1852.79578 672.19742 1852.79578" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Azul → IA para Análisis de Calidad: 1</title></path>
+<path id="flow30" d="M348.09871 856.98808C510.14807 856.98808 510.14807 821.18329 672.19742 821.18329" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA Generativa: 1</title></path>
+<path id="flow32" d="M348.09871 1084.08572C510.14807 1084.08572 510.14807 1185.59112 672.19742 1185.59112" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Optimización de Precios: 1</title></path>
+<path id="flow37" d="M348.09871 308.16881C510.14807 308.16881 510.14807 135.05382 672.19742 135.05382" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA Predictiva: 1</title></path>
+<path id="flow38" d="M348.09871 686.66486C510.14807 686.66486 510.14807 605.09 672.19742 605.09" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Personalización: 1</title></path>
+<path id="flow40" d="M348.09871 1159.78493C510.14807 1159.78493 510.14807 1284.17536 672.19742 1284.17536" fill="none" stroke-width="18.9248" stroke="#d95f02" opacity="0.45"><title>Cuello Blanco → Chatbots IA: 1</title></path>
+<path id="flow42" d="M348.09871 800.21368C510.14807 800.21368 510.14807 741.52385 672.19742 741.52385" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Sentimientos: 1</title></path>
+<path id="flow43" d="M348.09871 459.56723C510.14807 459.56723 510.14807 309.33728 672.19742 309.33728" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Clustering: 1</title></path>
+<path id="flow44" d="M348.09871 1216.55933C510.14807 1216.55933 510.14807 1363.8348 672.19742 1363.8348" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis Comparativo: 1</title></path>
+<path id="flow48" d="M348.09871 573.11605C510.14807 573.11605 510.14807 445.77113 672.19742 445.77113" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Datos: 1</title></path>
+<path id="flow51" d="M348.09871 1447.6172C510.14807 1447.6172 510.14807 1500.26865 672.19742 1500.26865" fill="none" stroke-width="18.9248" stroke="#66a61e" opacity="0.45"><title>Cuello Azul → Visión Computacional: 1</title></path>
+<path id="flow53" d="M348.09871 1178.70973C510.14807 1178.70973 510.14807 1303.10016 672.19742 1303.10016" fill="none" stroke-width="18.9248" stroke="#d95f02" opacity="0.45"><title>Cuello Blanco → Chatbots IA: 1</title></path>
+<path id="flow54" d="M348.09871 819.13848C510.14807 819.13848 510.14807 760.44866 672.19742 760.44866" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Sentimientos: 1</title></path>
+<path id="flow56" d="M348.09871 592.04085C510.14807 592.04085 510.14807 464.69593 672.19742 464.69593" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Análisis de Datos: 1</title></path>
+<path id="flow57" d="M348.09871 894.83769C510.14807 894.83769 510.14807 881.91793 672.19742 881.91793" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Evaluación de Impacto: 1</title></path>
+<path id="flow58" d="M348.09871 364.94322C510.14807 364.94322 510.14807 191.82823 672.19742 191.82823" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA Predictiva: 1</title></path>
+<path id="flow59" d="M348.09871 1008.38651C510.14807 1008.38651 510.14807 1064.12184 672.19742 1064.12184" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Verificación Automática: 1</title></path>
+<path id="flow64" d="M348.09871 1197.63453C510.14807 1197.63453 510.14807 1322.02496 672.19742 1322.02496" fill="none" stroke-width="18.9248" stroke="#d95f02" opacity="0.45"><title>Cuello Blanco → Chatbots IA: 1</title></path>
+<path id="flow65" d="M348.09871 1027.31131C510.14807 1027.31131 510.14807 1083.04664 672.19742 1083.04664" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Verificación Automática: 1</title></path>
+<path id="flow66" d="M348.09871 1140.86012C510.14807 1140.86012 510.14807 1242.36552 672.19742 1242.36552" fill="none" stroke-width="18.9248" stroke="#e7298a" opacity="0.45"><title>Cuello Blanco → IA para Optimización de Precios: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="537.58209" height="227.09763" width="12" fill="#d95f02" fill-opacity="1"><title>Mejora Continua:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="336.09871" y="223.0072" height="1097.63855" width="12" fill="#7570b3" fill-opacity="1"><title>Cuello Blanco:
+58</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="336.09871" y="1343.53078" height="397.42086" width="12" fill="#7570b3" fill-opacity="1"><title>Cuello Azul:
+21</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="672.19742" y="49.89221" height="208.17283" width="12" fill="#e7298a" fill-opacity="1"><title>IA Predictiva:
+11</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="672.19742" y="280.95007" height="37.84961" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Clustering:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="672.19742" y="341.68471" height="170.32322" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Análisis de Datos:
+9</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="672.19742" y="534.89297" height="18.9248" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Búsqueda Semántica:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="672.19742" y="576.7028" height="113.54882" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Personalización:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="672.19742" y="713.13665" height="56.77441" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Análisis de Sentimientos:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="672.19742" y="792.79609" height="37.84961" width="12" fill="#e7298a" fill-opacity="1"><title>IA Generativa:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="672.19742" y="853.53073" height="37.84961" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Evaluación de Impacto:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="672.19742" y="1396.18223" height="113.54882" width="12" fill="#66a61e" fill-opacity="1"><title>Visión Computacional:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="672.19742" y="1532.61608" height="227.09763" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Optimización de Procesos:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="0" y="1442.88873" height="151.39842" width="12" fill="#e6ab02" fill-opacity="1" transform="translate(0,-275.23841)"><title>Transformación Digital:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="672.19742" y="914.26536" height="18.9248" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Detección de Fraudes:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="672.19742" y="956.0752" height="37.84961" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Análisis de Comportamiento:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="672.19742" y="1782.59874" height="18.9248" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Mantenimiento Predictivo:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="672.19742" y="1824.40858" height="75.69921" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Análisis de Calidad:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="0" y="1056.47222" height="189.24803" width="12" fill="#a6761d" fill-opacity="1"><title>Logística de Entrada:
+10</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="672.19742" y="1016.80983" height="75.69921" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Verificación Automática:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="672.19742" y="1115.39408" height="37.84961" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Ranking:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="0" y="1617.17218" height="189.24803" width="12" fill="#666666" fill-opacity="1"><title>Operaciones:
+10</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="672.19742" y="1176.12871" height="75.69921" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Optimización de Precios:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="0" y="151.16558" height="189.24803" width="12" fill="#1b9e77" fill-opacity="1"><title>Marketing y Ventas:
+10</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="672.19742" y="1274.71296" height="56.77441" width="12" fill="#d95f02" fill-opacity="1"><title>Chatbots IA:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="672.19742" y="1354.3724" height="18.9248" width="12" fill="#e7298a" fill-opacity="1"><title>IA para Análisis Comparativo:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="0" y="1268.60528" height="151.39842" width="12" fill="#a6761d" fill-opacity="1"><title>Logística de Salida:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="0" y="363.29864" height="151.39842" width="12" fill="#7570b3" fill-opacity="1"><title>Servicios Posventa:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="0" y="787.56475" height="246.02243" width="12" fill="#e7298a" fill-opacity="1"><title>Soporte Continuo:
+13</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="368.6534" y="1947" font-size="15.49333px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-84.9716" y="642.32092" width="83.74535" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="651.1309" font-weight="400" font-size="10.03467px" dy="3.19">Mejora Continua</text>
+<rect id="label1_bg" class="for_r1" x="241.36149" y="761.17645" width="93.57807" height="21" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="329.80117" y="771.82647" font-weight="400" font-size="13.5184px" dy="4.35">Cuello Blanco</text>
+<rect id="label2_bg" class="for_r2" x="271.14274" y="1532.72119" width="63.93144" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="329.80117" y="1542.24121" font-weight="400" font-size="10.71627px" dy="3.48">Cuello Azul</text>
+<rect id="label3_bg" class="for_r3" x="685.83009" y="145.16862" width="65.49888" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="690.49496" y="153.97863" font-weight="400" font-size="9.95893px" dy="3.19">IA Predictiva</text>
+<rect id="label4_bg" class="for_r4" x="685.83009" y="291.77487" width="83.41703" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="690.49496" y="299.87488" font-weight="400" font-size="9.27733px" dy="2.9">IA para Clustering</text>
+<rect id="label5_bg" class="for_r5" x="685.83009" y="418.03632" width="118.78263" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="690.49496" y="426.84632" font-weight="400" font-size="9.80747px" dy="3.19">IA para Análisis de Datos</text>
+<rect id="label6_bg" class="for_r6" x="685.83009" y="536.25537" width="128.90141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="690.49496" y="544.35537" font-weight="400" font-size="9.2016px" dy="2.9">IA para Búsqueda Semántica</text>
+<rect id="label7_bg" class="for_r7" x="685.83009" y="624.66724" width="111.05216" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="690.49496" y="633.47721" font-weight="400" font-size="9.58027px" dy="3.19">IA para Personalización</text>
+<rect id="label8_bg" class="for_r8" x="685.83009" y="733.42389" width="143.62962" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="690.49496" y="741.52385" font-weight="400" font-size="9.35307px" dy="2.9">IA para Análisis de Sentimientos</text>
+<rect id="label9_bg" class="for_r9" x="685.83009" y="803.62091" width="65.90141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="690.49496" y="811.72089" font-weight="400" font-size="9.27733px" dy="2.9">IA Generativa</text>
+<rect id="label10_bg" class="for_r10" x="685.83009" y="864.35553" width="135.47953" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="690.49496" y="872.45553" font-weight="400" font-size="9.27733px" dy="2.9">IA para Evaluación de Impacto</text>
+<rect id="label11_bg" class="for_r11" x="684.83009" y="1444.14661" width="103.21391" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="690.49496" y="1452.95664" font-weight="400" font-size="9.58027px" dy="3.19">Visión Computacional</text>
+<rect id="label12_bg" class="for_r12" x="685.83009" y="1637.35486" width="160.82328" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="690.49496" y="1646.16489" font-weight="400" font-size="10.03467px" dy="3.19">IA para Optimización de Procesos</text>
+<rect id="label13_bg" class="for_r13" x="-109.3466" y="1509.77783" width="107.71391" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-275.23841)"></rect>
+<text id="label13" class="for_r13" text-anchor="end" x="-6.29754" y="1518.58794" font-weight="400" font-size="9.73173px" dy="3.19" transform="translate(0,-275.23841)">Transformación Digital</text>
+<rect id="label14_bg" class="for_r14" x="685.83009" y="915.62781" width="131.84513" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="690.49496" y="923.72776" font-weight="400" font-size="9.2016px" dy="2.9">IA para Detección de Fraudes</text>
+<rect id="label15_bg" class="for_r15" x="685.83009" y="966.90002" width="157.10453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="690.49496" y="975" font-weight="400" font-size="9.27733px" dy="2.9">IA para Análisis de Comportamiento</text>
+<rect id="label16_bg" class="for_r16" x="685.83009" y="1783.96118" width="144.74516" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="690.49496" y="1792.06114" font-weight="400" font-size="9.2016px" dy="2.9">IA para Mantenimiento Predictivo</text>
+<rect id="label17_bg" class="for_r17" x="685.83009" y="1853.44812" width="121.80766" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="690.49496" y="1862.25818" font-weight="400" font-size="9.4288px" dy="3.19">IA para Análisis de Calidad</text>
+<rect id="label18_bg" class="for_r18" x="-102.00285" y="1142.28613" width="100.86244" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="end" x="-6.29754" y="1151.09623" font-weight="400" font-size="9.8832px" dy="3.19">Logística de Entrada</text>
+<rect id="label19_bg" class="for_r19" x="685.83009" y="1045.84937" width="139.60453" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="690.49496" y="1054.65944" font-weight="400" font-size="9.4288px" dy="3.19">IA para Verificación Automática</text>
+<rect id="label20_bg" class="for_r20" x="685.83009" y="1126.21887" width="75.69828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="690.49496" y="1134.31888" font-weight="400" font-size="9.27733px" dy="2.9">IA para Ranking</text>
+<rect id="label21_bg" class="for_r21" x="-67.39348" y="1702.98608" width="65.8083" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="end" x="-6.29754" y="1711.7962" font-weight="400" font-size="9.8832px" dy="3.19">Operaciones</text>
+<rect id="label22_bg" class="for_r22" x="685.83009" y="1205.16821" width="144.05662" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="start" x="690.49496" y="1213.97832" font-weight="400" font-size="9.4288px" dy="3.19">IA para Optimización de Precios</text>
+<rect id="label23_bg" class="for_r23" x="-95.39348" y="236.9796" width="93.81286" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="end" x="-6.29754" y="245.78959" font-weight="400" font-size="9.8832px" dy="3.19">Marketing y Ventas</text>
+<rect id="label24_bg" class="for_r24" x="685.83009" y="1295.00024" width="59.3477" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="690.49496" y="1303.10016" font-weight="400" font-size="9.35307px" dy="2.9">Chatbots IA</text>
+<rect id="label25_bg" class="for_r25" x="685.83009" y="1355.73486" width="127.35453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="690.49496" y="1363.8348" font-weight="400" font-size="9.2016px" dy="2.9">IA para Análisis Comparativo</text>
+<rect id="label26_bg" class="for_r26" x="-93.5966" y="1335.49438" width="92.53845" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="end" x="-6.29754" y="1344.30449" font-weight="400" font-size="9.73173px" dy="3.19">Logística de Salida</text>
+<rect id="label27_bg" class="for_r27" x="-94.11223" y="430.18787" width="93.06104" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="end" x="-6.29754" y="438.99785" font-weight="400" font-size="9.73173px" dy="3.19">Servicios Posventa</text>
+<rect id="label28_bg" class="for_r28" x="-90.06535" y="901.76599" width="88.79492" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="end" x="-6.29754" y="910.57597" font-weight="400" font-size="10.1104px" dy="3.19">Soporte Continuo</text>
+</g>
+</g></svg>

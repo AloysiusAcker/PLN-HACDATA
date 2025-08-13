@@ -1,0 +1,131 @@
+<svg height="1972" width="980" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 3/6/2025, 20:42:17 -->
+<rect height="1972" width="980" fill="#ffffff"></rect>
+<g transform="translate(107.9694,18)">
+<g id="sankey_flows">
+<path id="flow2" d="M12 1306.545C170.57766 1306.545 170.57766 1358.19632 329.15532 1358.19632" fill="none" stroke-width="773.605" stroke="#d95f02" opacity="0.45"><title>Sostenibilidad → Sostenibilidad y RSE: 14</title></path>
+<path id="flow1" d="M12 643.455C170.57766 643.455 170.57766 591.80368 329.15532 591.80368" fill="none" stroke-width="552.575" stroke="#d95f02" opacity="0.45"><title>Sostenibilidad → Cadena de Suministro Extendida: 10</title></path>
+<path id="flow0" d="M12 311.91C170.57766 311.91 170.57766 208.60737 329.15532 208.60737" fill="none" stroke-width="110.515" stroke="#d95f02" opacity="0.45"><title>Sostenibilidad → Logística/Operativa: 2</title></path>
+<path id="flow3" d="M341.15532 208.60737C499.73298 208.60737 499.73298 105.30474 658.31064 105.30474" fill="none" stroke-width="110.515" stroke="#66a61e" opacity="0.45"><title>Logística/Operativa → Control de Condiciones: 2</title></path>
+<path id="flow4" d="M341.15532 370.77368C499.73298 370.77368 499.73298 250.25395 658.31064 250.25395" fill="none" stroke-width="110.515" stroke="#e6ab02" opacity="0.45"><title>Cadena de Suministro Extendida → Selección de Proveedores ESG: 2</title></path>
+<path id="flow5" d="M341.15532 481.28868C499.73298 481.28868 499.73298 395.20316 658.31064 395.20316" fill="none" stroke-width="110.515" stroke="#a6761d" opacity="0.45"><title>Cadena de Suministro Extendida → Certificación de Insumos: 2</title></path>
+<path id="flow6" d="M341.15532 591.80368C499.73298 591.80368 499.73298 540.15237 658.31064 540.15237" fill="none" stroke-width="110.515" stroke="#666666" opacity="0.45"><title>Cadena de Suministro Extendida → Reducción de Emisiones: 2</title></path>
+<path id="flow7" d="M341.15532 702.31868C499.73298 702.31868 499.73298 685.10158 658.31064 685.10158" fill="none" stroke-width="110.515" stroke="#1b9e77" opacity="0.45"><title>Cadena de Suministro Extendida → Uso de Vehículos Sostenibles: 2</title></path>
+<path id="flow8" d="M341.15532 812.83368C499.73298 812.83368 499.73298 830.05079 658.31064 830.05079" fill="none" stroke-width="110.515" stroke="#d95f02" opacity="0.45"><title>Cadena de Suministro Extendida → Implementación de Embalajes Reutilizables: 2</title></path>
+<path id="flow9" d="M341.15532 1026.65132C499.73298 1026.65132 499.73298 975 658.31064 975" fill="none" stroke-width="110.515" stroke="#7570b3" opacity="0.45"><title>Sostenibilidad y RSE → Reciclaje de Retazos: 2</title></path>
+<path id="flow10" d="M341.15532 1137.16632C499.73298 1137.16632 499.73298 1119.94921 658.31064 1119.94921" fill="none" stroke-width="110.515" stroke="#e7298a" opacity="0.45"><title>Sostenibilidad y RSE → Reutilización de Materiales: 2</title></path>
+<path id="flow11" d="M341.15532 1247.68132C499.73298 1247.68132 499.73298 1264.89842 658.31064 1264.89842" fill="none" stroke-width="110.515" stroke="#66a61e" opacity="0.45"><title>Sostenibilidad y RSE → Optimización de Consumo: 2</title></path>
+<path id="flow12" d="M341.15532 1358.19632C499.73298 1358.19632 499.73298 1409.84763 658.31064 1409.84763" fill="none" stroke-width="110.515" stroke="#e6ab02" opacity="0.45"><title>Sostenibilidad y RSE → Gestión de Residuos Líquidos: 2</title></path>
+<path id="flow13" d="M341.15532 1468.71132C499.73298 1468.71132 499.73298 1554.79684 658.31064 1554.79684" fill="none" stroke-width="110.515" stroke="#a6761d" opacity="0.45"><title>Sostenibilidad y RSE → Capacitación a Comunidades: 2</title></path>
+<path id="flow14" d="M341.15532 1579.22632C499.73298 1579.22632 499.73298 1699.74605 658.31064 1699.74605" fill="none" stroke-width="110.515" stroke="#666666" opacity="0.45"><title>Sostenibilidad y RSE → Apoyo a Emprendedores Locales: 2</title></path>
+<path id="flow15" d="M341.15532 1689.74132C499.73298 1689.74132 499.73298 1844.69526 658.31064 1844.69526" fill="none" stroke-width="110.515" stroke="#1b9e77" opacity="0.45"><title>Sostenibilidad y RSE → Elaboración de Informes ESG: 2</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="256.6525" height="1436.695" width="12" fill="#d95f02" fill-opacity="1"><title>Sostenibilidad:
+26</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="329.15532" y="153.34987" height="110.515" width="12" fill="#7570b3" fill-opacity="1"><title>Logística/Operativa:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="329.15532" y="315.51618" height="552.575" width="12" fill="#e7298a" fill-opacity="1"><title>Cadena de Suministro Extendida:
+10</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="329.15532" y="971.39382" height="773.605" width="12" fill="#d95f02" fill-opacity="1"><title>Sostenibilidad y RSE:
+14</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="658.31064" y="50.04724" height="110.515" width="12" fill="#66a61e" fill-opacity="1"><title>Control de Condiciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="658.31064" y="194.99645" height="110.515" width="12" fill="#e6ab02" fill-opacity="1"><title>Selección de Proveedores ESG:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="658.31064" y="339.94566" height="110.515" width="12" fill="#a6761d" fill-opacity="1"><title>Certificación de Insumos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="658.31064" y="484.89487" height="110.515" width="12" fill="#666666" fill-opacity="1"><title>Reducción de Emisiones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="658.31064" y="629.84408" height="110.515" width="12" fill="#1b9e77" fill-opacity="1"><title>Uso de Vehículos Sostenibles:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="658.31064" y="774.79329" height="110.515" width="12" fill="#d95f02" fill-opacity="1"><title>Implementación de Embalajes Reutilizables:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="658.31064" y="919.7425" height="110.515" width="12" fill="#7570b3" fill-opacity="1"><title>Reciclaje de Retazos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="658.31064" y="1064.69171" height="110.515" width="12" fill="#e7298a" fill-opacity="1"><title>Reutilización de Materiales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="658.31064" y="1209.64092" height="110.515" width="12" fill="#66a61e" fill-opacity="1"><title>Optimización de Consumo:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="658.31064" y="1354.59013" height="110.515" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Residuos Líquidos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="658.31064" y="1499.53934" height="110.515" width="12" fill="#a6761d" fill-opacity="1"><title>Capacitación a Comunidades:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="658.31064" y="1644.48855" height="110.515" width="12" fill="#666666" fill-opacity="1"><title>Apoyo a Emprendedores Locales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="658.31064" y="1789.43776" height="110.515" width="12" fill="#1b9e77" fill-opacity="1"><title>Elaboración de Informes ESG:
+2</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="382.0306" y="1947" font-size="15.49333px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-95.48723" y="964.34998" width="94.33668" height="21" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="975" font-weight="400" font-size="13.5184px" dy="4.35">Sostenibilidad</text>
+<rect id="label1_bg" class="for_r1" x="238.52748" y="200.50737" width="88.99516" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="322.85778" y="208.60737" font-weight="400" font-size="9.2016px" dy="2.9">Logística/Operativa</text>
+<rect id="label2_bg" class="for_r2" x="162.2306" y="582.28363" width="165.36985" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="322.85778" y="591.80368" font-weight="400" font-size="10.64053px" dy="3.48">Cadena de Suministro Extendida</text>
+<rect id="label3_bg" class="for_r3" x="211.69935" y="1348.67627" width="116.23637" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="322.85778" y="1358.19632" font-weight="400" font-size="11.36px" dy="3.48">Sostenibilidad y RSE</text>
+<rect id="label4_bg" class="for_r4" x="671.94331" y="97.20474" width="105.76353" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="676.60818" y="105.30474" font-weight="400" font-size="9.2016px" dy="2.9">Control de Condiciones</text>
+<rect id="label5_bg" class="for_r5" x="671.94331" y="242.15395" width="139.12016" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="676.60818" y="250.25395" font-weight="400" font-size="9.2016px" dy="2.9">Selección de Proveedores ESG</text>
+<rect id="label6_bg" class="for_r6" x="671.94331" y="387.10315" width="110.86216" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="676.60818" y="395.20316" font-weight="400" font-size="9.2016px" dy="2.9">Certificación de Insumos</text>
+<rect id="label7_bg" class="for_r7" x="671.94331" y="532.05237" width="111.38328" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="676.60818" y="540.15237" font-weight="400" font-size="9.2016px" dy="2.9">Reducción de Emisiones</text>
+<rect id="label8_bg" class="for_r8" x="671.94331" y="677.00159" width="131.84965" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="676.60818" y="685.10158" font-weight="400" font-size="9.2016px" dy="2.9">Uso de Vehículos Sostenibles</text>
+<rect id="label9_bg" class="for_r9" x="671.94331" y="821.95081" width="188.08726" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="676.60818" y="830.05079" font-weight="400" font-size="9.2016px" dy="2.9">Implementación de Embalajes Reutilizables</text>
+<rect id="label10_bg" class="for_r10" x="671.94331" y="966.90002" width="96.55009" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="676.60818" y="975" font-weight="400" font-size="9.2016px" dy="2.9">Reciclaje de Retazos</text>
+<rect id="label11_bg" class="for_r11" x="671.94331" y="1111.84924" width="120.07115" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="676.60818" y="1119.94921" font-weight="400" font-size="9.2016px" dy="2.9">Reutilización de Materiales</text>
+<rect id="label12_bg" class="for_r12" x="671.94331" y="1256.79846" width="117.63578" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="676.60818" y="1264.89842" font-weight="400" font-size="9.2016px" dy="2.9">Optimización de Consumo</text>
+<rect id="label13_bg" class="for_r13" x="671.94331" y="1401.74768" width="132.87382" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="676.60818" y="1409.84763" font-weight="400" font-size="9.2016px" dy="2.9">Gestión de Residuos Líquidos</text>
+<rect id="label14_bg" class="for_r14" x="671.94331" y="1546.6969" width="130.31333" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="676.60818" y="1554.79684" font-weight="400" font-size="9.2016px" dy="2.9">Capacitación a Comunidades</text>
+<rect id="label15_bg" class="for_r15" x="670.94331" y="1691.64612" width="147.17069" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="676.60818" y="1699.74605" font-weight="400" font-size="9.2016px" dy="2.9">Apoyo a Emprendedores Locales</text>
+<rect id="label16_bg" class="for_r16" x="671.94331" y="1836.59534" width="131.44828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="676.60818" y="1844.69526" font-weight="400" font-size="9.2016px" dy="2.9">Elaboración de Informes ESG</text>
+</g>
+</g></svg>
