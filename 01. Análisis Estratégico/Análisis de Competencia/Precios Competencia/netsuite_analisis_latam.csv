@@ -1,0 +1,10 @@
+Producto;Pais;Plan/Nivel;Precio USD mensual;Usuarios incluidos;Modulo;Moneda base;Equivalencia/Notas;Fuente URL;Escenario;ERP Base USD;Usuarios Full;Precio Usuario Full USD;Usuarios Limitados;Precio Usuario Limitado USD;Modulos Avanzados USD;Implementacion USD;Total Mensual USD Aproximado
+NetSuite ERP;Peru;Licencia base; $999.00 ;-;ERP base;USD;USD 999 fijo;https://www.erpresearch.com/en-us/netsuite-costs;Pequena (10 usuarios);999;10;150;0;0;600;0;3499
+NetSuite ERP;Chile;Licencia base; $999.00 ;-;ERP base;USD;USD 999 fijo;https://www.erpresearch.com/en-us/netsuite-costs;Mediana (25 usuarios);999;25;150;5;75;1200;0;6374
+NetSuite ERP;Colombia;Licencia base; $999.00 ;-;ERP base;USD;USD 999 fijo;https://www.erpresearch.com/en-us/netsuite-costs;Grande (50 usuarios);999;50;150;10;75;1800;0;10499
+NetSuite ERP;LATAM;Usuario full; $150.00 ;1;Licencia usuario full;USD;USD 100 a 200;https://www.erpresearch.com/en-us/netsuite-costs;;;;;;;;;
+NetSuite ERP;LATAM;Usuario limitado; $75.00 ;1;Licencia usuario limitado;USD;USD 50 a 100;https://www.erpresearch.com/en-us/netsuite-costs;;;;;;;;;
+NetSuite ERP;LATAM;Modulo Advanced Financials; $600.00 ;-;Finanzas avanzadas;USD;USD 400 a 800;https://www.erpresearch.com/en-us/netsuite-costs;;;;;;;;;
+NetSuite ERP;LATAM;Modulo Advanced Inventory; $600.00 ;-;Inventario avanzado;USD;USD 400 a 800;https://www.erpresearch.com/en-us/netsuite-costs;;;;;;;;;
+NetSuite ERP;LATAM;Modulo CRM; $450.00 ;-;CRM;USD;USD 300 a 600;https://www.erpresearch.com/en-us/netsuite-costs;;;;;;;;;
+NetSuite ERP;LATAM;Implementacion; $4,000.00 ;-;Costo proyecto mensual estimado;USD;USD 25000 a 100000 dividido 12;https://www.proteloinc.com/netsuite-pricing-guide;;;;;;;;;

@@ -1,0 +1,13 @@
+Vendor;Producto;Pais;Plan/Nivel;Precio_USD_mensual_usuario;Usuarios_proyectados;Costo_Licencias_USD_mensual;Costo_Implementacion_USD_unico;Costo_Mantenimiento_USD_anual;Modulo;Moneda_base;Notas;Fuente_URL
+SAP,SAP Business One,LATAM,Starter Cloud,40.0,5,200.0,6000,0,Starter Package Cloud,USD,5 usuarios Starter; implementacion express; SaaS incluye mantenimiento,https://www.seidor.com;;;;;;;;;;
+SAP,SAP Business One,LATAM,Profesional Cloud,90.0,20,1800.0,30000,0,Usuario Profesional Cloud,USD,20 usuarios full; implementacion estandar; SaaS incluye mantenimiento,https://www.seidor.com;;;;;;;;;;
+SAP,SAP S/4HANA,LATAM,Cloud Public Edition,183.0,50,9166.0,150000,0,ERP Cloud Public,USD,Base 110000 USD/año; 50 usuarios; implementacion sector comercial,https://www.sap.com;;;;;;;;;;
+NetSuite,NetSuite ERP,LATAM,Licencia Base ERP,999.0,1,999.0,30000,0,ERP Base,USD,Licencia base mensual estimada; usuarios adicionales se suman,https://www.erpresearch.com;;;;;;;;;;;
+NetSuite,NetSuite ERP,LATAM,Usuario Full,150.0,10,1500.0,0,0,Usuario Full,USD,10 usuarios full promedio,https://www.erpresearch.com;;;;;;;;;;;;
+NetSuite,NetSuite ERP,LATAM,Modulo Advanced,600.0,1,600.0,0,0,Modulo Advanced,USD,Modulo avanzado agregado,https://www.erpresearch.com;;;;;;;;;;;;
+Defontana,Defontana ERP PyME,Peru,Inicio,30.0,1,30.0,0,0,ERP PyME Inicio,USD,1 usuario; SaaS incluye soporte,https://www.defontana.com/pe/;;;;;;;;;;;
+Defontana,Defontana ERP PyME,Chile,Inicio,90.0,1,90.0,0,0,ERP PyME Inicio,USD,1 usuario; precio en UF convertido,https://www.defontana.com/cl/;;;;;;;;;;;
+Defontana,Defontana ERP PyME,Colombia,Starter,62.5,1,62.5,0,0,ERP PyME Starter,USD,1 usuario; COP convertido,https://www.defontana.com/co/;;;;;;;;;;;
+Buk,Buk RH,Peru,Minimo,110.0,1,110.0,0,0,RH completo,USD,Hasta 20 usuarios minimos estimados,https://www.buk.pe/;;;;;;;;;;;;
+Buk,Buk RH,Chile,Minimo,120.0,1,120.0,0,0,RH completo,USD,Hasta 20 usuarios minimos estimados,https://www.buk.cl/;;;;;;;;;;;;
+Buk,Buk RH,Colombia,Minimo,80.0,1,80.0,0,0,RH completo,USD,Hasta 16 usuarios estimados,https://www.buk.co/;;;;;;;;;;;;

@@ -1,0 +1,9 @@
+Producto;Pais;Plan/Nivel;Precio USD mensual;Usuarios incluidos;Modulo;Moneda base;Equivalencia/Notas;Fuente URL
+Buk;Peru;Minimo;USD 110.00;hasta 20 aprox;Todos incluidos;USD;USD 110.00;https://www.buk.pe/
+Buk;Chile;Minimo;USD 120.00;hasta 20 aprox;Todos incluidos;USD;USD 120.00;https://www.buk.cl/
+Buk;Colombia;Minimo;USD 80.00;hasta 16;Todos incluidos;USD;USD 80.00;https://www.buk.co/
+Buk;Mexico;Minimo estimado;USD 115.00;hasta 20 aprox;Todos incluidos;USD;USD 115.00;https://www.buk.mx/
+Buk;Colombia;Tramo 17-40;USD 4.50;por colaborador;Todos incluidos;USD;USD 4.50;https://www.buk.co/
+Buk;Colombia;Tramo 41-250;USD 3.30;por colaborador;Todos incluidos;USD;USD 3.30;https://www.buk.co/
+Buk;Colombia;Tramo 251-500;USD 2.50;por colaborador;Todos incluidos;USD;USD 2.50;https://www.buk.co/
+Buk;Colombia;Tramo 501-1000;USD 2.00;por colaborador;Todos incluidos;USD;USD 2.00;https://www.buk.co/

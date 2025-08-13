@@ -1,0 +1,28 @@
+Producto;País;Plan/Nivel;Precio USD mensual;Usuarios incluidos;Módulo;Moneda base;Equivalencia/Notas;Fuente URL
+ERP PyME;Perú;Enterprise; $95.00 ;5;Contabilidad Enterprise;USD;USD 95.00;https://www.defontana.com/pe/contabilidad/
+ERP PyME;Chile;Inicio; $90.00 ;1;ERP base;USD;USD 90.00;https://www.defontana.com/cl/
+ERP PyME;Colombia;Starter; $62.50 ;1;ERP base;USD;USD 62.50;https://www.defontana.com/co/
+ERP PyME;Perú;Enterprise; $50.00 ;6;POS Enterprise;USD;USD 50.00;https://www.defontana.com/pe/pos/
+ERP PyME;Chile;Pro; $126.00 ;3;ERP avanzado;USD;USD 126.00;https://www.defontana.com/cl/
+ERP PyME;Colombia;Pro; $100.00 ;3;ERP avanzado;USD;USD 100.00;https://www.defontana.com/co/
+ERP PyME;Perú;Full; $180.00 ;6;ERP completo;USD;USD 180.00;https://www.defontana.com/pe/
+ERP PyME;Chile;Pro+; $251.64 ;6;ERP completo;USD;USD 251.64;https://www.defontana.com/cl/
+ERP PyME;Colombia;Enterprise; $200.00 ;6;ERP completo;USD;USD 200.00;https://www.defontana.com/co/
+RRHH;Chile;Starter; $43.20 ;-;RRHH Básico;USD;USD 43.20;https://www.defontana.com/cl/rrhh/
+RRHH;Colombia;Starter; $50.00 ;-;RRHH Básico;USD;USD 50.00;https://www.defontana.com/co/rrhh/
+RRHH;Chile;Pro; $79.20 ;-;RRHH Pro;USD;USD 79.20;https://www.defontana.com/cl/rrhh/
+RRHH;Colombia;Pro; $125.00 ;-;RRHH Pro;USD;USD 125.00;https://www.defontana.com/co/rrhh/
+RRHH;Chile;Enterprise; $115.20 ;-;RRHH Enterprise;USD;USD 115.20;https://www.defontana.com/cl/rrhh/
+RRHH;Colombia;Enterprise; $250.00 ;-;RRHH Enterprise;USD;USD 250.00;https://www.defontana.com/co/rrhh/
+Contabilidad;Perú;Inicio; $30.00 ;1;ERP base;USD;USD 30.00;https://www.defontana.com/pe/
+Contabilidad;Chile;Starter (estimado); $284.40 ;-;Contabilidad Básica;USD;USD 284.40;https://www.defontana.com/cl/
+Contabilidad;Perú;Pro; $90.00 ;3;ERP avanzado;USD;USD 90.00;https://www.defontana.com/pe/
+Contabilidad;Chile;Pro (estimado); $320.40 ;-;Contabilidad Pro;USD;USD 320.40;https://www.defontana.com/cl/
+Contabilidad;Perú;Pro; $60.00 ;3;Contabilidad Pro;USD;USD 60.00;https://www.defontana.com/pe/contabilidad/
+Contabilidad;Chile;Enterprise (estimado); $392.40 ;-;Contabilidad Enterprise;USD;USD 392.40;https://www.defontana.com/cl/
+POS;Perú;Pro; $30.00 ;4;POS Pro;USD;USD 30.00;https://www.defontana.com/pe/pos/
+POS;Chile;Starter (estimado); $36.00 ;2;POS Básico;USD;USD 36.00;https://www.defontana.com/cl/
+POS;Perú;Starter; $40.00 ;1;Contabilidad Básica;USD;USD 40.00;https://www.defontana.com/pe/contabilidad/
+POS;Chile;Pro (estimado); $54.00 ;4;POS Pro;USD;USD 54.00;https://www.defontana.com/cl/
+POS;Perú;Starter; $20.00 ;2;POS Básico;USD;USD 20.00;https://www.defontana.com/pe/pos/
+POS;Chile;Enterprise (estimado); $72.00 ;6;POS Enterprise;USD;USD 72.00;https://www.defontana.com/cl/

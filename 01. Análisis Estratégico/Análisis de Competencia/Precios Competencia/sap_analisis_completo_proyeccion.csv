@@ -1,0 +1,8 @@
+Producto;Pais;Plan/Nivel;Precio USD mensual usuario;Usuarios proyectados;Costo Licencias USD mensual;Costo Implementacion USD unico;Costo Mantenimiento USD anual;Modulo;Moneda base;Notas;Fuente URL
+SAP Business One;LATAM;Starter Cloud;40;5;200;6000;0;Starter Package Cloud;USD;5 usuarios Starter;
+SAP Business One;LATAM;Profesional Cloud;90;20;1800;30000;0;Usuario Profesional Cloud;USD;20 usuarios full;
+SAP Business One;LATAM;Licencia perpetua Profesional;225;10;2250;30000;5400;Usuario Profesional On-premise;USD;10 usuarios full;
+SAP Business One;LATAM;Licencia perpetua Limitada;117;10;1170;30000;2800;Usuario Limitado On-premise;USD;10 usuarios limitados;
+SAP S/4HANA;LATAM;Cloud Public Edition;183;50;9166;150000;0;ERP Cloud Public;USD;Base 110000 USD/año ~9166 USD/mes;
+SAP S/4HANA;LATAM;Cloud Private Edition;266;50;13333;350000;0;ERP Cloud Private;USD;Base 160000 USD/año ~13333 USD/mes;
+SAP S/4HANA;LATAM;Licencia perpetua usuario base;83;50;4166;500000;100000;Usuario base On-premise;USD;Base 1000 USD prorrateado ~83 USD/mes;
