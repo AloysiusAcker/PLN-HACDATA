@@ -1,0 +1,778 @@
+<svg height="1972" width="980" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 3/6/2025, 21:14:43 -->
+<rect height="1972" width="980" fill="#ffffff"></rect>
+<g transform="translate(138.73625,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 95.47C162.47538 95.47 162.47538 83.84534 312.95076 83.84534" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Recepción de Algodón: 2</title></path>
+<path id="flow1" d="M12 136.95C162.47538 136.95 162.47538 131.13767 312.95076 131.13767" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Recepción de Tintes: 2</title></path>
+<path id="flow2" d="M12 157.69v41.48L312.95076 199.17v-41.48z" fill="#d95f02" stroke-width="0.5" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Validación de Importaciones: 2</title></path>
+<path id="flow3" d="M12 219.91C162.47538 219.91 162.47538 225.72234 312.95076 225.72234" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Selección de Proveedores ESG: 2</title></path>
+<path id="flow4" d="M12 261.39C162.47538 261.39 162.47538 273.01467 312.95076 273.01467" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Certificación de Insumos: 2</title></path>
+<path id="flow15" d="M12 366.80567C162.47538 366.80567 162.47538 352.27484 312.95076 352.27484" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Operaciones → Creación de Patrones: 2</title></path>
+<path id="flow16" d="M12 408.28567C162.47538 408.28567 162.47538 399.56717 312.95076 399.56717" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Operaciones → Prototipado de Prendas: 2</title></path>
+<path id="flow17" d="M12 449.76567C162.47538 449.76567 162.47538 446.8595 312.95076 446.8595" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Operaciones → Producción de Hilos: 2</title></path>
+<path id="flow18" d="M12 491.24567C162.47538 491.24567 162.47538 494.15184 312.95076 494.15184" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Operaciones → Control de Calidad de Hilos: 2</title></path>
+<path id="flow19" d="M12 532.72567C162.47538 532.72567 162.47538 541.44417 312.95076 541.44417" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Operaciones → Costura de Prendas: 2</title></path>
+<path id="flow20" d="M12 574.20567C162.47538 574.20567 162.47538 588.7365 312.95076 588.7365" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Operaciones → Acabado de Prendas: 2</title></path>
+<path id="flow33" d="M12 685.43367C162.47538 685.43367 162.47538 670.90283 312.95076 670.90283" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Marketing y Ventas → Generación de Leads: 2</title></path>
+<path id="flow34" d="M12 726.91367C162.47538 726.91367 162.47538 718.19517 312.95076 718.19517" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Marketing y Ventas → Seguimiento de Leads: 2</title></path>
+<path id="flow35" d="M12 768.39367C162.47538 768.39367 162.47538 765.4875 312.95076 765.4875" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Marketing y Ventas → Emisión de Cotizaciones: 2</title></path>
+<path id="flow36" d="M12 809.87367C162.47538 809.87367 162.47538 812.77983 312.95076 812.77983" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Marketing y Ventas → Negociación con Clientes: 2</title></path>
+<path id="flow37" d="M12 851.35367C162.47538 851.35367 162.47538 860.07217 312.95076 860.07217" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Marketing y Ventas → Creación de Campañas Publicitarias: 2</title></path>
+<path id="flow38" d="M12 892.83367C162.47538 892.83367 162.47538 907.3645 312.95076 907.3645" fill="none" stroke-width="41.48" stroke="#a6761d" opacity="0.45"><title>Marketing y Ventas → Promociones en Punto de Venta: 2</title></path>
+<path id="flow51" d="M12 1015.68633C162.47538 1015.68633 162.47538 995.34317 312.95076 995.34317" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Coordinación de Transporte: 2</title></path>
+<path id="flow52" d="M12 1057.16633C162.47538 1057.16633 162.47538 1042.6355 312.95076 1042.6355" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Seguimiento de Entregas: 2</title></path>
+<path id="flow53" d="M12 1098.64633C162.47538 1098.64633 162.47538 1089.92783 312.95076 1089.92783" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Preparación de Pedidos: 2</title></path>
+<path id="flow54" d="M12 1140.12633C162.47538 1140.12633 162.47538 1137.22017 312.95076 1137.22017" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Empaquetado y Etiquetado: 2</title></path>
+<path id="flow55" d="M12 1181.60633C162.47538 1181.60633 162.47538 1184.5125 312.95076 1184.5125" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Control de Stock de Producto Terminado: 2</title></path>
+<path id="flow56" d="M12 1223.08633C162.47538 1223.08633 162.47538 1231.80483 312.95076 1231.80483" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Procesamiento de Devoluciones: 2</title></path>
+<path id="flow57" d="M12 1264.56633C162.47538 1264.56633 162.47538 1279.09717 312.95076 1279.09717" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Uso de Vehículos Sostenibles: 2</title></path>
+<path id="flow58" d="M12 1306.04633C162.47538 1306.04633 162.47538 1326.3895 312.95076 1326.3895" fill="none" stroke-width="41.48" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Implementación de Embalajes Reutilizables: 2</title></path>
+<path id="flow75" d="M12 1452.14833C162.47538 1452.14833 162.47538 1425.99283 312.95076 1425.99283" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Gestión de Reclamos: 2</title></path>
+<path id="flow76" d="M12 1493.62833C162.47538 1493.62833 162.47538 1473.28516 312.95076 1473.28516" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Soporte en Punto de Venta: 2</title></path>
+<path id="flow77" d="M12 1535.10833C162.47538 1535.10833 162.47538 1520.5775 312.95076 1520.5775" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Análisis de Satisfacción: 2</title></path>
+<path id="flow78" d="M12 1576.58833C162.47538 1576.58833 162.47538 1567.86983 312.95076 1567.86983" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Recopilación de Opiniones en Línea: 2</title></path>
+<path id="flow79" d="M12 1618.06833C162.47538 1618.06833 162.47538 1615.16216 312.95076 1615.16216" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Procesamiento de Garantías: 2</title></path>
+<path id="flow80" d="M12 1659.54833C162.47538 1659.54833 162.47538 1662.4545 312.95076 1662.4545" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Seguimiento de Reparaciones: 2</title></path>
+<path id="flow81" d="M12 1701.02833C162.47538 1701.02833 162.47538 1709.74683 312.95076 1709.74683" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Asesoramiento de Moda: 2</title></path>
+<path id="flow82" d="M12 1742.50833C162.47538 1742.50833 162.47538 1757.03916 312.95076 1757.03916" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Gestión de Pedidos Especiales: 2</title></path>
+<path id="flow83" d="M12 1783.98833C162.47538 1783.98833 162.47538 1804.3315 312.95076 1804.3315" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Reciclaje de Retazos: 2</title></path>
+<path id="flow84" d="M12 1825.46833C162.47538 1825.46833 162.47538 1851.62383 312.95076 1851.62383" fill="none" stroke-width="41.48" stroke="#7570b3" opacity="0.45"><title>Servicios Posventa → Reutilización de Materiales: 2</title></path>
+<path id="flow5" d="M324.95076 73.47534C475.42614 73.47534 475.42614 58.9445 625.90152 58.9445" fill="none" stroke-width="20.74" stroke="#a6761d" opacity="0.45"><title>Recepción de Algodón → Verificar calidad de algodón: 1</title></path>
+<path id="flow6" d="M324.95076 94.21534C475.42614 94.21534 475.42614 85.49683 625.90152 85.49683" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Recepción de Algodón → Registrar en ticket: 1</title></path>
+<path id="flow7" d="M324.95076 120.76767C475.42614 120.76767 475.42614 112.04917 625.90152 112.04917" fill="none" stroke-width="20.74" stroke="#1b9e77" opacity="0.45"><title>Recepción de Tintes → Comprobar especificaciones de color: 1</title></path>
+<path id="flow8" d="M324.95076 141.50767C475.42614 141.50767 475.42614 138.6015 625.90152 138.6015" fill="none" stroke-width="20.74" stroke="#d95f02" opacity="0.45"><title>Recepción de Tintes → Actualizar inventario en sistema: 1</title></path>
+<path id="flow9" d="M324.95076 168.06C475.42614 168.06 475.42614 165.15383 625.90152 165.15383" fill="none" stroke-width="20.74" stroke="#7570b3" opacity="0.45"><title>Validación de Importaciones → Revisar documentación aduanera: 1</title></path>
+<path id="flow10" d="M324.95076 188.8C475.42614 188.8 475.42614 191.70617 625.90152 191.70617" fill="none" stroke-width="20.74" stroke="#d95f02" opacity="0.45"><title>Validación de Importaciones → Actualizar ticket: 1</title></path>
+<path id="flow11" d="M324.95076 215.35234C475.42614 215.35234 475.42614 218.2585 625.90152 218.2585" fill="none" stroke-width="20.74" stroke="#e7298a" opacity="0.45"><title>Selección de Proveedores ESG → Evaluar impacto ambiental: 1</title></path>
+<path id="flow12" d="M324.95076 236.09234C475.42614 236.09234 475.42614 244.81083 625.90152 244.81083" fill="none" stroke-width="20.74" stroke="#66a61e" opacity="0.45"><title>Selección de Proveedores ESG → Seleccionar proveedores: 1</title></path>
+<path id="flow13" d="M324.95076 262.64467C475.42614 262.64467 475.42614 271.36317 625.90152 271.36317" fill="none" stroke-width="20.74" stroke="#a6761d" opacity="0.45"><title>Certificación de Insumos → Verificar certificaciones orgánicas: 1</title></path>
+<path id="flow14" d="M324.95076 283.38467C475.42614 283.38467 475.42614 297.9155 625.90152 297.9155" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Certificación de Insumos → Documentar cumplimiento: 1</title></path>
+<path id="flow21" d="M324.95076 341.90484C475.42614 341.90484 475.42614 324.46783 625.90152 324.46783" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Creación de Patrones → Diseñar patrón digital: 1</title></path>
+<path id="flow22" d="M324.95076 362.64484C475.42614 362.64484 475.42614 351.02017 625.90152 351.02017" fill="none" stroke-width="20.74" stroke="#a6761d" opacity="0.45"><title>Creación de Patrones → Validar diseño: 1</title></path>
+<path id="flow23" d="M324.95076 389.19717C475.42614 389.19717 475.42614 377.5725 625.90152 377.5725" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Prototipado de Prendas → Confeccionar prototipos: 1</title></path>
+<path id="flow24" d="M324.95076 409.93717C475.42614 409.93717 475.42614 404.12483 625.90152 404.12483" fill="none" stroke-width="20.74" stroke="#1b9e77" opacity="0.45"><title>Prototipado de Prendas → Realizar pruebas de ajuste: 1</title></path>
+<path id="flow25" d="M324.95076 436.4895C475.42614 436.4895 475.42614 430.67717 625.90152 430.67717" fill="none" stroke-width="20.74" stroke="#d95f02" opacity="0.45"><title>Producción de Hilos → Configurar máquinas de hilado: 1</title></path>
+<path id="flow26" d="M324.95076 446.8595v20.74L625.90152 467.5995v-20.74z" fill="#7570b3" stroke-width="0.5" stroke="#7570b3" opacity="0.45"><title>Producción de Hilos → Supervisar proceso: 1</title></path>
+<path id="flow27" d="M324.95076 473.41184v20.74L625.90152 494.15183v-20.74z" fill="#e7298a" stroke-width="0.5" stroke="#e7298a" opacity="0.45"><title>Control de Calidad de Hilos → Inspeccionar grosor y resistencia: 1</title></path>
+<path id="flow28" d="M324.95076 504.52184C475.42614 504.52184 475.42614 510.33417 625.90152 510.33417" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Control de Calidad de Hilos → Registrar defectos: 1</title></path>
+<path id="flow29" d="M324.95076 531.07417C475.42614 531.07417 475.42614 536.8865 625.90152 536.8865" fill="none" stroke-width="20.74" stroke="#66a61e" opacity="0.45"><title>Costura de Prendas → Coser componentes: 1</title></path>
+<path id="flow30" d="M324.95076 551.81417C475.42614 551.81417 475.42614 563.43883 625.90152 563.43883" fill="none" stroke-width="20.74" stroke="#a6761d" opacity="0.45"><title>Costura de Prendas → Verificar costuras: 1</title></path>
+<path id="flow31" d="M324.95076 578.3665C475.42614 578.3665 475.42614 589.99117 625.90152 589.99117" fill="none" stroke-width="20.74" stroke="#1b9e77" opacity="0.45"><title>Acabado de Prendas → Realizar planchado y empaquetado: 1</title></path>
+<path id="flow32" d="M324.95076 599.1065C475.42614 599.1065 475.42614 616.5435 625.90152 616.5435" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Acabado de Prendas → Etiquetar productos: 1</title></path>
+<path id="flow39" d="M324.95076 660.53283C475.42614 660.53283 475.42614 643.09583 625.90152 643.09583" fill="none" stroke-width="20.74" stroke="#66a61e" opacity="0.45"><title>Generación de Leads → Crear campañas en Gamarra: 1</title></path>
+<path id="flow40" d="M324.95076 681.27283C475.42614 681.27283 475.42614 669.64817 625.90152 669.64817" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Generación de Leads → Capturar leads en ticket: 1</title></path>
+<path id="flow41" d="M324.95076 707.82517C475.42614 707.82517 475.42614 696.2005 625.90152 696.2005" fill="none" stroke-width="20.74" stroke="#a6761d" opacity="0.45"><title>Seguimiento de Leads → Contactar leads vía WhatsApp: 1</title></path>
+<path id="flow42" d="M324.95076 728.56517C475.42614 728.56517 475.42614 722.75283 625.90152 722.75283" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Seguimiento de Leads → Registrar interacciones en CRM: 1</title></path>
+<path id="flow43" d="M324.95076 755.1175C475.42614 755.1175 475.42614 749.30517 625.90152 749.30517" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Emisión de Cotizaciones → Generar cotización: 1</title></path>
+<path id="flow44" d="M324.95076 765.4875v20.74L625.90152 786.2275v-20.74z" fill="#1b9e77" stroke-width="0.5" stroke="#1b9e77" opacity="0.45"><title>Emisión de Cotizaciones → Enviar al cliente: 1</title></path>
+<path id="flow45" d="M324.95076 792.03983v20.74L625.90152 812.77983v-20.74z" fill="#d95f02" stroke-width="0.5" stroke="#d95f02" opacity="0.45"><title>Negociación con Clientes → Ofrecer descuentos por volumen: 1</title></path>
+<path id="flow46" d="M324.95076 823.14983C475.42614 823.14983 475.42614 828.96217 625.90152 828.96217" fill="none" stroke-width="20.74" stroke="#7570b3" opacity="0.45"><title>Negociación con Clientes → Firmar contratos de venta: 1</title></path>
+<path id="flow47" d="M324.95076 849.70217C475.42614 849.70217 475.42614 855.5145 625.90152 855.5145" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Creación de Campañas Publicitarias → Diseñar anuncios para redes sociales: 1</title></path>
+<path id="flow48" d="M324.95076 870.44217C475.42614 870.44217 475.42614 882.06683 625.90152 882.06683" fill="none" stroke-width="20.74" stroke="#e7298a" opacity="0.45"><title>Creación de Campañas Publicitarias → Segmentar audiencias locales: 1</title></path>
+<path id="flow49" d="M324.95076 896.9945C475.42614 896.9945 475.42614 908.61917 625.90152 908.61917" fill="none" stroke-width="20.74" stroke="#d95f02" opacity="0.45"><title>Promociones en Punto de Venta → Configurar descuentos en tienda: 1</title></path>
+<path id="flow50" d="M324.95076 917.7345C475.42614 917.7345 475.42614 935.1715 625.90152 935.1715" fill="none" stroke-width="20.74" stroke="#66a61e" opacity="0.45"><title>Promociones en Punto de Venta → Capacitar a vendedores: 1</title></path>
+<path id="flow59" d="M324.95076 984.97317C475.42614 984.97317 475.42614 961.72383 625.90152 961.72383" fill="none" stroke-width="20.74" stroke="#e7298a" opacity="0.45"><title>Coordinación de Transporte → Asignar transportista: 1</title></path>
+<path id="flow60" d="M324.95076 1005.71317C475.42614 1005.71317 475.42614 988.27617 625.90152 988.27617" fill="none" stroke-width="20.74" stroke="#66a61e" opacity="0.45"><title>Coordinación de Transporte → Notificar entrega: 1</title></path>
+<path id="flow61" d="M324.95076 1032.2655C475.42614 1032.2655 475.42614 1014.8285 625.90152 1014.8285" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Seguimiento de Entregas → Monitorear estado de envíos en tiempo real: 1</title></path>
+<path id="flow62" d="M324.95076 1053.0055C475.42614 1053.0055 475.42614 1041.38083 625.90152 1041.38083" fill="none" stroke-width="20.74" stroke="#a6761d" opacity="0.45"><title>Seguimiento de Entregas → Informar al cliente sobre retrasos: 1</title></path>
+<path id="flow63" d="M324.95076 1079.55783C475.42614 1079.55783 475.42614 1067.93317 625.90152 1067.93317" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Preparación de Pedidos → Recolectar prendas según órdenes: 1</title></path>
+<path id="flow64" d="M324.95076 1100.29783C475.42614 1100.29783 475.42614 1094.4855 625.90152 1094.4855" fill="none" stroke-width="20.74" stroke="#a6761d" opacity="0.45"><title>Preparación de Pedidos → Verificar exactitud del pedido: 1</title></path>
+<path id="flow65" d="M324.95076 1126.85017C475.42614 1126.85017 475.42614 1121.03783 625.90152 1121.03783" fill="none" stroke-width="20.74" stroke="#1b9e77" opacity="0.45"><title>Empaquetado y Etiquetado → Empaquetar prendas para envío: 1</title></path>
+<path id="flow66" d="M324.95076 1137.22017v20.74L625.90152 1157.96017v-20.74z" fill="#666666" stroke-width="0.5" stroke="#666666" opacity="0.45"><title>Empaquetado y Etiquetado → Generar etiquetas de despacho: 1</title></path>
+<path id="flow67" d="M324.95076 1163.7725v20.74L625.90152 1184.5125v-20.74z" fill="#d95f02" stroke-width="0.5" stroke="#d95f02" opacity="0.45"><title>Control de Stock de Producto Terminado → Actualizar inventario tras despachos: 1</title></path>
+<path id="flow68" d="M324.95076 1194.8825C475.42614 1194.8825 475.42614 1200.69483 625.90152 1200.69483" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Control de Stock de Producto Terminado → Registrar devoluciones: 1</title></path>
+<path id="flow69" d="M324.95076 1221.43483C475.42614 1221.43483 475.42614 1227.24717 625.90152 1227.24717" fill="none" stroke-width="20.74" stroke="#e7298a" opacity="0.45"><title>Procesamiento de Devoluciones → Inspeccionar prendas devueltas: 1</title></path>
+<path id="flow70" d="M324.95076 1242.17483C475.42614 1242.17483 475.42614 1253.7995 625.90152 1253.7995" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Procesamiento de Devoluciones → Registrar motivo de devolución: 1</title></path>
+<path id="flow71" d="M324.95076 1268.72717C475.42614 1268.72717 475.42614 1280.35183 625.90152 1280.35183" fill="none" stroke-width="20.74" stroke="#66a61e" opacity="0.45"><title>Uso de Vehículos Sostenibles → Seleccionar transportistas con flota eléctrica: 1</title></path>
+<path id="flow72" d="M324.95076 1289.46717C475.42614 1289.46717 475.42614 1306.90417 625.90152 1306.90417" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Uso de Vehículos Sostenibles → Monitorear emisiones: 1</title></path>
+<path id="flow73" d="M324.95076 1316.0195C475.42614 1316.0195 475.42614 1333.4565 625.90152 1333.4565" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Implementación de Embalajes Reutilizables → Diseñar empaques retornables: 1</title></path>
+<path id="flow74" d="M324.95076 1336.7595C475.42614 1336.7595 475.42614 1360.00883 625.90152 1360.00883" fill="none" stroke-width="20.74" stroke="#d95f02" opacity="0.45"><title>Implementación de Embalajes Reutilizables → Gestionar retorno de empaques: 1</title></path>
+<path id="flow85" d="M324.95076 1415.62283C475.42614 1415.62283 475.42614 1386.56117 625.90152 1386.56117" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Gestión de Reclamos → Registrar reclamo en ticket: 1</title></path>
+<path id="flow86" d="M324.95076 1436.36283C475.42614 1436.36283 475.42614 1413.1135 625.90152 1413.1135" fill="none" stroke-width="20.74" stroke="#7570b3" opacity="0.45"><title>Gestión de Reclamos → Proponer devolución: 1</title></path>
+<path id="flow87" d="M324.95076 1462.91516C475.42614 1462.91516 475.42614 1439.66583 625.90152 1439.66583" fill="none" stroke-width="20.74" stroke="#e7298a" opacity="0.45"><title>Soporte en Punto de Venta → Atender consultas en tienda: 1</title></path>
+<path id="flow88" d="M324.95076 1483.65516C475.42614 1483.65516 475.42614 1466.21817 625.90152 1466.21817" fill="none" stroke-width="20.74" stroke="#66a61e" opacity="0.45"><title>Soporte en Punto de Venta → Escalar casos complejos: 1</title></path>
+<path id="flow89" d="M324.95076 1510.2075C475.42614 1510.2075 475.42614 1492.7705 625.90152 1492.7705" fill="none" stroke-width="20.74" stroke="#1b9e77" opacity="0.45"><title>Análisis de Satisfacción → Enviar encuestas postventa: 1</title></path>
+<path id="flow90" d="M324.95076 1530.9475C475.42614 1530.9475 475.42614 1519.32283 625.90152 1519.32283" fill="none" stroke-width="20.74" stroke="#e7298a" opacity="0.45"><title>Análisis de Satisfacción → Evaluar NPS: 1</title></path>
+<path id="flow91" d="M324.95076 1557.49983C475.42614 1557.49983 475.42614 1545.87517 625.90152 1545.87517" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Recopilación de Opiniones en Línea → Monitorear reseñas en redes sociales: 1</title></path>
+<path id="flow92" d="M324.95076 1578.23983C475.42614 1578.23983 475.42614 1572.4275 625.90152 1572.4275" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Recopilación de Opiniones en Línea → Responder a comentarios: 1</title></path>
+<path id="flow93" d="M324.95076 1604.79216C475.42614 1604.79216 475.42614 1598.97983 625.90152 1598.97983" fill="none" stroke-width="20.74" stroke="#a6761d" opacity="0.45"><title>Procesamiento de Garantías → Verificar elegibilidad de garantía: 1</title></path>
+<path id="flow94" d="M324.95076 1615.16216v20.74L625.90152 1635.90217v-20.74z" fill="#d95f02" stroke-width="0.5" stroke="#d95f02" opacity="0.45"><title>Procesamiento de Garantías → Gestionar reemplazos o reparaciones: 1</title></path>
+<path id="flow95" d="M324.95076 1641.7145v20.74L625.90152 1662.4545v-20.74z" fill="#666666" stroke-width="0.5" stroke="#666666" opacity="0.45"><title>Seguimiento de Reparaciones → Registrar estado de reparaciones: 1</title></path>
+<path id="flow96" d="M324.95076 1672.8245C475.42614 1672.8245 475.42614 1678.63683 625.90152 1678.63683" fill="none" stroke-width="20.74" stroke="#66a61e" opacity="0.45"><title>Seguimiento de Reparaciones → Notificar al cliente sobre avances: 1</title></path>
+<path id="flow97" d="M324.95076 1699.37683C475.42614 1699.37683 475.42614 1705.18917 625.90152 1705.18917" fill="none" stroke-width="20.74" stroke="#d95f02" opacity="0.45"><title>Asesoramiento de Moda → Ofrecer recomendaciones de prendas: 1</title></path>
+<path id="flow98" d="M324.95076 1720.11683C475.42614 1720.11683 475.42614 1731.7415 625.90152 1731.7415" fill="none" stroke-width="20.74" stroke="#66a61e" opacity="0.45"><title>Asesoramiento de Moda → Crear guías de estilo personalizadas: 1</title></path>
+<path id="flow99" d="M324.95076 1746.66916C475.42614 1746.66916 475.42614 1758.29383 625.90152 1758.29383" fill="none" stroke-width="20.74" stroke="#a6761d" opacity="0.45"><title>Gestión de Pedidos Especiales → Procesar solicitudes de personalización: 1</title></path>
+<path id="flow100" d="M324.95076 1767.40916C475.42614 1767.40916 475.42614 1784.84617 625.90152 1784.84617" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Gestión de Pedidos Especiales → Coordinar con producción: 1</title></path>
+<path id="flow101" d="M324.95076 1793.9615C475.42614 1793.9615 475.42614 1811.3985 625.90152 1811.3985" fill="none" stroke-width="20.74" stroke="#1b9e77" opacity="0.45"><title>Reciclaje de Retazos → Clasificar retazos: 1</title></path>
+<path id="flow102" d="M324.95076 1814.7015C475.42614 1814.7015 475.42614 1837.95083 625.90152 1837.95083" fill="none" stroke-width="20.74" stroke="#666666" opacity="0.45"><title>Reciclaje de Retazos → Registrar reciclaje: 1</title></path>
+<path id="flow103" d="M324.95076 1841.25383C475.42614 1841.25383 475.42614 1864.50317 625.90152 1864.50317" fill="none" stroke-width="20.74" stroke="#e6ab02" opacity="0.45"><title>Reutilización de Materiales → Diseñar productos con retazos: 1</title></path>
+<path id="flow104" d="M324.95076 1861.99383C475.42614 1861.99383 475.42614 1891.0555 625.90152 1891.0555" fill="none" stroke-width="20.74" stroke="#d95f02" opacity="0.45"><title>Reutilización de Materiales → Gestionar inventario de reutilización: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="74.73" height="207.4" width="12" fill="#d95f02" fill-opacity="1"><title>Logística de Entrada:
+10</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="312.95076" y="63.10534" height="41.48" width="12" fill="#7570b3" fill-opacity="1"><title>Recepción de Algodón:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="312.95076" y="110.39767" height="41.48" width="12" fill="#7570b3" fill-opacity="1"><title>Recepción de Tintes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="312.95076" y="157.69" height="41.48" width="12" fill="#e7298a" fill-opacity="1"><title>Validación de Importaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="312.95076" y="204.98234" height="41.48" width="12" fill="#66a61e" fill-opacity="1"><title>Selección de Proveedores ESG:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="312.95076" y="252.27467" height="41.48" width="12" fill="#e6ab02" fill-opacity="1"><title>Certificación de Insumos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="625.90152" y="48.5745" height="20.74" width="12" fill="#a6761d" fill-opacity="1"><title>Verificar calidad de algodón:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="625.90152" y="75.12683" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Registrar en ticket:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="625.90152" y="101.67917" height="20.74" width="12" fill="#1b9e77" fill-opacity="1"><title>Comprobar especificaciones de color:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="625.90152" y="128.2315" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Actualizar inventario en sistema:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="625.90152" y="154.78383" height="20.74" width="12" fill="#7570b3" fill-opacity="1"><title>Revisar documentación aduanera:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="625.90152" y="181.33617" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Actualizar ticket:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="625.90152" y="207.8885" height="20.74" width="12" fill="#e7298a" fill-opacity="1"><title>Evaluar impacto ambiental:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="625.90152" y="234.44083" height="20.74" width="12" fill="#66a61e" fill-opacity="1"><title>Seleccionar proveedores:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="625.90152" y="260.99317" height="20.74" width="12" fill="#a6761d" fill-opacity="1"><title>Verificar certificaciones orgánicas:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="625.90152" y="287.5455" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Documentar cumplimiento:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="0" y="346.06567" height="248.88" width="12" fill="#a6761d" fill-opacity="1"><title>Operaciones:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="312.95076" y="331.53484" height="41.48" width="12" fill="#666666" fill-opacity="1"><title>Creación de Patrones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="312.95076" y="378.82717" height="41.48" width="12" fill="#1b9e77" fill-opacity="1"><title>Prototipado de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="312.95076" y="426.1195" height="41.48" width="12" fill="#d95f02" fill-opacity="1"><title>Producción de Hilos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="312.95076" y="473.41184" height="41.48" width="12" fill="#7570b3" fill-opacity="1"><title>Control de Calidad de Hilos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="312.95076" y="520.70417" height="41.48" width="12" fill="#e7298a" fill-opacity="1"><title>Costura de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="312.95076" y="567.9965" height="41.48" width="12" fill="#66a61e" fill-opacity="1"><title>Acabado de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="625.90152" y="314.09783" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Diseñar patrón digital:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="625.90152" y="340.65017" height="20.74" width="12" fill="#a6761d" fill-opacity="1"><title>Validar diseño:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="625.90152" y="367.2025" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Confeccionar prototipos:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="625.90152" y="393.75483" height="20.74" width="12" fill="#1b9e77" fill-opacity="1"><title>Realizar pruebas de ajuste:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="625.90152" y="420.30717" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Configurar máquinas de hilado:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="625.90152" y="446.8595" height="20.74" width="12" fill="#7570b3" fill-opacity="1"><title>Supervisar proceso:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="625.90152" y="473.41183" height="20.74" width="12" fill="#e7298a" fill-opacity="1"><title>Inspeccionar grosor y resistencia:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="625.90152" y="499.96417" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Registrar defectos:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="625.90152" y="526.5165" height="20.74" width="12" fill="#66a61e" fill-opacity="1"><title>Coser componentes:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="625.90152" y="553.06883" height="20.74" width="12" fill="#a6761d" fill-opacity="1"><title>Verificar costuras:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="625.90152" y="579.62117" height="20.74" width="12" fill="#1b9e77" fill-opacity="1"><title>Realizar planchado y empaquetado:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="625.90152" y="606.1735" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Etiquetar productos:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="0" y="664.69367" height="248.88" width="12" fill="#a6761d" fill-opacity="1"><title>Marketing y Ventas:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="312.95076" y="650.16283" height="41.48" width="12" fill="#666666" fill-opacity="1"><title>Generación de Leads:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="312.95076" y="697.45517" height="41.48" width="12" fill="#1b9e77" fill-opacity="1"><title>Seguimiento de Leads:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r38" class="for_r38" x="312.95076" y="744.7475" height="41.48" width="12" fill="#d95f02" fill-opacity="1"><title>Emisión de Cotizaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r39" class="for_r39" x="312.95076" y="792.03983" height="41.48" width="12" fill="#7570b3" fill-opacity="1"><title>Negociación con Clientes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r40" class="for_r40" x="312.95076" y="839.33217" height="41.48" width="12" fill="#666666" fill-opacity="1"><title>Creación de Campañas Publicitarias:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r41" class="for_r41" x="312.95076" y="886.6245" height="41.48" width="12" fill="#e7298a" fill-opacity="1"><title>Promociones en Punto de Venta:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r42" class="for_r42" x="625.90152" y="632.72583" height="20.74" width="12" fill="#66a61e" fill-opacity="1"><title>Crear campañas en Gamarra:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r43" class="for_r43" x="625.90152" y="659.27817" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Capturar leads en ticket:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r44" class="for_r44" x="625.90152" y="685.8305" height="20.74" width="12" fill="#a6761d" fill-opacity="1"><title>Contactar leads vía WhatsApp:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r45" class="for_r45" x="625.90152" y="712.38283" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Registrar interacciones en CRM:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r46" class="for_r46" x="625.90152" y="738.93517" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Generar cotización:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r47" class="for_r47" x="625.90152" y="765.4875" height="20.74" width="12" fill="#1b9e77" fill-opacity="1"><title>Enviar al cliente:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r48" class="for_r48" x="625.90152" y="792.03983" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Ofrecer descuentos por volumen:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r49" class="for_r49" x="625.90152" y="818.59217" height="20.74" width="12" fill="#7570b3" fill-opacity="1"><title>Firmar contratos de venta:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r50" class="for_r50" x="625.90152" y="845.1445" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Diseñar anuncios para redes sociales:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r51" class="for_r51" x="625.90152" y="871.69683" height="20.74" width="12" fill="#e7298a" fill-opacity="1"><title>Segmentar audiencias locales:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r52" class="for_r52" x="625.90152" y="898.24917" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Configurar descuentos en tienda:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r53" class="for_r53" x="625.90152" y="924.8015" height="20.74" width="12" fill="#66a61e" fill-opacity="1"><title>Capacitar a vendedores:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r54" class="for_r54" x="0" y="994.94633" height="331.84" width="12" fill="#d95f02" fill-opacity="1"><title>Logística de Salida:
+16</title></rect>
+</g>
+<g class="node">
+<rect id="r55" class="for_r55" x="312.95076" y="974.60317" height="41.48" width="12" fill="#e6ab02" fill-opacity="1"><title>Coordinación de Transporte:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r56" class="for_r56" x="312.95076" y="1021.8955" height="41.48" width="12" fill="#1b9e77" fill-opacity="1"><title>Seguimiento de Entregas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r57" class="for_r57" x="312.95076" y="1069.18783" height="41.48" width="12" fill="#a6761d" fill-opacity="1"><title>Preparación de Pedidos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r58" class="for_r58" x="312.95076" y="1116.48017" height="41.48" width="12" fill="#666666" fill-opacity="1"><title>Empaquetado y Etiquetado:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r59" class="for_r59" x="312.95076" y="1163.7725" height="41.48" width="12" fill="#7570b3" fill-opacity="1"><title>Control de Stock de Producto Terminado:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r60" class="for_r60" x="312.95076" y="1211.06483" height="41.48" width="12" fill="#1b9e77" fill-opacity="1"><title>Procesamiento de Devoluciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r61" class="for_r61" x="312.95076" y="1258.35717" height="41.48" width="12" fill="#d95f02" fill-opacity="1"><title>Uso de Vehículos Sostenibles:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r62" class="for_r62" x="312.95076" y="1305.6495" height="41.48" width="12" fill="#7570b3" fill-opacity="1"><title>Implementación de Embalajes Reutilizables:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r63" class="for_r63" x="625.90152" y="951.35383" height="20.74" width="12" fill="#e7298a" fill-opacity="1"><title>Asignar transportista:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r64" class="for_r64" x="625.90152" y="977.90617" height="20.74" width="12" fill="#66a61e" fill-opacity="1"><title>Notificar entrega:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r65" class="for_r65" x="625.90152" y="1004.4585" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Monitorear estado de envíos en tiempo real:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r66" class="for_r66" x="625.90152" y="1031.01083" height="20.74" width="12" fill="#a6761d" fill-opacity="1"><title>Informar al cliente sobre retrasos:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r67" class="for_r67" x="625.90152" y="1057.56317" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Recolectar prendas según órdenes:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r68" class="for_r68" x="625.90152" y="1084.1155" height="20.74" width="12" fill="#a6761d" fill-opacity="1"><title>Verificar exactitud del pedido:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r69" class="for_r69" x="625.90152" y="1110.66783" height="20.74" width="12" fill="#1b9e77" fill-opacity="1"><title>Empaquetar prendas para envío:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r70" class="for_r70" x="625.90152" y="1137.22017" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Generar etiquetas de despacho:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r71" class="for_r71" x="625.90152" y="1163.7725" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Actualizar inventario tras despachos:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r72" class="for_r72" x="625.90152" y="1190.32483" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Registrar devoluciones:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r73" class="for_r73" x="625.90152" y="1216.87717" height="20.74" width="12" fill="#e7298a" fill-opacity="1"><title>Inspeccionar prendas devueltas:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r74" class="for_r74" x="625.90152" y="1243.4295" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Registrar motivo de devolución:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r75" class="for_r75" x="625.90152" y="1269.98183" height="20.74" width="12" fill="#66a61e" fill-opacity="1"><title>Seleccionar transportistas con flota eléctrica:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r76" class="for_r76" x="625.90152" y="1296.53417" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Monitorear emisiones:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r77" class="for_r77" x="625.90152" y="1323.0865" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Diseñar empaques retornables:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r78" class="for_r78" x="625.90152" y="1349.63883" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Gestionar retorno de empaques:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r79" class="for_r79" x="0" y="1431.40833" height="414.8" width="12" fill="#7570b3" fill-opacity="1"><title>Servicios Posventa:
+20</title></rect>
+</g>
+<g class="node">
+<rect id="r80" class="for_r80" x="312.95076" y="1405.25283" height="41.48" width="12" fill="#e7298a" fill-opacity="1"><title>Gestión de Reclamos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r81" class="for_r81" x="312.95076" y="1452.54516" height="41.48" width="12" fill="#66a61e" fill-opacity="1"><title>Soporte en Punto de Venta:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r82" class="for_r82" x="312.95076" y="1499.8375" height="41.48" width="12" fill="#e6ab02" fill-opacity="1"><title>Análisis de Satisfacción:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r83" class="for_r83" x="312.95076" y="1547.12983" height="41.48" width="12" fill="#a6761d" fill-opacity="1"><title>Recopilación de Opiniones en Línea:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r84" class="for_r84" x="312.95076" y="1594.42216" height="41.48" width="12" fill="#1b9e77" fill-opacity="1"><title>Procesamiento de Garantías:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r85" class="for_r85" x="312.95076" y="1641.7145" height="41.48" width="12" fill="#1b9e77" fill-opacity="1"><title>Seguimiento de Reparaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r86" class="for_r86" x="312.95076" y="1689.00683" height="41.48" width="12" fill="#666666" fill-opacity="1"><title>Asesoramiento de Moda:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r87" class="for_r87" x="312.95076" y="1736.29916" height="41.48" width="12" fill="#e7298a" fill-opacity="1"><title>Gestión de Pedidos Especiales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r88" class="for_r88" x="312.95076" y="1783.5915" height="41.48" width="12" fill="#1b9e77" fill-opacity="1"><title>Reciclaje de Retazos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r89" class="for_r89" x="312.95076" y="1830.88383" height="41.48" width="12" fill="#d95f02" fill-opacity="1"><title>Reutilización de Materiales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r90" class="for_r90" x="625.90152" y="1376.19117" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Registrar reclamo en ticket:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r91" class="for_r91" x="625.90152" y="1402.7435" height="20.74" width="12" fill="#7570b3" fill-opacity="1"><title>Proponer devolución:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r92" class="for_r92" x="625.90152" y="1429.29583" height="20.74" width="12" fill="#e7298a" fill-opacity="1"><title>Atender consultas en tienda:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r93" class="for_r93" x="625.90152" y="1455.84817" height="20.74" width="12" fill="#66a61e" fill-opacity="1"><title>Escalar casos complejos:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r94" class="for_r94" x="625.90152" y="1482.4005" height="20.74" width="12" fill="#1b9e77" fill-opacity="1"><title>Enviar encuestas postventa:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r95" class="for_r95" x="625.90152" y="1508.95283" height="20.74" width="12" fill="#e7298a" fill-opacity="1"><title>Evaluar NPS:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r96" class="for_r96" x="625.90152" y="1535.50517" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Monitorear reseñas en redes sociales:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r97" class="for_r97" x="625.90152" y="1562.0575" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Responder a comentarios:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r98" class="for_r98" x="625.90152" y="1588.60983" height="20.74" width="12" fill="#a6761d" fill-opacity="1"><title>Verificar elegibilidad de garantía:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r99" class="for_r99" x="625.90152" y="1615.16217" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Gestionar reemplazos o reparaciones:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r100" class="for_r100" x="625.90152" y="1641.7145" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Registrar estado de reparaciones:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r101" class="for_r101" x="625.90152" y="1668.26683" height="20.74" width="12" fill="#66a61e" fill-opacity="1"><title>Notificar al cliente sobre avances:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r102" class="for_r102" x="625.90152" y="1694.81917" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Ofrecer recomendaciones de prendas:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r103" class="for_r103" x="625.90152" y="1721.3715" height="20.74" width="12" fill="#66a61e" fill-opacity="1"><title>Crear guías de estilo personalizadas:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r104" class="for_r104" x="625.90152" y="1747.92383" height="20.74" width="12" fill="#a6761d" fill-opacity="1"><title>Procesar solicitudes de personalización:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r105" class="for_r105" x="625.90152" y="1774.47617" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Coordinar con producción:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r106" class="for_r106" x="625.90152" y="1801.0285" height="20.74" width="12" fill="#1b9e77" fill-opacity="1"><title>Clasificar retazos:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r107" class="for_r107" x="625.90152" y="1827.58083" height="20.74" width="12" fill="#666666" fill-opacity="1"><title>Registrar reciclaje:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r108" class="for_r108" x="625.90152" y="1854.13317" height="20.74" width="12" fill="#e6ab02" fill-opacity="1"><title>Diseñar productos con retazos:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r109" class="for_r109" x="625.90152" y="1880.6855" height="20.74" width="12" fill="#d95f02" fill-opacity="1"><title>Gestionar inventario de reutilización:
+1</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="351.26375" y="1947" font-size="15.49333px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-114.4716" y="168.90999" width="112.83891" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="178.43" font-weight="400" font-size="11.2464px" dy="3.48">Logística de Entrada</text>
+<rect id="label1_bg" class="for_r1" x="207.30729" y="75.03534" width="104.01078" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="306.65322" y="83.84534" font-weight="400" font-size="9.4288px" dy="3.19">Recepción de Algodón</text>
+<rect id="label2_bg" class="for_r2" x="216.22917" y="122.32767" width="95.3744" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="306.65322" y="131.13767" font-weight="400" font-size="9.4288px" dy="3.19">Recepción de Tintes</text>
+<rect id="label3_bg" class="for_r3" x="182.93229" y="169.62" width="128.66364" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="306.65322" y="178.43" font-weight="400" font-size="9.4288px" dy="3.19">Validación de Importaciones</text>
+<rect id="label4_bg" class="for_r4" x="169.10417" y="216.91234" width="142.21391" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="306.65322" y="225.72234" font-weight="400" font-size="9.4288px" dy="3.19">Selección de Proveedores ESG</text>
+<rect id="label5_bg" class="for_r5" x="198.43229" y="264.20468" width="113.16108" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="306.65322" y="273.01467" font-weight="400" font-size="9.4288px" dy="3.19">Certificación de Insumos</text>
+<rect id="label6_bg" class="for_r6" x="638.53419" y="50.8445" width="123.77641" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="644.19906" y="58.9445" font-weight="400" font-size="9.2016px" dy="2.9">Verificar calidad de algodón</text>
+<rect id="label7_bg" class="for_r7" x="639.53419" y="77.39684" width="84.31236" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="644.19906" y="85.49683" font-weight="400" font-size="9.2016px" dy="2.9">Registrar en ticket</text>
+<rect id="label8_bg" class="for_r8" x="639.53419" y="103.94917" width="162.02982" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="644.19906" y="112.04917" font-weight="400" font-size="9.2016px" dy="2.9">Comprobar especificaciones de color</text>
+<rect id="label9_bg" class="for_r9" x="638.53419" y="130.5015" width="140.62016" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="644.19906" y="138.6015" font-weight="400" font-size="9.2016px" dy="2.9">Actualizar inventario en sistema</text>
+<rect id="label10_bg" class="for_r10" x="639.53419" y="157.05382" width="147.30766" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="644.19906" y="165.15383" font-weight="400" font-size="9.2016px" dy="2.9">Revisar documentación aduanera</text>
+<rect id="label11_bg" class="for_r11" x="638.53419" y="183.60617" width="75.5958" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="644.19906" y="191.70617" font-weight="400" font-size="9.2016px" dy="2.9">Actualizar ticket</text>
+<rect id="label12_bg" class="for_r12" x="639.53419" y="210.15849" width="118.15141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="644.19906" y="218.2585" font-weight="400" font-size="9.2016px" dy="2.9">Evaluar impacto ambiental</text>
+<rect id="label13_bg" class="for_r13" x="639.53419" y="236.71083" width="111.89988" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="644.19906" y="244.81083" font-weight="400" font-size="9.2016px" dy="2.9">Seleccionar proveedores</text>
+<rect id="label14_bg" class="for_r14" x="638.53419" y="263.26315" width="147.65586" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="644.19906" y="271.36317" font-weight="400" font-size="9.2016px" dy="2.9">Verificar certificaciones orgánicas</text>
+<rect id="label15_bg" class="for_r15" x="639.53419" y="289.81549" width="116.60453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="644.19906" y="297.9155" font-weight="400" font-size="9.2016px" dy="2.9">Documentar cumplimiento</text>
+<rect id="label16_bg" class="for_r16" x="-77.70598" y="460.27567" width="76.21754" height="19" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="end" x="-6.29754" y="470.50567" font-weight="400" font-size="11.7008px" dy="3.77">Operaciones</text>
+<rect id="label17_bg" class="for_r17" x="210.46354" y="343.46484" width="101.13313" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="end" x="306.65322" y="352.27484" font-weight="400" font-size="9.4288px" dy="3.19">Creación de Patrones</text>
+<rect id="label18_bg" class="for_r18" x="202.60417" y="390.75717" width="108.99848" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="end" x="306.65322" y="399.56717" font-weight="400" font-size="9.4288px" dy="3.19">Prototipado de Prendas</text>
+<rect id="label19_bg" class="for_r19" x="217.80729" y="438.0495" width="93.79676" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="end" x="306.65322" y="446.8595" font-weight="400" font-size="9.4288px" dy="3.19">Producción de Hilos</text>
+<rect id="label20_bg" class="for_r20" x="186.90104" y="485.34183" width="124.69227" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="end" x="306.65322" y="494.15184" font-weight="400" font-size="9.4288px" dy="3.19">Control de Calidad de Hilos</text>
+<rect id="label21_bg" class="for_r21" x="217.79167" y="532.63416" width="93.80134" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="end" x="306.65322" y="541.44417" font-weight="400" font-size="9.4288px" dy="3.19">Costura de Prendas</text>
+<rect id="label22_bg" class="for_r22" x="212.58854" y="579.92651" width="99.00541" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="end" x="306.65322" y="588.7365" font-weight="400" font-size="9.4288px" dy="3.19">Acabado de Prendas</text>
+<rect id="label23_bg" class="for_r23" x="639.53419" y="316.36783" width="96.66703" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="start" x="644.19906" y="324.46783" font-weight="400" font-size="9.2016px" dy="2.9">Diseñar patrón digital</text>
+<rect id="label24_bg" class="for_r24" x="638.53419" y="342.92017" width="68.35453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="644.19906" y="351.02017" font-weight="400" font-size="9.2016px" dy="2.9">Validar diseño</text>
+<rect id="label25_bg" class="for_r25" x="639.53419" y="369.4725" width="107.29539" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="644.19906" y="377.5725" font-weight="400" font-size="9.2016px" dy="2.9">Confeccionar prototipos</text>
+<rect id="label26_bg" class="for_r26" x="639.53419" y="396.02481" width="119.18266" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="start" x="644.19906" y="404.12483" font-weight="400" font-size="9.2016px" dy="2.9">Realizar pruebas de ajuste</text>
+<rect id="label27_bg" class="for_r27" x="639.53419" y="422.57718" width="135.04203" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="start" x="644.19906" y="430.67717" font-weight="400" font-size="9.2016px" dy="2.9">Configurar máquinas de hilado</text>
+<rect id="label28_bg" class="for_r28" x="639.53419" y="449.12949" width="88.99516" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="start" x="644.19906" y="457.2295" font-weight="400" font-size="9.2016px" dy="2.9">Supervisar proceso</text>
+<rect id="label29_bg" class="for_r29" x="639.53419" y="475.68182" width="144.21391" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="start" x="644.19906" y="483.78183" font-weight="400" font-size="9.2016px" dy="2.9">Inspeccionar grosor y resistencia</text>
+<rect id="label30_bg" class="for_r30" x="639.53419" y="502.23419" width="84.78501" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="start" x="644.19906" y="510.33417" font-weight="400" font-size="9.2016px" dy="2.9">Registrar defectos</text>
+<rect id="label31_bg" class="for_r31" x="639.53419" y="528.7865" width="92.4622" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="start" x="644.19906" y="536.8865" font-weight="400" font-size="9.2016px" dy="2.9">Coser componentes</text>
+<rect id="label32_bg" class="for_r32" x="638.53419" y="555.33887" width="81.68821" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="start" x="644.19906" y="563.43883" font-weight="400" font-size="9.2016px" dy="2.9">Verificar costuras</text>
+<rect id="label33_bg" class="for_r33" x="639.53419" y="581.89117" width="154.47953" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="start" x="644.19906" y="589.99117" font-weight="400" font-size="9.2016px" dy="2.9">Realizar planchado y empaquetado</text>
+<rect id="label34_bg" class="for_r34" x="639.53419" y="608.44354" width="89.91062" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="start" x="644.19906" y="616.5435" font-weight="400" font-size="9.2016px" dy="2.9">Etiquetar productos</text>
+<rect id="label35_bg" class="for_r35" x="-110.87785" y="778.90369" width="109.38081" height="19" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="end" x="-6.29754" y="789.13367" font-weight="400" font-size="11.7008px" dy="3.77">Marketing y Ventas</text>
+<rect id="label36_bg" class="for_r36" x="211.49479" y="662.09283" width="100.09821" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="end" x="306.65322" y="670.90283" font-weight="400" font-size="9.4288px" dy="3.19">Generación de Leads</text>
+<rect id="label37_bg" class="for_r37" x="207.83854" y="709.38519" width="103.76411" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="end" x="306.65322" y="718.19517" font-weight="400" font-size="9.4288px" dy="3.19">Seguimiento de Leads</text>
+<rect id="label38_bg" class="for_r38" x="198.43229" y="756.67749" width="113.16566" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label38" class="for_r38" text-anchor="end" x="306.65322" y="765.4875" font-weight="400" font-size="9.4288px" dy="3.19">Emisión de Cotizaciones</text>
+<rect id="label39_bg" class="for_r39" x="195.29167" y="803.96985" width="116.31641" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label39" class="for_r39" text-anchor="end" x="306.65322" y="812.77983" font-weight="400" font-size="9.4288px" dy="3.19">Negociación con Clientes</text>
+<rect id="label40_bg" class="for_r40" x="149.21354" y="851.26215" width="162.38606" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label40" class="for_r40" text-anchor="end" x="306.65322" y="860.07217" font-weight="400" font-size="9.4288px" dy="3.19">Creación de Campañas Publicitarias</text>
+<rect id="label41_bg" class="for_r41" x="166.46354" y="898.5545" width="144.85453" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label41" class="for_r41" text-anchor="end" x="306.65322" y="907.3645" font-weight="400" font-size="9.4288px" dy="3.19">Promociones en Punto de Venta</text>
+<rect id="label42_bg" class="for_r42" x="639.53419" y="634.99585" width="129.38578" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label42" class="for_r42" text-anchor="start" x="644.19906" y="643.09583" font-weight="400" font-size="9.2016px" dy="2.9">Crear campañas en Gamarra</text>
+<rect id="label43_bg" class="for_r43" x="639.53419" y="661.54822" width="107.33482" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label43" class="for_r43" text-anchor="start" x="644.19906" y="669.64817" font-weight="400" font-size="9.2016px" dy="2.9">Capturar leads en ticket</text>
+<rect id="label44_bg" class="for_r44" x="639.53419" y="688.10052" width="133.99516" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label44" class="for_r44" text-anchor="start" x="644.19906" y="696.2005" font-weight="400" font-size="9.2016px" dy="2.9">Contactar leads vía WhatsApp</text>
+<rect id="label45_bg" class="for_r45" x="639.53419" y="714.65283" width="140.44688" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label45" class="for_r45" text-anchor="start" x="644.19906" y="722.75283" font-weight="400" font-size="9.2016px" dy="2.9">Registrar interacciones en CRM</text>
+<rect id="label46_bg" class="for_r46" x="639.53419" y="741.2052" width="86.94828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label46" class="for_r46" text-anchor="start" x="644.19906" y="749.30517" font-weight="400" font-size="9.2016px" dy="2.9">Generar cotización</text>
+<rect id="label47_bg" class="for_r47" x="639.53419" y="767.75751" width="74.68266" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label47" class="for_r47" text-anchor="start" x="644.19906" y="775.8575" font-weight="400" font-size="9.2016px" dy="2.9">Enviar al cliente</text>
+<rect id="label48_bg" class="for_r48" x="639.53419" y="794.30988" width="143.19828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label48" class="for_r48" text-anchor="start" x="644.19906" y="802.40983" font-weight="400" font-size="9.2016px" dy="2.9">Ofrecer descuentos por volumen</text>
+<rect id="label49_bg" class="for_r49" x="639.53419" y="820.86218" width="114.55766" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label49" class="for_r49" text-anchor="start" x="644.19906" y="828.96217" font-weight="400" font-size="9.2016px" dy="2.9">Firmar contratos de venta</text>
+<rect id="label50_bg" class="for_r50" x="639.53419" y="847.41455" width="163.54643" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label50" class="for_r50" text-anchor="start" x="644.19906" y="855.5145" font-weight="400" font-size="9.2016px" dy="2.9">Diseñar anuncios para redes sociales</text>
+<rect id="label51_bg" class="for_r51" x="639.53419" y="873.96686" width="132.86936" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label51" class="for_r51" text-anchor="start" x="644.19906" y="882.06683" font-weight="400" font-size="9.2016px" dy="2.9">Segmentar audiencias locales</text>
+<rect id="label52_bg" class="for_r52" x="639.53419" y="900.51917" width="142.71391" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label52" class="for_r52" text-anchor="start" x="644.19906" y="908.61917" font-weight="400" font-size="9.2016px" dy="2.9">Configurar descuentos en tienda</text>
+<rect id="label53_bg" class="for_r53" x="639.53419" y="927.07153" width="107.81199" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label53" class="for_r53" text-anchor="start" x="644.19906" y="935.1715" font-weight="400" font-size="9.2016px" dy="2.9">Capacitar a vendedores</text>
+<rect id="label54_bg" class="for_r54" x="-117.8466" y="1150.92639" width="116.21391" height="20" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label54" class="for_r54" text-anchor="end" x="-6.29754" y="1160.86633" font-weight="400" font-size="12.6096px" dy="4.06">Logística de Salida</text>
+<rect id="label55_bg" class="for_r55" x="185.32292" y="986.53314" width="125.99516" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label55" class="for_r55" text-anchor="end" x="306.65322" y="995.34317" font-weight="400" font-size="9.4288px" dy="3.19">Coordinación de Transporte</text>
+<rect id="label56_bg" class="for_r56" x="195.79167" y="1033.82544" width="115.80128" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label56" class="for_r56" text-anchor="end" x="306.65322" y="1042.6355" font-weight="400" font-size="9.4288px" dy="3.19">Seguimiento de Entregas</text>
+<rect id="label57_bg" class="for_r57" x="201.02604" y="1081.1178" width="110.56693" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label57" class="for_r57" text-anchor="end" x="306.65322" y="1089.92783" font-weight="400" font-size="9.4288px" dy="3.19">Preparación de Pedidos</text>
+<rect id="label58_bg" class="for_r58" x="187.93229" y="1128.41016" width="123.38578" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label58" class="for_r58" text-anchor="end" x="306.65322" y="1137.22017" font-weight="400" font-size="9.4288px" dy="3.19">Empaquetado y Etiquetado</text>
+<rect id="label59_bg" class="for_r59" x="132.10417" y="1175.70239" width="179.21391" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label59" class="for_r59" text-anchor="end" x="306.65322" y="1184.5125" font-weight="400" font-size="9.4288px" dy="3.19">Control de Stock de Producto Terminado</text>
+<rect id="label60_bg" class="for_r60" x="166.47917" y="1222.99475" width="145.11454" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label60" class="for_r60" text-anchor="end" x="306.65322" y="1231.80483" font-weight="400" font-size="9.4288px" dy="3.19">Procesamiento de Devoluciones</text>
+<rect id="label61_bg" class="for_r61" x="176.94792" y="1270.28711" width="134.65043" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label61" class="for_r61" text-anchor="end" x="306.65322" y="1279.09717" font-weight="400" font-size="9.4288px" dy="3.19">Uso de Vehículos Sostenibles</text>
+<rect id="label62_bg" class="for_r62" x="119.36979" y="1317.57947" width="192.23289" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label62" class="for_r62" text-anchor="end" x="306.65322" y="1326.3895" font-weight="400" font-size="9.4288px" dy="3.19">Implementación de Embalajes Reutilizables</text>
+<rect id="label63_bg" class="for_r63" x="638.53419" y="953.62384" width="95.10453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label63" class="for_r63" text-anchor="start" x="644.19906" y="961.72383" font-weight="400" font-size="9.2016px" dy="2.9">Asignar transportista</text>
+<rect id="label64_bg" class="for_r64" x="639.53419" y="980.17621" width="77.22953" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label64" class="for_r64" text-anchor="start" x="644.19906" y="988.27617" font-weight="400" font-size="9.2016px" dy="2.9">Notificar entrega</text>
+<rect id="label65_bg" class="for_r65" x="639.53419" y="1006.72852" width="187.19828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label65" class="for_r65" text-anchor="start" x="644.19906" y="1014.8285" font-weight="400" font-size="9.2016px" dy="2.9">Monitorear estado de envíos en tiempo real</text>
+<rect id="label66_bg" class="for_r66" x="639.53419" y="1033.28088" width="144.6074" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label66" class="for_r66" text-anchor="start" x="644.19906" y="1041.38083" font-weight="400" font-size="9.2016px" dy="2.9">Informar al cliente sobre retrasos</text>
+<rect id="label67_bg" class="for_r67" x="639.53419" y="1059.83325" width="153.33122" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label67" class="for_r67" text-anchor="start" x="644.19906" y="1067.93317" font-weight="400" font-size="9.2016px" dy="2.9">Recolectar prendas según órdenes</text>
+<rect id="label68_bg" class="for_r68" x="638.53419" y="1086.3855" width="128.37016" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label68" class="for_r68" text-anchor="start" x="644.19906" y="1094.4855" font-weight="400" font-size="9.2016px" dy="2.9">Verificar exactitud del pedido</text>
+<rect id="label69_bg" class="for_r69" x="639.53419" y="1112.93787" width="141.69828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label69" class="for_r69" text-anchor="start" x="644.19906" y="1121.03783" font-weight="400" font-size="9.2016px" dy="2.9">Empaquetar prendas para envío</text>
+<rect id="label70_bg" class="for_r70" x="639.53419" y="1139.49023" width="138.62016" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label70" class="for_r70" text-anchor="start" x="644.19906" y="1147.59017" font-weight="400" font-size="9.2016px" dy="2.9">Generar etiquetas de despacho</text>
+<rect id="label71_bg" class="for_r71" x="638.53419" y="1166.04248" width="158.9177" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label71" class="for_r71" text-anchor="start" x="644.19906" y="1174.1425" font-weight="400" font-size="9.2016px" dy="2.9">Actualizar inventario tras despachos</text>
+<rect id="label72_bg" class="for_r72" x="639.53419" y="1192.59485" width="103.71061" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label72" class="for_r72" text-anchor="start" x="644.19906" y="1200.69483" font-weight="400" font-size="9.2016px" dy="2.9">Registrar devoluciones</text>
+<rect id="label73_bg" class="for_r73" x="639.53419" y="1219.14722" width="140.03434" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label73" class="for_r73" text-anchor="start" x="644.19906" y="1227.24717" font-weight="400" font-size="9.2016px" dy="2.9">Inspeccionar prendas devueltas</text>
+<rect id="label74_bg" class="for_r74" x="639.53419" y="1245.69958" width="136.04203" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label74" class="for_r74" text-anchor="start" x="644.19906" y="1253.7995" font-weight="400" font-size="9.2016px" dy="2.9">Registrar motivo de devolución</text>
+<rect id="label75_bg" class="for_r75" x="639.53419" y="1272.25183" width="189.72953" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label75" class="for_r75" text-anchor="start" x="644.19906" y="1280.35183" font-weight="400" font-size="9.2016px" dy="2.9">Seleccionar transportistas con flota eléctrica</text>
+<rect id="label76_bg" class="for_r76" x="639.53419" y="1298.8042" width="98.07743" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label76" class="for_r76" text-anchor="start" x="644.19906" y="1306.90417" font-weight="400" font-size="9.2016px" dy="2.9">Monitorear emisiones</text>
+<rect id="label77_bg" class="for_r77" x="639.53419" y="1325.35657" width="135.93302" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label77" class="for_r77" text-anchor="start" x="644.19906" y="1333.4565" font-weight="400" font-size="9.2016px" dy="2.9">Diseñar empaques retornables</text>
+<rect id="label78_bg" class="for_r78" x="639.53419" y="1351.90881" width="140.02989" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label78" class="for_r78" text-anchor="start" x="644.19906" y="1360.00883" font-weight="400" font-size="9.2016px" dy="2.9">Gestionar retorno de empaques</text>
+<rect id="label79_bg" class="for_r79" x="-126.25285" y="1628.15833" width="125.10357" height="21" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label79" class="for_r79" text-anchor="end" x="-6.29754" y="1638.80833" font-weight="400" font-size="13.5184px" dy="4.35">Servicios Posventa</text>
+<rect id="label80_bg" class="for_r80" x="211.52604" y="1417.18274" width="100.0752" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label80" class="for_r80" text-anchor="end" x="306.65322" y="1425.99283" font-weight="400" font-size="9.4288px" dy="3.19">Gestión de Reclamos</text>
+<rect id="label81_bg" class="for_r81" x="188.44792" y="1464.4751" width="122.87016" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label81" class="for_r81" text-anchor="end" x="306.65322" y="1473.28516" font-weight="400" font-size="9.4288px" dy="3.19">Soporte en Punto de Venta</text>
+<rect id="label82_bg" class="for_r82" x="201.61979" y="1511.76746" width="109.69828" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label82" class="for_r82" text-anchor="end" x="306.65322" y="1520.5775" font-weight="400" font-size="9.4288px" dy="3.19">Análisis de Satisfacción</text>
+<rect id="label83_bg" class="for_r83" x="150.22917" y="1559.05981" width="161.08891" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label83" class="for_r83" text-anchor="end" x="306.65322" y="1567.86983" font-weight="400" font-size="9.4288px" dy="3.19">Recopilación de Opiniones en Línea</text>
+<rect id="label84_bg" class="for_r84" x="181.66667" y="1606.35205" width="129.92664" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label84" class="for_r84" text-anchor="end" x="306.65322" y="1615.16216" font-weight="400" font-size="9.4288px" dy="3.19">Procesamiento de Garantías</text>
+<rect id="label85_bg" class="for_r85" x="175.36979" y="1653.64441" width="136.22352" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label85" class="for_r85" text-anchor="end" x="306.65322" y="1662.4545" font-weight="400" font-size="9.4288px" dy="3.19">Seguimiento de Reparaciones</text>
+<rect id="label86_bg" class="for_r86" x="198.47917" y="1700.93677" width="112.83891" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label86" class="for_r86" text-anchor="end" x="306.65322" y="1709.74683" font-weight="400" font-size="9.4288px" dy="3.19">Asesoramiento de Moda</text>
+<rect id="label87_bg" class="for_r87" x="171.19792" y="1748.22913" width="140.40913" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label87" class="for_r87" text-anchor="end" x="306.65322" y="1757.03916" font-weight="400" font-size="9.4288px" dy="3.19">Gestión de Pedidos Especiales</text>
+<rect id="label88_bg" class="for_r88" x="213.08854" y="1795.52148" width="98.50672" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label88" class="for_r88" text-anchor="end" x="306.65322" y="1804.3315" font-weight="400" font-size="9.4288px" dy="3.19">Reciclaje de Retazos</text>
+<rect id="label89_bg" class="for_r89" x="189.01042" y="1842.81372" width="122.59028" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label89" class="for_r89" text-anchor="end" x="306.65322" y="1851.62383" font-weight="400" font-size="9.4288px" dy="3.19">Reutilización de Materiales</text>
+<rect id="label90_bg" class="for_r90" x="639.53419" y="1378.46118" width="119.58946" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label90" class="for_r90" text-anchor="start" x="644.19906" y="1386.56117" font-weight="400" font-size="9.2016px" dy="2.9">Registrar reclamo en ticket</text>
+<rect id="label91_bg" class="for_r91" x="639.53419" y="1405.01355" width="94.12016" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label91" class="for_r91" text-anchor="start" x="644.19906" y="1413.1135" font-weight="400" font-size="9.2016px" dy="2.9">Proponer devolución</text>
+<rect id="label92_bg" class="for_r92" x="638.53419" y="1431.5658" width="124.79203" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label92" class="for_r92" text-anchor="start" x="644.19906" y="1439.66583" font-weight="400" font-size="9.2016px" dy="2.9">Atender consultas en tienda</text>
+<rect id="label93_bg" class="for_r93" x="639.53419" y="1458.11816" width="111.36979" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label93" class="for_r93" text-anchor="start" x="644.19906" y="1466.21817" font-weight="400" font-size="9.2016px" dy="2.9">Escalar casos complejos</text>
+<rect id="label94_bg" class="for_r94" x="639.53419" y="1484.67053" width="122.76078" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label94" class="for_r94" text-anchor="start" x="644.19906" y="1492.7705" font-weight="400" font-size="9.2016px" dy="2.9">Enviar encuestas postventa</text>
+<rect id="label95_bg" class="for_r95" x="639.53419" y="1511.2229" width="62.40141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label95" class="for_r95" text-anchor="start" x="644.19906" y="1519.32283" font-weight="400" font-size="9.2016px" dy="2.9">Evaluar NPS</text>
+<rect id="label96_bg" class="for_r96" x="639.53419" y="1537.77515" width="163.54191" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label96" class="for_r96" text-anchor="start" x="644.19906" y="1545.87517" font-weight="400" font-size="9.2016px" dy="2.9">Monitorear reseñas en redes sociales</text>
+<rect id="label97_bg" class="for_r97" x="639.53419" y="1564.32751" width="115.47562" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label97" class="for_r97" text-anchor="start" x="644.19906" y="1572.4275" font-weight="400" font-size="9.2016px" dy="2.9">Responder a comentarios</text>
+<rect id="label98_bg" class="for_r98" x="638.53419" y="1590.87988" width="141.66703" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label98" class="for_r98" text-anchor="start" x="644.19906" y="1598.97983" font-weight="400" font-size="9.2016px" dy="2.9">Verificar elegibilidad de garantía</text>
+<rect id="label99_bg" class="for_r99" x="639.53419" y="1617.43225" width="163.54197" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label99" class="for_r99" text-anchor="start" x="644.19906" y="1625.53217" font-weight="400" font-size="9.2016px" dy="2.9">Gestionar reemplazos o reparaciones</text>
+<rect id="label100_bg" class="for_r100" x="639.53419" y="1643.9845" width="146.16166" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label100" class="for_r100" text-anchor="start" x="644.19906" y="1652.0845" font-weight="400" font-size="9.2016px" dy="2.9">Registrar estado de reparaciones</text>
+<rect id="label101_bg" class="for_r101" x="639.53419" y="1670.53687" width="145.12852" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label101" class="for_r101" text-anchor="start" x="644.19906" y="1678.63683" font-weight="400" font-size="9.2016px" dy="2.9">Notificar al cliente sobre avances</text>
+<rect id="label102_bg" class="for_r102" x="639.53419" y="1697.08923" width="164.57066" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label102" class="for_r102" text-anchor="start" x="644.19906" y="1705.18917" font-weight="400" font-size="9.2016px" dy="2.9">Ofrecer recomendaciones de prendas</text>
+<rect id="label103_bg" class="for_r103" x="639.53419" y="1723.64148" width="159.45854" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label103" class="for_r103" text-anchor="start" x="644.19906" y="1731.7415" font-weight="400" font-size="9.2016px" dy="2.9">Crear guías de estilo personalizadas</text>
+<rect id="label104_bg" class="for_r104" x="639.53419" y="1750.19385" width="171.33891" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label104" class="for_r104" text-anchor="start" x="644.19906" y="1758.29383" font-weight="400" font-size="9.2016px" dy="2.9">Procesar solicitudes de personalización</text>
+<rect id="label105_bg" class="for_r105" x="639.53419" y="1776.74622" width="115.08891" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label105" class="for_r105" text-anchor="start" x="644.19906" y="1784.84617" font-weight="400" font-size="9.2016px" dy="2.9">Coordinar con producción</text>
+<rect id="label106_bg" class="for_r106" x="639.53419" y="1803.29858" width="80.68369" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label106" class="for_r106" text-anchor="start" x="644.19906" y="1811.3985" font-weight="400" font-size="9.2016px" dy="2.9">Clasificar retazos</text>
+<rect id="label107_bg" class="for_r107" x="639.53419" y="1829.85083" width="83.35453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label107" class="for_r107" text-anchor="start" x="644.19906" y="1837.95083" font-weight="400" font-size="9.2016px" dy="2.9">Registrar reciclaje</text>
+<rect id="label108_bg" class="for_r108" x="639.53419" y="1856.4032" width="134.90427" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label108" class="for_r108" text-anchor="start" x="644.19906" y="1864.50317" font-weight="400" font-size="9.2016px" dy="2.9">Diseñar productos con retazos</text>
+<rect id="label109_bg" class="for_r109" x="639.53419" y="1882.95557" width="155.99516" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label109" class="for_r109" text-anchor="start" x="644.19906" y="1891.0555" font-weight="400" font-size="9.2016px" dy="2.9">Gestionar inventario de reutilización</text>
+</g>
+</g></svg>

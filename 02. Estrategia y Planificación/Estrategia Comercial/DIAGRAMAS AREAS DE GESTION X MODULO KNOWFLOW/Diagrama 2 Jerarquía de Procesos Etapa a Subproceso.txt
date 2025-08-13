@@ -1,0 +1,288 @@
+// SankeyMATIC diagram inputs - Saved: 3/6/2025, 20:17:45
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+// Código SankeyMatic para el Diagrama 2: Jerarquía de Procesos: Etapa a Subproceso
+// Nombres completos para etapas, macroprocesos (sin "Gestión"), procesos, y subprocesos
+// Pesos basados en número de acciones por subproceso (2 por subproceso)
+
+// Mejora Continua
+Mejora Continua [12] Estratégica
+Mejora Continua [6] Calidad
+Mejora Continua [6] Conocimiento
+Mejora Continua [6] Sostenibilidad
+Estratégica [6] Planificación Estratégica
+Estratégica [6] Análisis de Mercado
+Planificación Estratégica [2] Definición de Objetivos
+Planificación Estratégica [2] Revisión de Estrategias
+Análisis de Mercado [2] Segmentación de Clientes
+Análisis de Mercado [2] Evaluación de Competencia
+Calidad [4] Control de Calidad
+Calidad [2] Mejora de Procesos
+Control de Calidad [2] Inspección de Prendas
+Control de Calidad [2] Certificación de Calidad
+Mejora de Procesos [2] Reducción de Desperdicios
+Conocimiento [4] Captura de Conocimiento
+Conocimiento [2] Difusión de Conocimiento
+Captura de Conocimiento [2] Registro de Técnicas
+Captura de Conocimiento [2] Documentación de Lecciones Aprendidas
+Difusión de Conocimiento [2] Creación de Repositorio Digital
+Sostenibilidad [4] Gestión de Residuos
+Sostenibilidad [2] Reporte de Sostenibilidad
+Gestión de Residuos [2] Reciclaje de Retazos
+Gestión de Residuos [2] Reutilización de Materiales
+Reporte de Sostenibilidad [2] Elaboración de Informes ESG
+
+// Transformación Digital
+Transformación Digital [12] Transformación
+Transformación Digital [4] Ciberseguridad
+Transformación [8] Automatización de Procesos
+Transformación [4] Digitalización de Ventas
+Automatización de Procesos [2] Implementación de Maquinaria CNC
+Automatización de Procesos [2] Automatización de Inventarios
+Digitalización de Ventas [2] Implementación de E-commerce
+Digitalización de Ventas [2] Integración de Pagos Digitales
+Transformación [4] Digitalización de Operaciones
+Digitalización de Operaciones [2] Implementación de IoT en Máquinas
+Digitalización de Operaciones [2] Automatización de Control de Calidad
+Ciberseguridad [4] Seguridad de Datos
+Seguridad de Datos [2] Implementación de Firewalls
+Seguridad de Datos [2] Cifrado de Información Sensible
+
+// Logística de Entrada
+Logística de Entrada [8] Operativa
+Logística de Entrada [8] Cadena de Suministro Extendida
+Logística de Entrada [4] Sostenibilidad
+Operativa [4] Adquisición de Insumos
+Operativa [4] Importación de Hilados
+Adquisición de Insumos [2] Recepción de Algodón
+Adquisición de Insumos [2] Recepción de Tintes
+Importación de Hilados [2] Validación de Importaciones
+Importación de Hilados [2] Seguimiento de Envíos
+Cadena de Suministro Extendida [4] Selección de Proveedores
+Cadena de Suministro Extendida [4] Monitoreo de Proveedores
+Selección de Proveedores [2] Evaluación de Insumos
+Selección de Proveedores [2] Negociación de Contratos
+Monitoreo de Proveedores [2] Auditoría de Proveedores
+Monitoreo de Proveedores [2] Evaluación de Desempeño
+Sostenibilidad [4] Compras Sostenibles
+Compras Sostenibles [2] Selección de Proveedores ESG
+Compras Sostenibles [2] Certificación de Insumos
+
+// Operaciones
+Operaciones [8] Innovación de Productos
+Operaciones [12] Producción
+Innovación de Productos [4] Diseño de Prendas
+Innovación de Productos [4] Pruebas de Tejidos
+Diseño de Prendas [2] Creación de Patrones
+Diseño de Prendas [2] Prototipado de Prendas
+Pruebas de Tejidos [2] Testeo de Resistencia
+Pruebas de Tejidos [2] Evaluación de Durabilidad
+Producción [4] Hilatura
+Producción [4] Confección
+Producción [4] Planificación de Producción
+Hilatura [2] Producción de Hilos
+Hilatura [2] Control de Calidad de Hilos
+Confección [2] Costura de Prendas
+Confección [2] Acabado de Prendas
+Planificación de Producción [2] Programación de Órdenes
+Planificación de Producción [2] Balanceo de Líneas
+
+// Marketing y Ventas
+Marketing y Ventas [12] Comercial
+Comercial [4] Captación de Clientes
+Comercial [4] Cierre de Ventas
+Comercial [4] Gestión de Marketing
+Captación de Clientes [2] Generación de Leads
+Captación de Clientes [2] Seguimiento de Leads
+Cierre de Ventas [2] Emisión de Cotizaciones
+Cierre de Ventas [2] Negociación con Clientes
+Gestión de Marketing [2] Creación de Campañas Publicitarias
+Gestión de Marketing [2] Promociones en Punto de Venta
+
+// Logística de Salida
+Logística de Salida [12] Cadena de Suministro Extendida
+Cadena de Suministro Extendida [4] Distribución
+Cadena de Suministro Extendida [4] Gestión de Almacenes de Producto Terminado
+Cadena de Suministro Extendida [4] Gestión de Inventarios de Salida
+Distribución [2] Coordinación de Transporte
+Distribución [2] Seguimiento de Entregas
+Gestión de Almacenes de Producto Terminado [2] Preparación de Pedidos
+Gestión de Almacenes de Producto Terminado [2] Empaquetado y Etiquetado
+Gestión de Inventarios de Salida [2] Control de Stock de Producto Terminado
+Gestión de Inventarios de Salida [2] Auditoría de Inventario
+
+// Servicios Posventa
+Servicios Posventa [12] Experiencia del Cliente
+Experiencia del Cliente [4] Atención al Cliente
+Experiencia del Cliente [4] Retroalimentación
+Experiencia del Cliente [4] Gestión de Garantías
+Atención al Cliente [2] Gestión de Reclamos
+Atención al Cliente [2] Soporte en Punto de Venta
+Retroalimentación [2] Análisis de Satisfacción
+Retroalimentación [2] Recopilación de Opiniones en Línea
+Gestión de Garantías [2] Procesamiento de Garantías
+Gestión de Garantías [2] Seguimiento de Reparaciones
+
+// Soporte Continuo
+Soporte Continuo [6] Talento
+Soporte Continuo [8] IT
+Soporte Continuo [6] Administrativa
+Soporte Continuo [8] Financiera
+Soporte Continuo [8] Riesgos
+Soporte Continuo [8] Ciberseguridad
+Talento [4] Reclutamiento
+Talento [2] Capacitación
+Reclutamiento [2] Selección de Operarios
+Reclutamiento [2] Onboarding de Operarios
+Capacitación [2] Formación en Confección
+IT [4] Soporte Técnico
+IT [4] Mantenimiento
+Soporte Técnico [2] Resolución de Fallos
+Soporte Técnico [2] Soporte a Usuarios
+Mantenimiento [2] Actualización de Software
+Mantenimiento [2] Mantenimiento de Hardware
+Administrativa [4] Gestión Documental
+Administrativa [2] Gestión de Gastos
+Gestión Documental [2] Digitalización de Facturas
+Gestión Documental [2] Archivo de Contratos
+Gestión de Gastos [2] Aprobación de Compras
+Financiera [4] Contabilidad
+Financiera [4] Tesorería
+Contabilidad [2] Registro de Transacciones
+Contabilidad [2] Preparación de Estados Financieros
+Tesorería [2] Gestión de Flujo de Caja
+Tesorería [2] Gestión de Pagos a Proveedores
+Riesgos [4] Identificación de Riesgos
+Riesgos [4] Cumplimiento Tributario
+Identificación de Riesgos [2] Análisis de Riesgos Operativos
+Identificación de Riesgos [2] Evaluación de Riesgos Financieros
+Cumplimiento Tributario [2] Auditorías SUNAT
+Cumplimiento Tributario [2] Gestión de Deducciones Fiscales
+Ciberseguridad [4] Evaluación de Riesgos
+Ciberseguridad [4] Protección de Datos
+Evaluación de Riesgos [2] Escaneo de Vulnerabilidades
+Evaluación de Riesgos [2] Capacitación en Ciberseguridad
+Protección de Datos [2] Monitoreo de Accesos
+Protección de Datos [2] Respuesta a Incidentes
+
+// Gestión Estratégica y Sostenibilidad
+Gestión Estratégica y Sostenibilidad [4] Calidad
+Gestión Estratégica y Sostenibilidad [6] Conocimiento
+Gestión Estratégica y Sostenibilidad [6] Sostenibilidad
+Gestión Estratégica y Sostenibilidad [4] Ciberseguridad
+Calidad [2] Control de Calidad
+Calidad [2] Mejora de Procesos
+Control de Calidad [2] Inspección de Prendas
+Mejora de Procesos [2] Implementación de Metodologías Lean
+Conocimiento [4] Captura de Conocimiento
+Conocimiento [2] Difusión de Conocimiento
+Captura de Conocimiento [2] Registro de Técnicas
+Captura de Conocimiento [2] Registro de Innovaciones
+Difusión de Conocimiento [2] Foros de Intercambio Interno
+Sostenibilidad [4] Gestión de Residuos
+Sostenibilidad [2] Compromiso Comunitario
+Gestión de Residuos [2] Reciclaje de Retazos
+Gestión de Residuos [2] Gestión de Residuos Líquidos
+Compromiso Comunitario [2] Capacitación a Comunidades
+Ciberseguridad [2] Evaluación de Riesgos
+Ciberseguridad [2] Protección de Datos
+Evaluación de Riesgos [2] Auditoría de Seguridad
+Protección de Datos [2] Backup y Recuperación
+
+// Innovación y Competitividad
+Innovación y Competitividad [8] Innovación Tecnológica
+Innovación y Competitividad [8] Competitividad de Mercado
+Innovación y Competitividad [8] Alianzas Estratégicas
+Innovación Tecnológica [4] Adopción de Nuevas Tecnologías
+Innovación Tecnológica [4] Investigación de Nuevos Procesos
+Adopción de Nuevas Tecnologías [2] Implementación de Software CAD Avanzado
+Adopción de Nuevas Tecnologías [2] Integración de Impresión Textil Digital
+Investigación de Nuevos Procesos [2] Desarrollo de Tejidos Inteligentes
+Investigación de Nuevos Procesos [2] Automatización de Procesos de Acabado
+Competitividad de Mercado [4] Diferenciación de Productos
+Competitividad de Mercado [4] Expansión de Mercados
+Diferenciación de Productos [2] Lanzamiento de Colecciones Exclusivas
+Diferenciación de Productos [2] Personalización Masiva de Prendas
+Expansión de Mercados [2] Penetración en Mercados Internacionales
+Expansión de Mercados [2] Participación en Ferias Textiles
+Alianzas Estratégicas [4] Colaboración con Proveedores
+Alianzas Estratégicas [4] Alianzas con Instituciones
+Colaboración con Proveedores [2] Co-desarrollo de Insumos
+Colaboración con Proveedores [2] Contratos de Exclusividad
+Alianzas con Instituciones [2] Colaboración con Universidades
+Alianzas con Instituciones [2] Asociaciones con ONGs
+
+// === Settings ===
+
+size w 980
+  h 1900
+margin l 12
+  r 12
+  t 18
+  b 4
+bg color #ffffff
+  transparent N
+node w 12
+  h 73.5
+  spacing 80.5
+  border 0
+  theme c
+  color #888888
+  opacity 1
+flow curvature 0.5
+  inheritfrom outside-in
+  color #999999
+  opacity 0.45
+layout order automatic
+  justifyorigins Y
+  justifyends Y
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0.9
+  fontface sans-serif
+  linespacing 0.05
+  relativesize 129
+  magnify 119
+labelname appears Y
+  size 16
+  weight 400
+labelvalue appears N
+  fullprecision Y
+  position below
+  weight 400
+labelposition autoalign -1
+  scheme auto
+  first before
+  breakpoint 5
+value format ',.'
+  prefix ''
+  suffix ''
+themeoffset a 6
+  b 0
+  c 1
+  d 0
+meta mentionsankeymatic Y
+  listimbalances Y
+
+// === Moved Nodes ===
+
+move Calidad 0.22059, -0.00422
+move Conocimiento 0.22269, -0.00142
+move Cadena de Suministro Extendida 0.27311, 0.00147
+move Comercial 0.28151, 0.00126
+move Administrativa 0.42437, 0.00969
+move Financiera 0.42437, 0.02093
+move Alianzas Estratégicas -0.0485, 0.01171
+move Soporte Continuo -0.0042, 0.02478
+move Servicios Posventa -0.0021, 0.03668
+move Marketing y Ventas 0.0021, 0.03415
+move Operaciones -0.0042, 0.03662
+move Logística de Salida 0, 0.03415
+move Logística de Entrada 0.0021, 0.04055
+move Gestión Estratégica y Sostenibilidad 0.0021, 0.03924
+move Mejora Continua 0, 0.04924
+move Transformación Digital -1.02941, -0.15303

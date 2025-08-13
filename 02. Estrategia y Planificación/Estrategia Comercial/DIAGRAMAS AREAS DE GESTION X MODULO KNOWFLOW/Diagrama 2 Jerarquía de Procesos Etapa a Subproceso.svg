@@ -1,0 +1,1280 @@
+<svg height="1900" width="980" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 3/6/2025, 20:17:41 -->
+<rect height="1900" width="980" fill="#ffffff"></rect>
+<g transform="translate(200.26848,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 235.78173C99.82978 235.78173 99.82978 113.51846 187.65956 113.51846" fill="none" stroke-width="81.95126" stroke="#d95f02" opacity="0.45"><title>Mejora Continua → Estratégica: 12</title></path>
+<path id="flow25" d="M12 231.85836C99.82978 231.85836 99.82978 362.89578 187.65956 362.89578" fill="none" stroke-width="81.95126" stroke="#7570b3" opacity="0.45"><title>Transformación Digital → Transformación: 12</title></path>
+<path id="flow58" d="M12 960.23534C99.82978 960.23534 99.82978 962.64607 187.65956 962.64607" fill="none" stroke-width="81.95126" stroke="#666666" opacity="0.45"><title>Operaciones → Producción: 12</title></path>
+<path id="flow74" d="M13.18273 1087.2938C179.66394 1087.2938 179.66394 1050.69996 346.14515 1050.69996" fill="none" stroke-width="81.95126" stroke="#66a61e" opacity="0.45"><title>Marketing y Ventas → Comercial: 12</title></path>
+<path id="flow84" d="M12 817.36992C176.70712 817.36992 176.70712 707.85357 341.41424 707.85357" fill="none" stroke-width="81.95126" stroke="#7570b3" opacity="0.45"><title>Logística de Salida → Cadena de Suministro Extendida: 12</title></path>
+<path id="flow94" d="M12 1481.93829C99.82978 1481.93829 99.82978 1395.49079 187.65956 1395.49079" fill="none" stroke-width="81.95126" stroke="#666666" opacity="0.45"><title>Servicios Posventa → Experiencia del Cliente: 12</title></path>
+<path id="flow27" d="M199.65956 349.23723C287.48934 349.23723 287.48934 301.67769 375.31911 301.67769" fill="none" stroke-width="54.63417" stroke="#7570b3" opacity="0.45"><title>Transformación → Automatización de Procesos: 8</title></path>
+<path id="flow39" d="M13.18273 699.89376C100.42114 699.89376 100.42114 575.43639 187.65956 575.43639" fill="none" stroke-width="54.63417" stroke="#7570b3" opacity="0.45"><title>Logística de Entrada → Operativa: 8</title></path>
+<path id="flow40" d="M13.18273 754.52794C177.29848 754.52794 177.29848 639.56086 341.41424 639.56086" fill="none" stroke-width="54.63417" stroke="#7570b3" opacity="0.45"><title>Logística de Entrada → Cadena de Suministro Extendida: 8</title></path>
+<path id="flow57" d="M12 891.94263C99.82978 891.94263 99.82978 777.42254 187.65956 777.42254" fill="none" stroke-width="54.63417" stroke="#666666" opacity="0.45"><title>Operaciones → Innovación de Productos: 8</title></path>
+<path id="flow105" d="M12 1232.79358C99.82978 1232.79358 99.82978 1212.50395 187.65956 1212.50395" fill="none" stroke-width="54.63417" stroke="#e7298a" opacity="0.45"><title>Soporte Continuo → IT: 8</title></path>
+<path id="flow107" d="M12 1328.40339C219.28534 1328.40339 219.28534 1361.53228 426.57067 1361.53228" fill="none" stroke-width="54.63417" stroke="#e7298a" opacity="0.45"><title>Soporte Continuo → Financiera: 8</title></path>
+<path id="flow108" d="M12 1383.03756C99.82978 1383.03756 99.82978 1467.61474 187.65956 1467.61474" fill="none" stroke-width="54.63417" stroke="#e7298a" opacity="0.45"><title>Soporte Continuo → Riesgos: 8</title></path>
+<path id="flow109" d="M12 1137.18378C99.82978 1137.18378 99.82978 890.52212 187.65956 890.52212" fill="none" stroke-width="54.63417" stroke="#e7298a" opacity="0.45"><title>Soporte Continuo → Ciberseguridad: 8</title></path>
+<path id="flow166" d="M12 1601.24624v54.63417L187.65956 1654.24043v-54.63417z" fill="#1b9e77" stroke-width="0.5" stroke="#1b9e77" opacity="0.45"><title>Innovación y Competitividad → Innovación Tecnológica: 8</title></path>
+<path id="flow167" d="M12 1683.1975C99.82978 1683.1975 99.82978 1686.66582 187.65956 1686.66582" fill="none" stroke-width="54.63417" stroke="#1b9e77" opacity="0.45"><title>Innovación y Competitividad → Competitividad de Mercado: 8</title></path>
+<path id="flow168" d="M12 1737.83167C86.1772 1737.83167 86.1772 1767.7632 160.3544 1767.7632" fill="none" stroke-width="54.63417" stroke="#1b9e77" opacity="0.45"><title>Innovación y Competitividad → Alianzas Estratégicas: 8</title></path>
+<path id="flow1" d="M12 297.24518C161.92301 297.24518 161.92301 176.86334 311.84603 176.86334" fill="none" stroke-width="40.97563" stroke="#d95f02" opacity="0.45"><title>Mejora Continua → Calidad: 6</title></path>
+<path id="flow2" d="M12 338.22081C162.51438 338.22081 162.51438 254.07768 313.02876 254.07768" fill="none" stroke-width="40.97563" stroke="#d95f02" opacity="0.45"><title>Mejora Continua → Conocimiento: 6</title></path>
+<path id="flow3" d="M12 379.19644C99.82978 379.19644 99.82978 455.50754 187.65956 455.50754" fill="none" stroke-width="40.97563" stroke="#d95f02" opacity="0.45"><title>Mejora Continua → Sostenibilidad: 6</title></path>
+<path id="flow4" d="M199.65956 93.03064C287.48934 93.03064 287.48934 70.81411 375.31911 70.81411" fill="none" stroke-width="40.97563" stroke="#7570b3" opacity="0.45"><title>Estratégica → Planificación Estratégica: 6</title></path>
+<path id="flow5" d="M199.65956 134.00627C287.48934 134.00627 287.48934 115.62097 375.31911 115.62097" fill="none" stroke-width="40.97563" stroke="#7570b3" opacity="0.45"><title>Estratégica → Análisis de Mercado: 6</title></path>
+<path id="flow104" d="M12 1184.98868C99.82978 1184.98868 99.82978 1160.22928 187.65956 1160.22928" fill="none" stroke-width="40.97563" stroke="#e7298a" opacity="0.45"><title>Soporte Continuo → Talento: 6</title></path>
+<path id="flow106" d="M12 1260.11067v40.97563L426.57067 1303.06528v-40.97563z" fill="#e7298a" stroke-width="0.5" stroke="#e7298a" opacity="0.45"><title>Soporte Continuo → Administrativa: 6</title></path>
+<path id="flow145" d="M13.18273 437.27051C163.10574 437.27051 163.10574 295.05331 313.02876 295.05331" fill="none" stroke-width="40.97563" stroke="#e6ab02" opacity="0.45"><title>Gestión Estratégica y Sostenibilidad → Conocimiento: 6</title></path>
+<path id="flow146" d="M13.18273 478.24614C100.42114 478.24614 100.42114 496.48317 187.65956 496.48317" fill="none" stroke-width="40.97563" stroke="#e6ab02" opacity="0.45"><title>Gestión Estratégica y Sostenibilidad → Sostenibilidad: 6</title></path>
+<path id="flow10" d="M323.84603 170.03407C349.58257 170.03407 349.58257 153.59856 375.31911 153.59856" fill="none" stroke-width="27.31709" stroke="#e7298a" opacity="0.45"><title>Calidad → Control de Calidad: 4</title></path>
+<path id="flow15" d="M325.02876 247.24841C350.17394 247.24841 350.17394 198.40543 375.31911 198.40543" fill="none" stroke-width="27.31709" stroke="#66a61e" opacity="0.45"><title>Conocimiento → Captura de Conocimiento: 4</title></path>
+<path id="flow20" d="M199.65956 462.33681C287.48934 462.33681 287.48934 457.41928 375.31911 457.41928" fill="none" stroke-width="27.31709" stroke="#e6ab02" opacity="0.45"><title>Sostenibilidad → Gestión de Residuos: 4</title></path>
+<path id="flow26" d="M12 286.49253C99.82978 286.49253 99.82978 822.2294 187.65956 822.2294" fill="none" stroke-width="27.31709" stroke="#7570b3" opacity="0.45"><title>Transformación Digital → Ciberseguridad: 4</title></path>
+<path id="flow28" d="M199.65956 390.21286C287.48934 390.21286 287.48934 377.63287 375.31911 377.63287" fill="none" stroke-width="27.31709" stroke="#7570b3" opacity="0.45"><title>Transformación → Digitalización de Ventas: 4</title></path>
+<path id="flow33" d="M199.65956 417.52995C287.48934 417.52995 287.48934 408.78119 375.31911 408.78119" fill="none" stroke-width="27.31709" stroke="#7570b3" opacity="0.45"><title>Transformación → Digitalización de Operaciones: 4</title></path>
+<path id="flow36" d="M199.65956 822.2294C287.48934 822.2294 287.48934 844.85765 375.31911 844.85765" fill="none" stroke-width="27.31709" stroke="#e7298a" opacity="0.45"><title>Ciberseguridad → Seguridad de Datos: 4</title></path>
+<path id="flow41" d="M13.18273 658.91813C100.42114 658.91813 100.42114 530.62953 187.65956 530.62953" fill="none" stroke-width="27.31709" stroke="#7570b3" opacity="0.45"><title>Logística de Entrada → Sostenibilidad: 4</title></path>
+<path id="flow42" d="M199.65956 561.77785C287.48934 561.77785 287.48934 547.03301 375.31911 547.03301" fill="none" stroke-width="27.31709" stroke="#e7298a" opacity="0.45"><title>Operativa → Adquisición de Insumos: 4</title></path>
+<path id="flow43" d="M199.65956 589.09494C287.48934 589.09494 287.48934 595.6711 375.31911 595.6711" fill="none" stroke-width="27.31709" stroke="#e7298a" opacity="0.45"><title>Operativa → Importación de Hilados: 4</title></path>
+<path id="flow48" d="M353.41424 612.24377v27.31709L375.31911 640.47796v-27.31709z" fill="#66a61e" stroke-width="0.5" stroke="#66a61e" opacity="0.45"><title>Cadena de Suministro Extendida → Selección de Proveedores: 4</title></path>
+<path id="flow49" d="M353.41424 653.2194C364.36668 653.2194 364.36668 657.96774 375.31911 657.96774" fill="none" stroke-width="27.31709" stroke="#66a61e" opacity="0.45"><title>Cadena de Suministro Extendida → Monitoreo de Proveedores: 4</title></path>
+<path id="flow54" d="M199.65956 503.31244v27.31709L375.31911 529.54323v-27.31709z" fill="#e6ab02" stroke-width="0.5" stroke="#e6ab02" opacity="0.45"><title>Sostenibilidad → Compras Sostenibles: 4</title></path>
+<path id="flow59" d="M199.65956 763.76399C287.48934 763.76399 287.48934 751.41269 375.31911 751.41269" fill="none" stroke-width="27.31709" stroke="#1b9e77" opacity="0.45"><title>Innovación de Productos → Diseño de Prendas: 4</title></path>
+<path id="flow60" d="M199.65956 791.08108C287.48934 791.08108 287.48934 813.70933 375.31911 813.70933" fill="none" stroke-width="27.31709" stroke="#1b9e77" opacity="0.45"><title>Innovación de Productos → Pruebas de Tejidos: 4</title></path>
+<path id="flow65" d="M199.65956 935.32898C287.48934 935.32898 287.48934 965.61969 375.31911 965.61969" fill="none" stroke-width="27.31709" stroke="#d95f02" opacity="0.45"><title>Producción → Hilatura: 4</title></path>
+<path id="flow66" d="M199.65956 962.64607C287.48934 962.64607 287.48934 996.76801 375.31911 996.76801" fill="none" stroke-width="27.31709" stroke="#d95f02" opacity="0.45"><title>Producción → Confección: 4</title></path>
+<path id="flow67" d="M199.65956 989.96315C287.48934 989.96315 287.48934 1027.91632 375.31911 1027.91632" fill="none" stroke-width="27.31709" stroke="#d95f02" opacity="0.45"><title>Producción → Planificación de Producción: 4</title></path>
+<path id="flow75" d="M358.14515 1023.38287C366.73213 1023.38287 366.73213 1059.06464 375.31911 1059.06464" fill="none" stroke-width="27.31709" stroke="#e6ab02" opacity="0.45"><title>Comercial → Captación de Clientes: 4</title></path>
+<path id="flow76" d="M358.14515 1050.69996C366.73213 1050.69996 366.73213 1090.21296 375.31911 1090.21296" fill="none" stroke-width="27.31709" stroke="#e6ab02" opacity="0.45"><title>Comercial → Cierre de Ventas: 4</title></path>
+<path id="flow77" d="M358.14515 1078.01705C366.73213 1078.01705 366.73213 1121.36128 375.31911 1121.36128" fill="none" stroke-width="27.31709" stroke="#e6ab02" opacity="0.45"><title>Comercial → Gestión de Marketing: 4</title></path>
+<path id="flow85" d="M353.41424 680.53649C364.36668 680.53649 364.36668 689.11605 375.31911 689.11605" fill="none" stroke-width="27.31709" stroke="#66a61e" opacity="0.45"><title>Cadena de Suministro Extendida → Distribución: 4</title></path>
+<path id="flow86" d="M353.41424 707.85357C364.36668 707.85357 364.36668 720.26437 375.31911 720.26437" fill="none" stroke-width="27.31709" stroke="#66a61e" opacity="0.45"><title>Cadena de Suministro Extendida → Gestión de Almacenes de Producto Terminado: 4</title></path>
+<path id="flow87" d="M353.41424 735.17066C364.36668 735.17066 364.36668 782.56101 375.31911 782.56101" fill="none" stroke-width="27.31709" stroke="#66a61e" opacity="0.45"><title>Cadena de Suministro Extendida → Gestión de Inventarios de Salida: 4</title></path>
+<path id="flow95" d="M199.65956 1368.17371C287.48934 1368.17371 287.48934 1385.25486 375.31911 1385.25486" fill="none" stroke-width="27.31709" stroke="#1b9e77" opacity="0.45"><title>Experiencia del Cliente → Atención al Cliente: 4</title></path>
+<path id="flow96" d="M199.65956 1395.49079C287.48934 1395.49079 287.48934 1447.5515 375.31911 1447.5515" fill="none" stroke-width="27.31709" stroke="#1b9e77" opacity="0.45"><title>Experiencia del Cliente → Retroalimentación: 4</title></path>
+<path id="flow97" d="M199.65956 1422.80788C287.48934 1422.80788 287.48934 1478.69982 375.31911 1478.69982" fill="none" stroke-width="27.31709" stroke="#1b9e77" opacity="0.45"><title>Experiencia del Cliente → Gestión de Garantías: 4</title></path>
+<path id="flow110" d="M199.65956 1153.40001C287.48934 1153.40001 287.48934 1185.96824 375.31911 1185.96824" fill="none" stroke-width="27.31709" stroke="#a6761d" opacity="0.45"><title>Talento → Reclutamiento: 4</title></path>
+<path id="flow115" d="M199.65956 1198.84541C287.48934 1198.84541 287.48934 1235.24487 375.31911 1235.24487" fill="none" stroke-width="27.31709" stroke="#666666" opacity="0.45"><title>IT → Soporte Técnico: 4</title></path>
+<path id="flow116" d="M199.65956 1226.16249C287.48934 1226.16249 287.48934 1266.39319 375.31911 1266.39319" fill="none" stroke-width="27.31709" stroke="#666666" opacity="0.45"><title>IT → Mantenimiento: 4</title></path>
+<path id="flow121" d="M438.57067 1275.74819C406.94489 1275.74819 406.94489 1299.45712 375.31911 1299.45712" fill="none" stroke-width="27.31709" stroke="#1b9e77" opacity="0.45"><title>Administrativa → Gestión Documental: 4</title></path>
+<path id="flow126" d="M438.57067 1334.21519v27.31709L375.31911 1363.35759v-27.31709z" fill="#d95f02" stroke-width="0.5" stroke="#d95f02" opacity="0.45"><title>Financiera → Contabilidad: 4</title></path>
+<path id="flow127" d="M438.57067 1375.19082C406.94489 1375.19082 406.94489 1416.40318 375.31911 1416.40318" fill="none" stroke-width="27.31709" stroke="#d95f02" opacity="0.45"><title>Financiera → Tesorería: 4</title></path>
+<path id="flow132" d="M199.65956 1453.9562C287.48934 1453.9562 287.48934 1509.84814 375.31911 1509.84814" fill="none" stroke-width="27.31709" stroke="#7570b3" opacity="0.45"><title>Riesgos → Identificación de Riesgos: 4</title></path>
+<path id="flow133" d="M199.65956 1481.27329C287.48934 1481.27329 287.48934 1540.99645 375.31911 1540.99645" fill="none" stroke-width="27.31709" stroke="#7570b3" opacity="0.45"><title>Riesgos → Cumplimiento Tributario: 4</title></path>
+<path id="flow138" d="M199.65956 849.54648C287.48934 849.54648 287.48934 876.00596 375.31911 876.00596" fill="none" stroke-width="27.31709" stroke="#e7298a" opacity="0.45"><title>Ciberseguridad → Evaluación de Riesgos: 4</title></path>
+<path id="flow139" d="M199.65956 890.52212C287.48934 890.52212 287.48934 920.81283 375.31911 920.81283" fill="none" stroke-width="27.31709" stroke="#e7298a" opacity="0.45"><title>Ciberseguridad → Protección de Datos: 4</title></path>
+<path id="flow144" d="M13.18273 403.12415C162.51438 403.12415 162.51438 211.0097 311.84603 211.0097" fill="none" stroke-width="27.31709" stroke="#e6ab02" opacity="0.45"><title>Gestión Estratégica y Sostenibilidad → Calidad: 4</title></path>
+<path id="flow147" d="M13.18273 512.3925C100.42114 512.3925 100.42114 849.54648 187.65956 849.54648" fill="none" stroke-width="27.31709" stroke="#e6ab02" opacity="0.45"><title>Gestión Estratégica y Sostenibilidad → Ciberseguridad: 4</title></path>
+<path id="flow152" d="M325.02876 274.5655C350.17394 274.5655 350.17394 225.72251 375.31911 225.72251" fill="none" stroke-width="27.31709" stroke="#66a61e" opacity="0.45"><title>Conocimiento → Captura de Conocimiento: 4</title></path>
+<path id="flow157" d="M199.65956 489.6539C287.48934 489.6539 287.48934 484.73637 375.31911 484.73637" fill="none" stroke-width="27.31709" stroke="#e6ab02" opacity="0.45"><title>Sostenibilidad → Gestión de Residuos: 4</title></path>
+<path id="flow169" d="M199.65956 1613.26479C287.48934 1613.26479 287.48934 1626.1348 375.31911 1626.1348" fill="none" stroke-width="27.31709" stroke="#1b9e77" opacity="0.45"><title>Innovación Tecnológica → Adopción de Nuevas Tecnologías: 4</title></path>
+<path id="flow170" d="M199.65956 1640.58188C287.48934 1640.58188 287.48934 1657.28312 375.31911 1657.28312" fill="none" stroke-width="27.31709" stroke="#1b9e77" opacity="0.45"><title>Innovación Tecnológica → Investigación de Nuevos Procesos: 4</title></path>
+<path id="flow175" d="M199.65956 1673.00728C287.48934 1673.00728 287.48934 1690.98559 375.31911 1690.98559" fill="none" stroke-width="27.31709" stroke="#666666" opacity="0.45"><title>Competitividad de Mercado → Diferenciación de Productos: 4</title></path>
+<path id="flow176" d="M199.65956 1700.32436C287.48934 1700.32436 287.48934 1722.13391 375.31911 1722.13391" fill="none" stroke-width="27.31709" stroke="#666666" opacity="0.45"><title>Competitividad de Mercado → Expansión de Mercados: 4</title></path>
+<path id="flow181" d="M172.3544 1740.44611v27.31709L375.31911 1769.49492v-27.31709z" fill="#1b9e77" stroke-width="0.5" stroke="#1b9e77" opacity="0.45"><title>Alianzas Estratégicas → Colaboración con Proveedores: 4</title></path>
+<path id="flow182" d="M172.3544 1781.42175C273.83676 1781.42175 273.83676 1786.9847 375.31911 1786.9847" fill="none" stroke-width="27.31709" stroke="#1b9e77" opacity="0.45"><title>Alianzas Estratégicas → Alianzas con Instituciones: 4</title></path>
+<path id="flow6" d="M387.31911 57.15557C475.14889 57.15557 475.14889 47.85469 562.97867 47.85469" fill="none" stroke-width="13.65854" stroke="#1b9e77" opacity="0.45"><title>Planificación Estratégica → Definición de Objetivos: 2</title></path>
+<path id="flow7" d="M387.31911 70.81411C475.14889 70.81411 475.14889 65.34446 562.97867 65.34446" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Planificación Estratégica → Revisión de Estrategias: 2</title></path>
+<path id="flow8" d="M387.31911 101.96243C475.14889 101.96243 475.14889 92.66155 562.97867 92.66155" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Análisis de Mercado → Segmentación de Clientes: 2</title></path>
+<path id="flow9" d="M387.31911 115.62097C475.14889 115.62097 475.14889 110.15133 562.97867 110.15133" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Análisis de Mercado → Evaluación de Competencia: 2</title></path>
+<path id="flow11" d="M323.84603 204.18042C349.58257 204.18042 349.58257 250.04156 375.31911 250.04156" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Calidad → Mejora de Procesos: 2</title></path>
+<path id="flow12" d="M387.31911 146.76929C475.14889 146.76929 475.14889 127.6411 562.97867 127.6411" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Control de Calidad → Inspección de Prendas: 2</title></path>
+<path id="flow13" d="M387.31911 174.08638C475.14889 174.08638 475.14889 158.78942 562.97867 158.78942" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Control de Calidad → Certificación de Calidad: 2</title></path>
+<path id="flow14" d="M387.31911 250.04156C475.14889 250.04156 475.14889 242.40706 562.97867 242.40706" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Mejora de Procesos → Reducción de Desperdicios: 2</title></path>
+<path id="flow16" d="M325.02876 295.05331C350.17394 295.05331 350.17394 339.65528 375.31911 339.65528" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Conocimiento → Difusión de Conocimiento: 2</title></path>
+<path id="flow17" d="M387.31911 191.57615C475.14889 191.57615 475.14889 176.27919 562.97867 176.27919" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Captura de Conocimiento → Registro de Técnicas: 2</title></path>
+<path id="flow18" d="M387.31911 218.89324C475.14889 218.89324 475.14889 207.42751 562.97867 207.42751" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Captura de Conocimiento → Documentación de Lecciones Aprendidas: 2</title></path>
+<path id="flow19" d="M387.31911 339.65528C475.14889 339.65528 475.14889 312.36616 562.97867 312.36616" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Difusión de Conocimiento → Creación de Repositorio Digital: 2</title></path>
+<path id="flow21" d="M199.65956 441.849C287.48934 441.849 287.48934 433.10024 375.31911 433.10024" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Sostenibilidad → Reporte de Sostenibilidad: 2</title></path>
+<path id="flow22" d="M387.31911 450.59001C475.14889 450.59001 475.14889 434.79458 562.97867 434.79458" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Gestión de Residuos → Reciclaje de Retazos: 2</title></path>
+<path id="flow23" d="M387.31911 477.9071C475.14889 477.9071 475.14889 465.9429 562.97867 465.9429" fill="none" stroke-width="13.65854" stroke="#1b9e77" opacity="0.45"><title>Gestión de Residuos → Reutilización de Materiales: 2</title></path>
+<path id="flow24" d="M387.31911 433.10024C475.14889 433.10024 475.14889 417.30481 562.97867 417.30481" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Reporte de Sostenibilidad → Elaboración de Informes ESG: 2</title></path>
+<path id="flow29" d="M387.31911 281.18988C475.14889 281.18988 475.14889 277.38661 562.97867 277.38661" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Automatización de Procesos → Implementación de Maquinaria CNC: 2</title></path>
+<path id="flow30" d="M387.31911 288.01915v13.65854L562.97867 301.70566v-13.65854z" fill="#66a61e" stroke-width="0.5" stroke="#66a61e" opacity="0.45"><title>Automatización de Procesos → Automatización de Inventarios: 2</title></path>
+<path id="flow31" d="M387.31911 370.8036C475.14889 370.8036 475.14889 347.34571 562.97867 347.34571" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Digitalización de Ventas → Implementación de E-commerce: 2</title></path>
+<path id="flow32" d="M387.31911 384.46214C475.14889 384.46214 475.14889 364.83548 562.97867 364.83548" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Digitalización de Ventas → Integración de Pagos Digitales: 2</title></path>
+<path id="flow34" d="M387.31911 401.95192C475.14889 401.95192 475.14889 382.32526 562.97867 382.32526" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Digitalización de Operaciones → Implementación de IoT en Máquinas: 2</title></path>
+<path id="flow35" d="M387.31911 415.61046C475.14889 415.61046 475.14889 399.81503 562.97867 399.81503" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Digitalización de Operaciones → Automatización de Control de Calidad: 2</title></path>
+<path id="flow37" d="M387.31911 838.02837C475.14889 838.02837 475.14889 868.20771 562.97867 868.20771" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Seguridad de Datos → Implementación de Firewalls: 2</title></path>
+<path id="flow38" d="M387.31911 851.68692C475.14889 851.68692 475.14889 885.69749 562.97867 885.69749" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Seguridad de Datos → Cifrado de Información Sensible: 2</title></path>
+<path id="flow44" d="M387.31911 540.20374C475.14889 540.20374 475.14889 535.902 562.97867 535.902" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Adquisición de Insumos → Recepción de Algodón: 2</title></path>
+<path id="flow45" d="M387.31911 547.03301v13.65854L562.97867 560.22104v-13.65854z" fill="#666666" stroke-width="0.5" stroke="#666666" opacity="0.45"><title>Adquisición de Insumos → Recepción de Tintes: 2</title></path>
+<path id="flow46" d="M387.31911 582.01256v13.65854L562.97867 595.20059v-13.65854z" fill="#1b9e77" stroke-width="0.5" stroke="#1b9e77" opacity="0.45"><title>Importación de Hilados → Validación de Importaciones: 2</title></path>
+<path id="flow47" d="M387.31911 602.50037C475.14889 602.50037 475.14889 605.86109 562.97867 605.86109" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Importación de Hilados → Seguimiento de Envíos: 2</title></path>
+<path id="flow50" d="M387.31911 619.99015C475.14889 619.99015 475.14889 623.35087 562.97867 623.35087" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Selección de Proveedores → Evaluación de Insumos: 2</title></path>
+<path id="flow51" d="M387.31911 633.64869C475.14889 633.64869 475.14889 640.84064 562.97867 640.84064" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Selección de Proveedores → Negociación de Contratos: 2</title></path>
+<path id="flow52" d="M387.31911 651.13846C475.14889 651.13846 475.14889 658.33042 562.97867 658.33042" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Monitoreo de Proveedores → Auditoría de Proveedores: 2</title></path>
+<path id="flow53" d="M387.31911 664.79701C475.14889 664.79701 475.14889 675.82019 562.97867 675.82019" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Monitoreo de Proveedores → Evaluación de Desempeño: 2</title></path>
+<path id="flow55" d="M387.31911 509.05542C475.14889 509.05542 475.14889 500.92245 562.97867 500.92245" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Compras Sostenibles → Selección de Proveedores ESG: 2</title></path>
+<path id="flow56" d="M387.31911 522.71396C475.14889 522.71396 475.14889 518.41222 562.97867 518.41222" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Compras Sostenibles → Certificación de Insumos: 2</title></path>
+<path id="flow61" d="M387.31911 744.58342C475.14889 744.58342 475.14889 763.26907 562.97867 763.26907" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Diseño de Prendas → Creación de Patrones: 2</title></path>
+<path id="flow62" d="M387.31911 758.24196C475.14889 758.24196 475.14889 780.75884 562.97867 780.75884" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Diseño de Prendas → Prototipado de Prendas: 2</title></path>
+<path id="flow63" d="M387.31911 806.88006C475.14889 806.88006 475.14889 833.22816 562.97867 833.22816" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Pruebas de Tejidos → Testeo de Resistencia: 2</title></path>
+<path id="flow64" d="M387.31911 820.5386C475.14889 820.5386 475.14889 850.71794 562.97867 850.71794" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Pruebas de Tejidos → Evaluación de Durabilidad: 2</title></path>
+<path id="flow68" d="M387.31911 958.79042C475.14889 958.79042 475.14889 1008.12591 562.97867 1008.12591" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Hilatura → Producción de Hilos: 2</title></path>
+<path id="flow69" d="M387.31911 972.44896C475.14889 972.44896 475.14889 1025.61568 562.97867 1025.61568" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Hilatura → Control de Calidad de Hilos: 2</title></path>
+<path id="flow70" d="M387.31911 989.93873C475.14889 989.93873 475.14889 1043.10546 562.97867 1043.10546" fill="none" stroke-width="13.65854" stroke="#1b9e77" opacity="0.45"><title>Confección → Costura de Prendas: 2</title></path>
+<path id="flow71" d="M387.31911 1003.59728C475.14889 1003.59728 475.14889 1060.59523 562.97867 1060.59523" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Confección → Acabado de Prendas: 2</title></path>
+<path id="flow72" d="M387.31911 1021.08705C475.14889 1021.08705 475.14889 1078.08501 562.97867 1078.08501" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Planificación de Producción → Programación de Órdenes: 2</title></path>
+<path id="flow73" d="M387.31911 1034.7456C475.14889 1034.7456 475.14889 1095.57478 562.97867 1095.57478" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Planificación de Producción → Balanceo de Líneas: 2</title></path>
+<path id="flow78" d="M387.31911 1052.23537C475.14889 1052.23537 475.14889 1113.06456 562.97867 1113.06456" fill="none" stroke-width="13.65854" stroke="#1b9e77" opacity="0.45"><title>Captación de Clientes → Generación de Leads: 2</title></path>
+<path id="flow79" d="M387.31911 1065.89391C475.14889 1065.89391 475.14889 1130.55433 562.97867 1130.55433" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Captación de Clientes → Seguimiento de Leads: 2</title></path>
+<path id="flow80" d="M387.31911 1083.38369C475.14889 1083.38369 475.14889 1148.0441 562.97867 1148.0441" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Cierre de Ventas → Emisión de Cotizaciones: 2</title></path>
+<path id="flow81" d="M387.31911 1097.04223C475.14889 1097.04223 475.14889 1165.53388 562.97867 1165.53388" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Cierre de Ventas → Negociación con Clientes: 2</title></path>
+<path id="flow82" d="M387.31911 1114.53201C475.14889 1114.53201 475.14889 1183.02365 562.97867 1183.02365" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Gestión de Marketing → Creación de Campañas Publicitarias: 2</title></path>
+<path id="flow83" d="M387.31911 1128.19055C475.14889 1128.19055 475.14889 1200.51343 562.97867 1200.51343" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Gestión de Marketing → Promociones en Punto de Venta: 2</title></path>
+<path id="flow88" d="M387.31911 682.28678C475.14889 682.28678 475.14889 693.30997 562.97867 693.30997" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Distribución → Coordinación de Transporte: 2</title></path>
+<path id="flow89" d="M387.31911 695.94533C475.14889 695.94533 475.14889 710.79974 562.97867 710.79974" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Distribución → Seguimiento de Entregas: 2</title></path>
+<path id="flow90" d="M387.31911 713.4351C475.14889 713.4351 475.14889 728.28952 562.97867 728.28952" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Gestión de Almacenes de Producto Terminado → Preparación de Pedidos: 2</title></path>
+<path id="flow91" d="M387.31911 727.09364C475.14889 727.09364 475.14889 745.77929 562.97867 745.77929" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Gestión de Almacenes de Producto Terminado → Empaquetado y Etiquetado: 2</title></path>
+<path id="flow92" d="M387.31911 775.73174C475.14889 775.73174 475.14889 798.24861 562.97867 798.24861" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Gestión de Inventarios de Salida → Control de Stock de Producto Terminado: 2</title></path>
+<path id="flow93" d="M387.31911 789.39028C475.14889 789.39028 475.14889 815.73839 562.97867 815.73839" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Gestión de Inventarios de Salida → Auditoría de Inventario: 2</title></path>
+<path id="flow98" d="M387.31911 1378.42559C475.14889 1378.42559 475.14889 1427.8805 562.97867 1427.8805" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Atención al Cliente → Gestión de Reclamos: 2</title></path>
+<path id="flow99" d="M387.31911 1392.08413C475.14889 1392.08413 475.14889 1445.37027 562.97867 1445.37027" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Atención al Cliente → Soporte en Punto de Venta: 2</title></path>
+<path id="flow100" d="M387.31911 1440.72223C475.14889 1440.72223 475.14889 1497.83959 562.97867 1497.83959" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Retroalimentación → Análisis de Satisfacción: 2</title></path>
+<path id="flow101" d="M387.31911 1454.38077C475.14889 1454.38077 475.14889 1515.32937 562.97867 1515.32937" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Retroalimentación → Recopilación de Opiniones en Línea: 2</title></path>
+<path id="flow102" d="M387.31911 1471.87055C475.14889 1471.87055 475.14889 1532.81914 562.97867 1532.81914" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Gestión de Garantías → Procesamiento de Garantías: 2</title></path>
+<path id="flow103" d="M387.31911 1485.52909C475.14889 1485.52909 475.14889 1550.30892 562.97867 1550.30892" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Gestión de Garantías → Seguimiento de Reparaciones: 2</title></path>
+<path id="flow111" d="M199.65956 1173.88782C287.48934 1173.88782 287.48934 1210.28729 375.31911 1210.28729" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Talento → Capacitación: 2</title></path>
+<path id="flow112" d="M387.31911 1179.13897C475.14889 1179.13897 475.14889 1218.0032 562.97867 1218.0032" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Reclutamiento → Selección de Operarios: 2</title></path>
+<path id="flow113" d="M387.31911 1192.79751C475.14889 1192.79751 475.14889 1235.49298 562.97867 1235.49298" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Reclutamiento → Onboarding de Operarios: 2</title></path>
+<path id="flow114" d="M387.31911 1210.28729C475.14889 1210.28729 475.14889 1252.98275 562.97867 1252.98275" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Capacitación → Formación en Confección: 2</title></path>
+<path id="flow117" d="M387.31911 1228.4156C475.14889 1228.4156 475.14889 1270.47253 562.97867 1270.47253" fill="none" stroke-width="13.65854" stroke="#1b9e77" opacity="0.45"><title>Soporte Técnico → Resolución de Fallos: 2</title></path>
+<path id="flow118" d="M387.31911 1242.07414C475.14889 1242.07414 475.14889 1287.9623 562.97867 1287.9623" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Soporte Técnico → Soporte a Usuarios: 2</title></path>
+<path id="flow119" d="M387.31911 1259.56392C475.14889 1259.56392 475.14889 1305.45207 562.97867 1305.45207" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Mantenimiento → Actualización de Software: 2</title></path>
+<path id="flow120" d="M387.31911 1273.22246C475.14889 1273.22246 475.14889 1322.94185 562.97867 1322.94185" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Mantenimiento → Mantenimiento de Hardware: 2</title></path>
+<path id="flow122" d="M438.57067 1296.23601C406.94489 1296.23601 406.94489 1323.77617 375.31911 1323.77617" fill="none" stroke-width="13.65854" stroke="#1b9e77" opacity="0.45"><title>Administrativa → Gestión de Gastos: 2</title></path>
+<path id="flow123" d="M387.31911 1292.62785C475.14889 1292.62785 475.14889 1340.43162 562.97867 1340.43162" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Gestión Documental → Digitalización de Facturas: 2</title></path>
+<path id="flow124" d="M387.31911 1306.28639C475.14889 1306.28639 475.14889 1357.9214 562.97867 1357.9214" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Gestión Documental → Archivo de Contratos: 2</title></path>
+<path id="flow125" d="M387.31911 1323.77617C475.14889 1323.77617 475.14889 1375.41117 562.97867 1375.41117" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Gestión de Gastos → Aprobación de Compras: 2</title></path>
+<path id="flow128" d="M387.31911 1342.86977C475.14889 1342.86977 475.14889 1392.90095 562.97867 1392.90095" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Contabilidad → Registro de Transacciones: 2</title></path>
+<path id="flow129" d="M387.31911 1356.52831C475.14889 1356.52831 475.14889 1410.39072 562.97867 1410.39072" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Contabilidad → Preparación de Estados Financieros: 2</title></path>
+<path id="flow130" d="M387.31911 1409.57391C475.14889 1409.57391 475.14889 1462.86005 562.97867 1462.86005" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Tesorería → Gestión de Flujo de Caja: 2</title></path>
+<path id="flow131" d="M387.31911 1423.23245C475.14889 1423.23245 475.14889 1480.34982 562.97867 1480.34982" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Tesorería → Gestión de Pagos a Proveedores: 2</title></path>
+<path id="flow134" d="M387.31911 1503.01886C475.14889 1503.01886 475.14889 1567.79869 562.97867 1567.79869" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Identificación de Riesgos → Análisis de Riesgos Operativos: 2</title></path>
+<path id="flow135" d="M387.31911 1516.67741C475.14889 1516.67741 475.14889 1585.28847 562.97867 1585.28847" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Identificación de Riesgos → Evaluación de Riesgos Financieros: 2</title></path>
+<path id="flow136" d="M387.31911 1534.16718C475.14889 1534.16718 475.14889 1602.77824 562.97867 1602.77824" fill="none" stroke-width="13.65854" stroke="#1b9e77" opacity="0.45"><title>Cumplimiento Tributario → Auditorías SUNAT: 2</title></path>
+<path id="flow137" d="M387.31911 1547.82573C475.14889 1547.82573 475.14889 1620.26802 562.97867 1620.26802" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Cumplimiento Tributario → Gestión de Deducciones Fiscales: 2</title></path>
+<path id="flow140" d="M387.31911 869.17669C475.14889 869.17669 475.14889 903.18726 562.97867 903.18726" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Evaluación de Riesgos → Escaneo de Vulnerabilidades: 2</title></path>
+<path id="flow141" d="M387.31911 882.83524C475.14889 882.83524 475.14889 920.67704 562.97867 920.67704" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Evaluación de Riesgos → Capacitación en Ciberseguridad: 2</title></path>
+<path id="flow142" d="M387.31911 913.98355C475.14889 913.98355 475.14889 955.65658 562.97867 955.65658" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Protección de Datos → Monitoreo de Accesos: 2</title></path>
+<path id="flow143" d="M387.31911 927.6421C475.14889 927.6421 475.14889 973.14636 562.97867 973.14636" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Protección de Datos → Respuesta a Incidentes: 2</title></path>
+<path id="flow148" d="M323.84603 190.52188C349.58257 190.52188 349.58257 174.08638 375.31911 174.08638" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Calidad → Control de Calidad: 2</title></path>
+<path id="flow149" d="M323.84603 217.83897C349.58257 217.83897 349.58257 263.7001 375.31911 263.7001" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Calidad → Mejora de Procesos: 2</title></path>
+<path id="flow150" d="M387.31911 160.42784C475.14889 160.42784 475.14889 141.29964 562.97867 141.29964" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Control de Calidad → Inspección de Prendas: 2</title></path>
+<path id="flow151" d="M387.31911 263.7001C475.14889 263.7001 475.14889 259.89684 562.97867 259.89684" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Mejora de Procesos → Implementación de Metodologías Lean: 2</title></path>
+<path id="flow153" d="M325.02876 308.71186C350.17394 308.71186 350.17394 353.31383 375.31911 353.31383" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Conocimiento → Difusión de Conocimiento: 2</title></path>
+<path id="flow154" d="M387.31911 205.2347C475.14889 205.2347 475.14889 189.93774 562.97867 189.93774" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Captura de Conocimiento → Registro de Técnicas: 2</title></path>
+<path id="flow155" d="M387.31911 232.55178C475.14889 232.55178 475.14889 224.91729 562.97867 224.91729" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Captura de Conocimiento → Registro de Innovaciones: 2</title></path>
+<path id="flow156" d="M387.31911 353.31383C475.14889 353.31383 475.14889 329.85593 562.97867 329.85593" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Difusión de Conocimiento → Foros de Intercambio Interno: 2</title></path>
+<path id="flow158" d="M199.65956 537.4588C287.48934 537.4588 287.48934 571.35205 375.31911 571.35205" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Sostenibilidad → Compromiso Comunitario: 2</title></path>
+<path id="flow159" d="M387.31911 464.24856C475.14889 464.24856 475.14889 448.45312 562.97867 448.45312" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Gestión de Residuos → Reciclaje de Retazos: 2</title></path>
+<path id="flow160" d="M387.31911 491.56564C475.14889 491.56564 475.14889 483.43267 562.97867 483.43267" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Gestión de Residuos → Gestión de Residuos Líquidos: 2</title></path>
+<path id="flow161" d="M387.31911 564.52278v13.65854L562.97867 577.71082v-13.65854z" fill="#66a61e" stroke-width="0.5" stroke="#66a61e" opacity="0.45"><title>Compromiso Comunitario → Capacitación a Comunidades: 2</title></path>
+<path id="flow162" d="M199.65956 870.0343C287.48934 870.0343 287.48934 896.49378 375.31911 896.49378" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Ciberseguridad → Evaluación de Riesgos: 2</title></path>
+<path id="flow163" d="M199.65956 911.00993C287.48934 911.00993 287.48934 941.30064 375.31911 941.30064" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Ciberseguridad → Protección de Datos: 2</title></path>
+<path id="flow164" d="M387.31911 896.49378C475.14889 896.49378 475.14889 938.16681 562.97867 938.16681" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Evaluación de Riesgos → Auditoría de Seguridad: 2</title></path>
+<path id="flow165" d="M387.31911 941.30064C475.14889 941.30064 475.14889 990.63613 562.97867 990.63613" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Protección de Datos → Backup y Recuperación: 2</title></path>
+<path id="flow171" d="M387.31911 1619.30553C475.14889 1619.30553 475.14889 1637.75779 562.97867 1637.75779" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Adopción de Nuevas Tecnologías → Implementación de Software CAD Avanzado: 2</title></path>
+<path id="flow172" d="M387.31911 1632.96407C475.14889 1632.96407 475.14889 1655.24756 562.97867 1655.24756" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Adopción de Nuevas Tecnologías → Integración de Impresión Textil Digital: 2</title></path>
+<path id="flow173" d="M387.31911 1650.45384C475.14889 1650.45384 475.14889 1672.73734 562.97867 1672.73734" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Investigación de Nuevos Procesos → Desarrollo de Tejidos Inteligentes: 2</title></path>
+<path id="flow174" d="M387.31911 1664.11239C475.14889 1664.11239 475.14889 1690.22711 562.97867 1690.22711" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Investigación de Nuevos Procesos → Automatización de Procesos de Acabado: 2</title></path>
+<path id="flow177" d="M387.31911 1684.15632C475.14889 1684.15632 475.14889 1707.71689 562.97867 1707.71689" fill="none" stroke-width="13.65854" stroke="#a6761d" opacity="0.45"><title>Diferenciación de Productos → Lanzamiento de Colecciones Exclusivas: 2</title></path>
+<path id="flow178" d="M387.31911 1697.81486C475.14889 1697.81486 475.14889 1725.20666 562.97867 1725.20666" fill="none" stroke-width="13.65854" stroke="#666666" opacity="0.45"><title>Diferenciación de Productos → Personalización Masiva de Prendas: 2</title></path>
+<path id="flow179" d="M387.31911 1715.30463C475.14889 1715.30463 475.14889 1742.69644 562.97867 1742.69644" fill="none" stroke-width="13.65854" stroke="#1b9e77" opacity="0.45"><title>Expansión de Mercados → Penetración en Mercados Internacionales: 2</title></path>
+<path id="flow180" d="M387.31911 1728.96318C475.14889 1728.96318 475.14889 1760.18621 562.97867 1760.18621" fill="none" stroke-width="13.65854" stroke="#d95f02" opacity="0.45"><title>Expansión de Mercados → Participación en Ferias Textiles: 2</title></path>
+<path id="flow183" d="M387.31911 1749.00711C475.14889 1749.00711 475.14889 1777.67599 562.97867 1777.67599" fill="none" stroke-width="13.65854" stroke="#e7298a" opacity="0.45"><title>Colaboración con Proveedores → Co-desarrollo de Insumos: 2</title></path>
+<path id="flow184" d="M387.31911 1762.66565C475.14889 1762.66565 475.14889 1795.16576 562.97867 1795.16576" fill="none" stroke-width="13.65854" stroke="#66a61e" opacity="0.45"><title>Colaboración con Proveedores → Contratos de Exclusividad: 2</title></path>
+<path id="flow185" d="M387.31911 1780.15542C475.14889 1780.15542 475.14889 1812.65554 562.97867 1812.65554" fill="none" stroke-width="13.65854" stroke="#7570b3" opacity="0.45"><title>Alianzas con Instituciones → Colaboración con Universidades: 2</title></path>
+<path id="flow186" d="M387.31911 1793.81397C475.14889 1793.81397 475.14889 1830.14531 562.97867 1830.14531" fill="none" stroke-width="13.65854" stroke="#e6ab02" opacity="0.45"><title>Alianzas con Instituciones → Asociaciones con ONGs: 2</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="112.42411" height="204.87816" width="12" fill="#d95f02" fill-opacity="1" transform="translate(0,82.38199)"><title>Mejora Continua:
+30</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="187.65956" y="72.54282" height="81.95126" width="12" fill="#7570b3" fill-opacity="1"><title>Estratégica:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="187.65956" y="164.0137" height="68.29272" width="12" fill="#e7298a" fill-opacity="1" transform="translate(124.18647,-7.63818)"><title>Calidad:
+10</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="187.65956" y="236.13765" height="81.95126" width="12" fill="#66a61e" fill-opacity="1" transform="translate(125.3692,-2.54779)"><title>Conocimiento:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="187.65956" y="435.01973" height="109.26835" width="12" fill="#e6ab02" fill-opacity="1"><title>Sostenibilidad:
+16</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="375.31911" y="50.3263" height="40.97563" width="12" fill="#a6761d" fill-opacity="1"><title>Planificación Estratégica:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="375.31911" y="95.13316" height="40.97563" width="12" fill="#666666" fill-opacity="1"><title>Análisis de Mercado:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="562.97867" y="41.02542" height="13.65854" width="12" fill="#1b9e77" fill-opacity="1"><title>Definición de Objetivos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="562.97867" y="58.51519" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Revisión de Estrategias:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="562.97867" y="85.83228" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Segmentación de Clientes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="562.97867" y="103.32205" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Evaluación de Competencia:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="375.31911" y="139.94002" height="40.97563" width="12" fill="#66a61e" fill-opacity="1"><title>Control de Calidad:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="375.31911" y="243.21229" height="27.31709" width="12" fill="#d95f02" fill-opacity="1"><title>Mejora de Procesos:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="562.97867" y="120.81183" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Inspección de Prendas:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="562.97867" y="151.96015" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Certificación de Calidad:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="562.97867" y="235.57779" height="13.65854" width="12" fill="#666666" fill-opacity="1"><title>Reducción de Desperdicios:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="375.31911" y="184.74688" height="54.63417" width="12" fill="#1b9e77" fill-opacity="1"><title>Captura de Conocimiento:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="375.31911" y="332.82601" height="27.31709" width="12" fill="#d95f02" fill-opacity="1"><title>Difusión de Conocimiento:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="562.97867" y="169.44992" height="27.31709" width="12" fill="#7570b3" fill-opacity="1"><title>Registro de Técnicas:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="562.97867" y="200.59824" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Documentación de Lecciones Aprendidas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="562.97867" y="305.53689" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Creación de Repositorio Digital:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="375.31911" y="443.76074" height="54.63417" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Residuos:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="375.31911" y="426.27097" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Reporte de Sostenibilidad:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="562.97867" y="427.96531" height="27.31709" width="12" fill="#666666" fill-opacity="1"><title>Reciclaje de Retazos:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="562.97867" y="459.11363" height="13.65854" width="12" fill="#1b9e77" fill-opacity="1"><title>Reutilización de Materiales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="562.97867" y="410.47553" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Elaboración de Informes ESG:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="0" y="461.55017" height="109.26835" width="12" fill="#7570b3" fill-opacity="1" transform="translate(0,-270.66744)"><title>Transformación Digital:
+16</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="187.65956" y="321.92015" height="109.26835" width="12" fill="#7570b3" fill-opacity="1"><title>Transformación:
+16</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="187.65956" y="808.57085" height="109.26835" width="12" fill="#e7298a" fill-opacity="1"><title>Ciberseguridad:
+16</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="375.31911" y="274.36061" height="54.63417" width="12" fill="#66a61e" fill-opacity="1"><title>Automatización de Procesos:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="375.31911" y="363.97433" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Digitalización de Ventas:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="562.97867" y="270.55734" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Implementación de Maquinaria CNC:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="562.97867" y="288.04711" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Automatización de Inventarios:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="562.97867" y="340.51644" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Implementación de E-commerce:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="562.97867" y="358.00621" height="13.65854" width="12" fill="#666666" fill-opacity="1"><title>Integración de Pagos Digitales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="375.31911" y="395.12265" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Digitalización de Operaciones:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="562.97867" y="375.49599" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Implementación de IoT en Máquinas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="562.97867" y="392.98576" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Automatización de Control de Calidad:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r38" class="for_r38" x="375.31911" y="831.1991" height="27.31709" width="12" fill="#1b9e77" fill-opacity="1"><title>Seguridad de Datos:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r39" class="for_r39" x="562.97867" y="861.37844" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Implementación de Firewalls:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r40" class="for_r40" x="562.97867" y="878.86821" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Cifrado de Información Sensible:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r41" class="for_r41" x="0" y="574.64975" height="136.58544" width="12" fill="#7570b3" fill-opacity="1" transform="translate(1.18273,70.60984)"><title>Logística de Entrada:
+20</title></rect>
+</g>
+<g class="node">
+<rect id="r42" class="for_r42" x="187.65956" y="548.11931" height="54.63417" width="12" fill="#e7298a" fill-opacity="1"><title>Operativa:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r43" class="for_r43" x="187.65956" y="609.68878" height="136.58544" width="12" fill="#66a61e" fill-opacity="1" transform="translate(153.75468,2.55499)"><title>Cadena de Suministro Extendida:
+20</title></rect>
+</g>
+<g class="node">
+<rect id="r44" class="for_r44" x="375.31911" y="533.37446" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Adquisición de Insumos:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r45" class="for_r45" x="375.31911" y="582.01256" height="27.31709" width="12" fill="#a6761d" fill-opacity="1"><title>Importación de Hilados:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r46" class="for_r46" x="562.97867" y="529.07272" height="13.65854" width="12" fill="#666666" fill-opacity="1"><title>Recepción de Algodón:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r47" class="for_r47" x="562.97867" y="546.5625" height="13.65854" width="12" fill="#666666" fill-opacity="1"><title>Recepción de Tintes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r48" class="for_r48" x="562.97867" y="581.54205" height="13.65854" width="12" fill="#1b9e77" fill-opacity="1"><title>Validación de Importaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r49" class="for_r49" x="562.97867" y="599.03182" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Seguimiento de Envíos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r50" class="for_r50" x="375.31911" y="613.16087" height="27.31709" width="12" fill="#7570b3" fill-opacity="1"><title>Selección de Proveedores:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r51" class="for_r51" x="375.31911" y="644.30919" height="27.31709" width="12" fill="#e7298a" fill-opacity="1"><title>Monitoreo de Proveedores:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r52" class="for_r52" x="562.97867" y="616.5216" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Evaluación de Insumos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r53" class="for_r53" x="562.97867" y="634.01137" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Negociación de Contratos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r54" class="for_r54" x="562.97867" y="651.50115" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Auditoría de Proveedores:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r55" class="for_r55" x="562.97867" y="668.99092" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Evaluación de Desempeño:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r56" class="for_r56" x="375.31911" y="502.22615" height="27.31709" width="12" fill="#a6761d" fill-opacity="1"><title>Compras Sostenibles:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r57" class="for_r57" x="562.97867" y="494.09318" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Selección de Proveedores ESG:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r58" class="for_r58" x="562.97867" y="511.58295" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Certificación de Insumos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r59" class="for_r59" x="0" y="800.84891" height="136.58544" width="12" fill="#666666" fill-opacity="1" transform="translate(0,63.77663)"><title>Operaciones:
+20</title></rect>
+</g>
+<g class="node">
+<rect id="r60" class="for_r60" x="187.65956" y="750.10545" height="54.63417" width="12" fill="#1b9e77" fill-opacity="1"><title>Innovación de Productos:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r61" class="for_r61" x="187.65956" y="921.67043" height="81.95126" width="12" fill="#d95f02" fill-opacity="1"><title>Producción:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r62" class="for_r62" x="375.31911" y="737.75415" height="27.31709" width="12" fill="#7570b3" fill-opacity="1"><title>Diseño de Prendas:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r63" class="for_r63" x="375.31911" y="800.05078" height="27.31709" width="12" fill="#e7298a" fill-opacity="1"><title>Pruebas de Tejidos:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r64" class="for_r64" x="562.97867" y="756.43979" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Creación de Patrones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r65" class="for_r65" x="562.97867" y="773.92957" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Prototipado de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r66" class="for_r66" x="562.97867" y="826.39889" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Testeo de Resistencia:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r67" class="for_r67" x="562.97867" y="843.88867" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Evaluación de Durabilidad:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r68" class="for_r68" x="375.31911" y="951.96114" height="27.31709" width="12" fill="#a6761d" fill-opacity="1"><title>Hilatura:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r69" class="for_r69" x="375.31911" y="983.10946" height="27.31709" width="12" fill="#666666" fill-opacity="1"><title>Confección:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r70" class="for_r70" x="375.31911" y="1014.25778" height="27.31709" width="12" fill="#a6761d" fill-opacity="1"><title>Planificación de Producción:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r71" class="for_r71" x="562.97867" y="1001.29664" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Producción de Hilos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r72" class="for_r72" x="562.97867" y="1018.78641" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Control de Calidad de Hilos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r73" class="for_r73" x="562.97867" y="1036.27619" height="13.65854" width="12" fill="#1b9e77" fill-opacity="1"><title>Costura de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r74" class="for_r74" x="562.97867" y="1053.76596" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Acabado de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r75" class="for_r75" x="562.97867" y="1071.25573" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Programación de Órdenes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r76" class="for_r76" x="562.97867" y="1088.74551" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Balanceo de Líneas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r77" class="for_r77" x="0" y="984.9903" height="81.95126" width="12" fill="#66a61e" fill-opacity="1" transform="translate(1.18273,61.32787)"><title>Marketing y Ventas:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r78" class="for_r78" x="187.65956" y="1007.45293" height="81.95126" width="12" fill="#e6ab02" fill-opacity="1" transform="translate(158.48559,2.2714)"><title>Comercial:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r79" class="for_r79" x="375.31911" y="1045.4061" height="27.31709" width="12" fill="#a6761d" fill-opacity="1"><title>Captación de Clientes:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r80" class="for_r80" x="375.31911" y="1076.55442" height="27.31709" width="12" fill="#666666" fill-opacity="1"><title>Cierre de Ventas:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r81" class="for_r81" x="375.31911" y="1107.70273" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Marketing:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r82" class="for_r82" x="562.97867" y="1106.23528" height="13.65854" width="12" fill="#1b9e77" fill-opacity="1"><title>Generación de Leads:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r83" class="for_r83" x="562.97867" y="1123.72506" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Seguimiento de Leads:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r84" class="for_r84" x="562.97867" y="1141.21483" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Emisión de Cotizaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r85" class="for_r85" x="562.97867" y="1158.70461" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Negociación con Clientes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r86" class="for_r86" x="562.97867" y="1176.19438" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Creación de Campañas Publicitarias:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r87" class="for_r87" x="562.97867" y="1193.68416" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Promociones en Punto de Venta:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r88" class="for_r88" x="0" y="715.06642" height="81.95126" width="12" fill="#7570b3" fill-opacity="1" transform="translate(0,61.32787)"><title>Logística de Salida:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r89" class="for_r89" x="375.31911" y="675.45751" height="27.31709" width="12" fill="#e7298a" fill-opacity="1"><title>Distribución:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r90" class="for_r90" x="375.31911" y="706.60583" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Almacenes de Producto Terminado:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r91" class="for_r91" x="375.31911" y="768.90247" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Inventarios de Salida:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r92" class="for_r92" x="562.97867" y="686.4807" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Coordinación de Transporte:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r93" class="for_r93" x="562.97867" y="703.97047" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Seguimiento de Entregas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r94" class="for_r94" x="562.97867" y="721.46024" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Preparación de Pedidos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r95" class="for_r95" x="562.97867" y="738.95002" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Empaquetado y Etiquetado:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r96" class="for_r96" x="562.97867" y="791.41934" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Control de Stock de Producto Terminado:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r97" class="for_r97" x="562.97867" y="808.90912" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Auditoría de Inventario:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r98" class="for_r98" x="0" y="1375.09199" height="81.95126" width="12" fill="#666666" fill-opacity="1" transform="translate(0,65.87067)"><title>Servicios Posventa:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r99" class="for_r99" x="187.65956" y="1354.51516" height="81.95126" width="12" fill="#1b9e77" fill-opacity="1"><title>Experiencia del Cliente:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r100" class="for_r100" x="375.31911" y="1371.59632" height="27.31709" width="12" fill="#d95f02" fill-opacity="1"><title>Atención al Cliente:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r101" class="for_r101" x="375.31911" y="1433.89296" height="27.31709" width="12" fill="#7570b3" fill-opacity="1"><title>Retroalimentación:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r102" class="for_r102" x="375.31911" y="1465.04127" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Garantías:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r103" class="for_r103" x="562.97867" y="1421.05122" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Reclamos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r104" class="for_r104" x="562.97867" y="1438.541" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Soporte en Punto de Venta:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r105" class="for_r105" x="562.97867" y="1491.01032" height="13.65854" width="12" fill="#666666" fill-opacity="1"><title>Análisis de Satisfacción:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r106" class="for_r106" x="562.97867" y="1508.5001" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Recopilación de Opiniones en Línea:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r107" class="for_r107" x="562.97867" y="1525.98987" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Procesamiento de Garantías:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r108" class="for_r108" x="562.97867" y="1543.47965" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Seguimiento de Reparaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r109" class="for_r109" x="0" y="1070.7728" height="300.48796" width="12" fill="#e7298a" fill-opacity="1" transform="translate(0,39.09389)"><title>Soporte Continuo:
+44</title></rect>
+</g>
+<g class="node">
+<rect id="r110" class="for_r110" x="187.65956" y="1139.74146" height="40.97563" width="12" fill="#a6761d" fill-opacity="1"><title>Talento:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r111" class="for_r111" x="187.65956" y="1185.18686" height="54.63417" width="12" fill="#666666" fill-opacity="1"><title>IT:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r112" class="for_r112" x="187.65956" y="1244.29081" height="40.97563" width="12" fill="#1b9e77" fill-opacity="1" transform="translate(238.91112,17.79884)"><title>Administrativa:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r113" class="for_r113" x="187.65956" y="1296.04976" height="54.63417" width="12" fill="#d95f02" fill-opacity="1" transform="translate(238.91112,38.16543)"><title>Financiera:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r114" class="for_r114" x="187.65956" y="1440.29766" height="54.63417" width="12" fill="#7570b3" fill-opacity="1"><title>Riesgos:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r115" class="for_r115" x="375.31911" y="1172.3097" height="27.31709" width="12" fill="#e7298a" fill-opacity="1"><title>Reclutamiento:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r116" class="for_r116" x="375.31911" y="1203.45801" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Capacitación:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r117" class="for_r117" x="562.97867" y="1211.17393" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Selección de Operarios:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r118" class="for_r118" x="562.97867" y="1228.6637" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Onboarding de Operarios:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r119" class="for_r119" x="562.97867" y="1246.15348" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Formación en Confección:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r120" class="for_r120" x="375.31911" y="1221.58633" height="27.31709" width="12" fill="#e7298a" fill-opacity="1"><title>Soporte Técnico:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r121" class="for_r121" x="375.31911" y="1252.73464" height="27.31709" width="12" fill="#666666" fill-opacity="1"><title>Mantenimiento:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r122" class="for_r122" x="562.97867" y="1263.64325" height="13.65854" width="12" fill="#1b9e77" fill-opacity="1"><title>Resolución de Fallos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r123" class="for_r123" x="562.97867" y="1281.13303" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Soporte a Usuarios:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r124" class="for_r124" x="562.97867" y="1298.6228" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Actualización de Software:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r125" class="for_r125" x="562.97867" y="1316.11258" height="13.65854" width="12" fill="#666666" fill-opacity="1"><title>Mantenimiento de Hardware:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r126" class="for_r126" x="375.31911" y="1285.79858" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión Documental:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r127" class="for_r127" x="375.31911" y="1316.9469" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Gastos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r128" class="for_r128" x="562.97867" y="1333.60235" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Digitalización de Facturas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r129" class="for_r129" x="562.97867" y="1351.09213" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Archivo de Contratos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r130" class="for_r130" x="562.97867" y="1368.5819" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Aprobación de Compras:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r131" class="for_r131" x="375.31911" y="1336.0405" height="27.31709" width="12" fill="#66a61e" fill-opacity="1"><title>Contabilidad:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r132" class="for_r132" x="375.31911" y="1402.74464" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Tesorería:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r133" class="for_r133" x="562.97867" y="1386.07168" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Registro de Transacciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r134" class="for_r134" x="562.97867" y="1403.56145" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Preparación de Estados Financieros:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r135" class="for_r135" x="562.97867" y="1456.03077" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Flujo de Caja:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r136" class="for_r136" x="562.97867" y="1473.52055" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Pagos a Proveedores:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r137" class="for_r137" x="375.31911" y="1496.18959" height="27.31709" width="12" fill="#a6761d" fill-opacity="1"><title>Identificación de Riesgos:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r138" class="for_r138" x="375.31911" y="1527.33791" height="27.31709" width="12" fill="#666666" fill-opacity="1"><title>Cumplimiento Tributario:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r139" class="for_r139" x="562.97867" y="1560.96942" height="13.65854" width="12" fill="#666666" fill-opacity="1"><title>Análisis de Riesgos Operativos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r140" class="for_r140" x="562.97867" y="1578.45919" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Evaluación de Riesgos Financieros:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r141" class="for_r141" x="562.97867" y="1595.94897" height="13.65854" width="12" fill="#1b9e77" fill-opacity="1"><title>Auditorías SUNAT:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r142" class="for_r142" x="562.97867" y="1613.43874" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Deducciones Fiscales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r143" class="for_r143" x="375.31911" y="862.34742" height="40.97563" width="12" fill="#e7298a" fill-opacity="1"><title>Evaluación de Riesgos:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r144" class="for_r144" x="375.31911" y="907.15428" height="40.97563" width="12" fill="#d95f02" fill-opacity="1"><title>Protección de Datos:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r145" class="for_r145" x="562.97867" y="896.35799" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Escaneo de Vulnerabilidades:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r146" class="for_r146" x="562.97867" y="913.84776" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Capacitación en Ciberseguridad:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r147" class="for_r147" x="562.97867" y="948.82731" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Monitoreo de Accesos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r148" class="for_r148" x="562.97867" y="966.31709" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Respuesta a Incidentes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r149" class="for_r149" x="0" y="321.1335" height="136.58544" width="12" fill="#e6ab02" fill-opacity="1" transform="translate(1.18273,68.3321)"><title>Gestión Estratégica y Sostenibilidad:
+20</title></rect>
+</g>
+<g class="node">
+<rect id="r150" class="for_r150" x="562.97867" y="253.06756" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Implementación de Metodologías Lean:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r151" class="for_r151" x="562.97867" y="218.08801" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Registro de Innovaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r152" class="for_r152" x="562.97867" y="323.02666" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Foros de Intercambio Interno:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r153" class="for_r153" x="375.31911" y="564.52278" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Compromiso Comunitario:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r154" class="for_r154" x="562.97867" y="476.6034" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Residuos Líquidos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r155" class="for_r155" x="562.97867" y="564.05227" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Capacitación a Comunidades:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r156" class="for_r156" x="562.97867" y="931.33754" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Auditoría de Seguridad:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r157" class="for_r157" x="562.97867" y="983.80686" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Backup y Recuperación:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r158" class="for_r158" x="0" y="1601.24624" height="163.90252" width="12" fill="#1b9e77" fill-opacity="1"><title>Innovación y Competitividad:
+24</title></rect>
+</g>
+<g class="node">
+<rect id="r159" class="for_r159" x="187.65956" y="1599.60625" height="54.63417" width="12" fill="#1b9e77" fill-opacity="1"><title>Innovación Tecnológica:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r160" class="for_r160" x="187.65956" y="1659.34873" height="54.63417" width="12" fill="#666666" fill-opacity="1"><title>Competitividad de Mercado:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r161" class="for_r161" x="187.65956" y="1719.09122" height="54.63417" width="12" fill="#1b9e77" fill-opacity="1" transform="translate(-27.30515,21.3549)"><title>Alianzas Estratégicas:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r162" class="for_r162" x="375.31911" y="1612.47625" height="27.31709" width="12" fill="#d95f02" fill-opacity="1"><title>Adopción de Nuevas Tecnologías:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r163" class="for_r163" x="375.31911" y="1643.62457" height="27.31709" width="12" fill="#7570b3" fill-opacity="1"><title>Investigación de Nuevos Procesos:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r164" class="for_r164" x="562.97867" y="1630.92852" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Implementación de Software CAD Avanzado:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r165" class="for_r165" x="562.97867" y="1648.41829" height="13.65854" width="12" fill="#666666" fill-opacity="1"><title>Integración de Impresión Textil Digital:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r166" class="for_r166" x="562.97867" y="1665.90807" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Desarrollo de Tejidos Inteligentes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r167" class="for_r167" x="562.97867" y="1683.39784" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Automatización de Procesos de Acabado:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r168" class="for_r168" x="375.31911" y="1677.32704" height="27.31709" width="12" fill="#66a61e" fill-opacity="1"><title>Diferenciación de Productos:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r169" class="for_r169" x="375.31911" y="1708.47536" height="27.31709" width="12" fill="#e6ab02" fill-opacity="1"><title>Expansión de Mercados:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r170" class="for_r170" x="562.97867" y="1700.88762" height="13.65854" width="12" fill="#a6761d" fill-opacity="1"><title>Lanzamiento de Colecciones Exclusivas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r171" class="for_r171" x="562.97867" y="1718.37739" height="13.65854" width="12" fill="#666666" fill-opacity="1"><title>Personalización Masiva de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r172" class="for_r172" x="562.97867" y="1735.86717" height="13.65854" width="12" fill="#1b9e77" fill-opacity="1"><title>Penetración en Mercados Internacionales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r173" class="for_r173" x="562.97867" y="1753.35694" height="13.65854" width="12" fill="#d95f02" fill-opacity="1"><title>Participación en Ferias Textiles:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r174" class="for_r174" x="375.31911" y="1742.17783" height="27.31709" width="12" fill="#7570b3" fill-opacity="1"><title>Colaboración con Proveedores:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r175" class="for_r175" x="375.31911" y="1773.32615" height="27.31709" width="12" fill="#1b9e77" fill-opacity="1"><title>Alianzas con Instituciones:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r176" class="for_r176" x="562.97867" y="1770.84671" height="13.65854" width="12" fill="#e7298a" fill-opacity="1"><title>Co-desarrollo de Insumos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r177" class="for_r177" x="562.97867" y="1788.33649" height="13.65854" width="12" fill="#66a61e" fill-opacity="1"><title>Contratos de Exclusividad:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r178" class="for_r178" x="562.97867" y="1805.82626" height="13.65854" width="12" fill="#7570b3" fill-opacity="1"><title>Colaboración con Universidades:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r179" class="for_r179" x="562.97867" y="1823.31604" height="13.65854" width="12" fill="#e6ab02" fill-opacity="1"><title>Asociaciones con ONGs:
+2</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="289.73152" y="1875" font-size="15.33763px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-99.92473" y="204.92319" width="98.57913" height="20" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,82.38199)"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="214.86319" font-weight="400" font-size="12.07947px" dy="4.06" transform="translate(0,82.38199)">Mejora Continua</text>
+<rect id="label1_bg" class="for_r1" x="125.17233" y="104.70847" width="61.17051" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="181.36202" y="113.51846" font-weight="400" font-size="10.22941px" dy="3.19">Estratégica</text>
+<rect id="label2_bg" class="for_r2" x="142.31295" y="189.35007" width="44.13578" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(124.18647,-7.63818)"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="181.36202" y="198.16006" font-weight="400" font-size="10.02385px" dy="3.19" transform="translate(124.18647,-7.63818)">Calidad</text>
+<rect id="label3_bg" class="for_r3" x="113.79733" y="268.30328" width="72.53329" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(125.3692,-2.54779)"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="181.36202" y="277.11328" font-weight="400" font-size="10.22941px" dy="3.19" transform="translate(125.3692,-2.54779)">Conocimiento</text>
+<rect id="label4_bg" class="for_r4" x="110.0317" y="480.13391" width="76.06258" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="181.36202" y="489.6539" font-weight="400" font-size="10.64053px" dy="3.48">Sostenibilidad</text>
+<rect id="label5_bg" class="for_r5" x="259.25376" y="62.00411" width="115.08119" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="369.02158" y="70.81411" font-weight="400" font-size="9.61272px" dy="3.19">Planificación Estratégica</text>
+<rect id="label6_bg" class="for_r6" x="276.41001" y="106.81097" width="97.917" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="369.02158" y="115.62097" font-weight="400" font-size="9.61272px" dy="3.19">Análisis de Mercado</text>
+<rect id="label7_bg" class="for_r7" x="576.61134" y="39.75469" width="104.22276" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="581.27621" y="47.85469" font-weight="400" font-size="9.2016px" dy="2.9">Definición de Objetivos</text>
+<rect id="label8_bg" class="for_r8" x="576.61134" y="57.24446" width="106.77879" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="581.27621" y="65.34446" font-weight="400" font-size="9.2016px" dy="2.9">Revisión de Estrategias</text>
+<rect id="label9_bg" class="for_r9" x="576.61134" y="84.56155" width="117.52854" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="581.27621" y="92.66155" font-weight="400" font-size="9.2016px" dy="2.9">Segmentación de Clientes</text>
+<rect id="label10_bg" class="for_r10" x="576.61134" y="102.05133" width="124.29203" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="581.27621" y="110.15133" font-weight="400" font-size="9.2016px" dy="2.9">Evaluación de Competencia</text>
+<rect id="label11_bg" class="for_r11" x="284.34751" y="151.61784" width="89.9817" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="end" x="369.02158" y="160.42784" font-weight="400" font-size="9.61272px" dy="3.19">Control de Calidad</text>
+<rect id="label12_bg" class="for_r12" x="280.34751" y="248.06082" width="93.62428" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="end" x="369.02158" y="256.87083" font-weight="400" font-size="9.40716px" dy="3.19">Mejora de Procesos</text>
+<rect id="label13_bg" class="for_r13" x="576.61134" y="125.66037" width="105.65885" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="581.27621" y="134.47037" font-weight="400" font-size="9.40716px" dy="3.19">Inspección de Prendas</text>
+<rect id="label14_bg" class="for_r14" x="576.61134" y="150.68941" width="106.90141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="581.27621" y="158.78942" font-weight="400" font-size="9.2016px" dy="2.9">Certificación de Calidad</text>
+<rect id="label15_bg" class="for_r15" x="576.61134" y="234.30705" width="122.12406" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="581.27621" y="242.40706" font-weight="400" font-size="9.2016px" dy="2.9">Reducción de Desperdicios</text>
+<rect id="label16_bg" class="for_r16" x="252.70689" y="203.25397" width="121.51731" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="end" x="369.02158" y="212.06397" font-weight="400" font-size="9.81829px" dy="3.19">Captura de Conocimiento</text>
+<rect id="label17_bg" class="for_r17" x="256.83189" y="337.67456" width="116.85453" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="end" x="369.02158" y="346.48455" font-weight="400" font-size="9.40716px" dy="3.19">Difusión de Conocimiento</text>
+<rect id="label18_bg" class="for_r18" x="576.61134" y="174.29848" width="98.15446" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="start" x="581.27621" y="183.10847" font-weight="400" font-size="9.40716px" dy="3.19">Registro de Técnicas</text>
+<rect id="label19_bg" class="for_r19" x="576.61134" y="199.3275" width="179.41734" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="581.27621" y="207.42751" font-weight="400" font-size="9.2016px" dy="2.9">Documentación de Lecciones Aprendidas</text>
+<rect id="label20_bg" class="for_r20" x="576.61134" y="304.26614" width="136.55766" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="581.27621" y="312.36616" font-weight="400" font-size="9.2016px" dy="2.9">Creación de Repositorio Digital</text>
+<rect id="label21_bg" class="for_r21" x="272.87876" y="462.26782" width="100.89259" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="end" x="369.02158" y="471.07783" font-weight="400" font-size="9.81829px" dy="3.19">Gestión de Residuos</text>
+<rect id="label22_bg" class="for_r22" x="258.58189" y="425.00024" width="115.10453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="end" x="369.02158" y="433.10024" font-weight="400" font-size="9.2016px" dy="2.9">Reporte de Sostenibilidad</text>
+<rect id="label23_bg" class="for_r23" x="576.61134" y="432.81384" width="98.3289" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="start" x="581.27621" y="441.62385" font-weight="400" font-size="9.40716px" dy="3.19">Reciclaje de Retazos</text>
+<rect id="label24_bg" class="for_r24" x="576.61134" y="457.8429" width="120.07115" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="581.27621" y="465.9429" font-weight="400" font-size="9.2016px" dy="2.9">Reutilización de Materiales</text>
+<rect id="label25_bg" class="for_r25" x="576.61134" y="409.2048" width="131.44828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="581.27621" y="417.30481" font-weight="400" font-size="9.2016px" dy="2.9">Elaboración de Informes ESG</text>
+<rect id="label26_bg" class="for_r26" x="-118.4091" y="506.66431" width="117.40702" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-270.66744)"></rect>
+<text id="label26" class="for_r26" text-anchor="end" x="-6.29754" y="516.18434" font-weight="400" font-size="10.64053px" dy="3.48" transform="translate(0,-270.66744)">Transformación Digital</text>
+<rect id="label27_bg" class="for_r27" x="101.76608" y="367.03433" width="84.33083" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="end" x="181.36202" y="376.55432" font-weight="400" font-size="10.64053px" dy="3.48">Transformación</text>
+<rect id="label28_bg" class="for_r28" x="104.12545" y="853.685" width="81.96964" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="end" x="181.36202" y="863.20503" font-weight="400" font-size="10.64053px" dy="3.48">Ciberseguridad</text>
+<rect id="label29_bg" class="for_r29" x="238.62876" y="292.86771" width="135.14976" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="end" x="369.02158" y="301.67769" font-weight="400" font-size="9.81829px" dy="3.19">Automatización de Procesos</text>
+<rect id="label30_bg" class="for_r30" x="264.14439" y="368.82288" width="109.83564" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="end" x="369.02158" y="377.63287" font-weight="400" font-size="9.40716px" dy="3.19">Digitalización de Ventas</text>
+<rect id="label31_bg" class="for_r31" x="576.61134" y="269.28659" width="158.37693" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="start" x="581.27621" y="277.38661" font-weight="400" font-size="9.2016px" dy="2.9">Implementación de Maquinaria CNC</text>
+<rect id="label32_bg" class="for_r32" x="575.61134" y="286.77637" width="134.37693" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="start" x="581.27621" y="294.87638" font-weight="400" font-size="9.2016px" dy="2.9">Automatización de Inventarios</text>
+<rect id="label33_bg" class="for_r33" x="576.61134" y="339.2457" width="142.16703" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="start" x="581.27621" y="347.34571" font-weight="400" font-size="9.2016px" dy="2.9">Implementación de E-commerce</text>
+<rect id="label34_bg" class="for_r34" x="576.61134" y="356.73547" width="134.91776" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="start" x="581.27621" y="364.83548" font-weight="400" font-size="9.2016px" dy="2.9">Integración de Pagos Digitales</text>
+<rect id="label35_bg" class="for_r35" x="239.59751" y="399.97119" width="134.38667" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="end" x="369.02158" y="408.78119" font-weight="400" font-size="9.40716px" dy="3.19">Digitalización de Operaciones</text>
+<rect id="label36_bg" class="for_r36" x="576.61134" y="374.22525" width="158.78025" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="start" x="581.27621" y="382.32526" font-weight="400" font-size="9.2016px" dy="2.9">Implementación de IoT en Máquinas</text>
+<rect id="label37_bg" class="for_r37" x="575.61134" y="391.71503" width="165.18266" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="start" x="581.27621" y="399.81503" font-weight="400" font-size="9.2016px" dy="2.9">Automatización de Control de Calidad</text>
+<rect id="label38_bg" class="for_r38" x="280.86314" y="836.04767" width="93.11939" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label38" class="for_r38" text-anchor="end" x="369.02158" y="844.85765" font-weight="400" font-size="9.40716px" dy="3.19">Seguridad de Datos</text>
+<rect id="label39_bg" class="for_r39" x="576.61134" y="860.10773" width="126.71061" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label39" class="for_r39" text-anchor="start" x="581.27621" y="868.20771" font-weight="400" font-size="9.2016px" dy="2.9">Implementación de Firewalls</text>
+<rect id="label40_bg" class="for_r40" x="576.61134" y="877.59753" width="140.65141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label40" class="for_r40" text-anchor="start" x="581.27621" y="885.69749" font-weight="400" font-size="9.2016px" dy="2.9">Cifrado de Información Sensible</text>
+<rect id="label41_bg" class="for_r41" x="-112.73723" y="633.42242" width="111.10453" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(1.18273,70.60984)"></rect>
+<text id="label41" class="for_r41" text-anchor="end" x="-6.29754" y="642.94247" font-weight="400" font-size="11.05166px" dy="3.48" transform="translate(1.18273,70.60984)">Logística de Entrada</text>
+<rect id="label42_bg" class="for_r42" x="133.76608" y="566.6264" width="52.80436" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label42" class="for_r42" text-anchor="end" x="181.36202" y="575.43639" font-weight="400" font-size="9.81829px" dy="3.19">Operativa</text>
+<rect id="label43_bg" class="for_r43" x="14.73484" y="668.46149" width="171.29203" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(153.75468,2.55499)"></rect>
+<text id="label43" class="for_r43" text-anchor="end" x="181.36202" y="677.9815" font-weight="400" font-size="11.05166px" dy="3.48" transform="translate(153.75468,2.55499)">Cadena de Suministro Extendida</text>
+<rect id="label44_bg" class="for_r44" x="263.67564" y="538.22302" width="110.30778" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label44" class="for_r44" text-anchor="end" x="369.02158" y="547.03301" font-weight="400" font-size="9.40716px" dy="3.19">Adquisición de Insumos</text>
+<rect id="label45_bg" class="for_r45" x="267.81626" y="586.86108" width="106.16834" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label45" class="for_r45" text-anchor="end" x="369.02158" y="595.6711" font-weight="400" font-size="9.40716px" dy="3.19">Importación de Hilados</text>
+<rect id="label46_bg" class="for_r46" x="576.61134" y="527.802" width="101.80766" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label46" class="for_r46" text-anchor="start" x="581.27621" y="535.902" font-weight="400" font-size="9.2016px" dy="2.9">Recepción de Algodón</text>
+<rect id="label47_bg" class="for_r47" x="576.61134" y="545.29181" width="93.49094" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label47" class="for_r47" text-anchor="start" x="581.27621" y="553.39177" font-weight="400" font-size="9.2016px" dy="2.9">Recepción de Tintes</text>
+<rect id="label48_bg" class="for_r48" x="575.61134" y="580.27136" width="126.02598" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label48" class="for_r48" text-anchor="start" x="581.27621" y="588.37132" font-weight="400" font-size="9.2016px" dy="2.9">Validación de Importaciones</text>
+<rect id="label49_bg" class="for_r49" x="576.61134" y="597.76111" width="104.74381" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label49" class="for_r49" text-anchor="start" x="581.27621" y="605.86109" font-weight="400" font-size="9.2016px" dy="2.9">Seguimiento de Envíos</text>
+<rect id="label50_bg" class="for_r50" x="254.22251" y="618.0094" width="119.76344" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label50" class="for_r50" text-anchor="end" x="369.02158" y="626.81942" font-weight="400" font-size="9.40716px" dy="3.19">Selección de Proveedores</text>
+<rect id="label51_bg" class="for_r51" x="253.17564" y="649.15771" width="120.80531" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label51" class="for_r51" text-anchor="end" x="369.02158" y="657.96774" font-weight="400" font-size="9.40716px" dy="3.19">Monitoreo de Proveedores</text>
+<rect id="label52_bg" class="for_r52" x="576.61134" y="615.25092" width="105.25144" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label52" class="for_r52" text-anchor="start" x="581.27621" y="623.35087" font-weight="400" font-size="9.2016px" dy="2.9">Evaluación de Insumos</text>
+<rect id="label53_bg" class="for_r53" x="576.61134" y="632.74066" width="115.99223" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label53" class="for_r53" text-anchor="start" x="581.27621" y="640.84064" font-weight="400" font-size="9.2016px" dy="2.9">Negociación de Contratos</text>
+<rect id="label54_bg" class="for_r54" x="575.61134" y="650.23047" width="115.46037" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label54" class="for_r54" text-anchor="start" x="581.27621" y="658.33042" font-weight="400" font-size="9.2016px" dy="2.9">Auditoría de Proveedores</text>
+<rect id="label55_bg" class="for_r55" x="576.61134" y="667.72021" width="119.69828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label55" class="for_r55" text-anchor="start" x="581.27621" y="675.82019" font-weight="400" font-size="9.2016px" dy="2.9">Evaluación de Desempeño</text>
+<rect id="label56_bg" class="for_r56" x="274.61314" y="507.07471" width="99.37077" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label56" class="for_r56" text-anchor="end" x="369.02158" y="515.88469" font-weight="400" font-size="9.40716px" dy="3.19">Compras Sostenibles</text>
+<rect id="label57_bg" class="for_r57" x="576.61134" y="492.82245" width="139.12016" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label57" class="for_r57" text-anchor="start" x="581.27621" y="500.92245" font-weight="400" font-size="9.2016px" dy="2.9">Selección de Proveedores ESG</text>
+<rect id="label58_bg" class="for_r58" x="576.61134" y="510.31226" width="110.86216" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label58" class="for_r58" text-anchor="start" x="581.27621" y="518.41222" font-weight="400" font-size="9.2016px" dy="2.9">Certificación de Insumos</text>
+<rect id="label59_bg" class="for_r59" x="-74.01848" y="859.62158" width="72.85711" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,63.77663)"></rect>
+<text id="label59" class="for_r59" text-anchor="end" x="-6.29754" y="869.14163" font-weight="400" font-size="11.05166px" dy="3.48" transform="translate(0,63.77663)">Operaciones</text>
+<rect id="label60_bg" class="for_r60" x="68.31297" y="768.61255" width="117.80616" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label60" class="for_r60" text-anchor="end" x="181.36202" y="777.42254" font-weight="400" font-size="9.81829px" dy="3.19">Innovación de Productos</text>
+<rect id="label61_bg" class="for_r61" x="125.1567" y="953.83606" width="61.17552" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label61" class="for_r61" text-anchor="end" x="181.36202" y="962.64607" font-weight="400" font-size="10.22941px" dy="3.19">Producción</text>
+<rect id="label62_bg" class="for_r62" x="284.00376" y="742.60272" width="89.97996" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label62" class="for_r62" text-anchor="end" x="369.02158" y="751.41269" font-weight="400" font-size="9.40716px" dy="3.19">Diseño de Prendas</text>
+<rect id="label63_bg" class="for_r63" x="284.17564" y="804.89935" width="89.81013" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label63" class="for_r63" text-anchor="end" x="369.02158" y="813.70933" font-weight="400" font-size="9.40716px" dy="3.19">Pruebas de Tejidos</text>
+<rect id="label64_bg" class="for_r64" x="576.61134" y="755.16907" width="99.11509" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label64" class="for_r64" text-anchor="start" x="581.27621" y="763.26907" font-weight="400" font-size="9.2016px" dy="2.9">Creación de Patrones</text>
+<rect id="label65_bg" class="for_r65" x="576.61134" y="772.65887" width="106.79673" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label65" class="for_r65" text-anchor="start" x="581.27621" y="780.75884" font-weight="400" font-size="9.2016px" dy="2.9">Prototipado de Prendas</text>
+<rect id="label66_bg" class="for_r66" x="575.61134" y="825.12817" width="100.74516" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label66" class="for_r66" text-anchor="start" x="581.27621" y="833.22816" font-weight="400" font-size="9.2016px" dy="2.9">Testeo de Resistencia</text>
+<rect id="label67_bg" class="for_r67" x="576.61134" y="842.61798" width="116.63578" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label67" class="for_r67" text-anchor="start" x="581.27621" y="850.71794" font-weight="400" font-size="9.2016px" dy="2.9">Evaluación de Durabilidad</text>
+<rect id="label68_bg" class="for_r68" x="331.56626" y="956.80969" width="42.12016" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label68" class="for_r68" text-anchor="end" x="369.02158" y="965.61969" font-weight="400" font-size="9.40716px" dy="3.19">Hilatura</text>
+<rect id="label69_bg" class="for_r69" x="316.92564" y="987.95801" width="56.76078" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label69" class="for_r69" text-anchor="end" x="369.02158" y="996.76801" font-weight="400" font-size="9.40716px" dy="3.19">Confección</text>
+<rect id="label70_bg" class="for_r70" x="248.47251" y="1019.1062" width="125.21391" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label70" class="for_r70" text-anchor="end" x="369.02158" y="1027.91632" font-weight="400" font-size="9.40716px" dy="3.19">Planificación de Producción</text>
+<rect id="label71_bg" class="for_r71" x="576.61134" y="1000.02594" width="91.95011" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label71" class="for_r71" text-anchor="start" x="581.27621" y="1008.12591" font-weight="400" font-size="9.2016px" dy="2.9">Producción de Hilos</text>
+<rect id="label72_bg" class="for_r72" x="576.61134" y="1017.51575" width="122.12406" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label72" class="for_r72" text-anchor="start" x="581.27621" y="1025.61568" font-weight="400" font-size="9.2016px" dy="2.9">Control de Calidad de Hilos</text>
+<rect id="label73_bg" class="for_r73" x="576.61134" y="1035.00549" width="91.95457" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label73" class="for_r73" text-anchor="start" x="581.27621" y="1043.10546" font-weight="400" font-size="9.2016px" dy="2.9">Costura de Prendas</text>
+<rect id="label74_bg" class="for_r74" x="575.61134" y="1052.49524" width="97.0604" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label74" class="for_r74" text-anchor="start" x="581.27621" y="1060.59523" font-weight="400" font-size="9.2016px" dy="2.9">Acabado de Prendas</text>
+<rect id="label75_bg" class="for_r75" x="576.61134" y="1068.56494" width="118.03172" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label75" class="for_r75" text-anchor="start" x="581.27621" y="1078.08501" font-weight="400" font-size="9.2016px" dy="3.48">Programación de Órdenes</text>
+<rect id="label76_bg" class="for_r76" x="576.61134" y="1087.47485" width="91.46043" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label76" class="for_r76" text-anchor="start" x="581.27621" y="1095.57478" font-weight="400" font-size="9.2016px" dy="2.9">Balanceo de Líneas</text>
+<rect id="label77_bg" class="for_r77" x="-98.2841" y="1017.15588" width="96.65141" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(1.18273,61.32787)"></rect>
+<text id="label77" class="for_r77" text-anchor="end" x="-6.29754" y="1025.96593" font-weight="400" font-size="10.22941px" dy="3.19" transform="translate(1.18273,61.32787)">Marketing y Ventas</text>
+<rect id="label78_bg" class="for_r78" x="130.29733" y="1039.61853" width="55.72953" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(158.48559,2.2714)"></rect>
+<text id="label78" class="for_r78" text-anchor="end" x="181.36202" y="1048.42856" font-weight="400" font-size="10.22941px" dy="3.19" transform="translate(158.48559,2.2714)">Comercial</text>
+<rect id="label79_bg" class="for_r79" x="271.98814" y="1050.25464" width="101.99616" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label79" class="for_r79" text-anchor="end" x="369.02158" y="1059.06464" font-weight="400" font-size="9.40716px" dy="3.19">Captación de Clientes</text>
+<rect id="label80_bg" class="for_r80" x="293.92564" y="1081.40295" width="80.04755" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label80" class="for_r80" text-anchor="end" x="369.02158" y="1090.21296" font-weight="400" font-size="9.40716px" dy="3.19">Cierre de Ventas</text>
+<rect id="label81_bg" class="for_r81" x="274.59751" y="1112.55127" width="99.08891" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label81" class="for_r81" text-anchor="end" x="369.02158" y="1121.36128" font-weight="400" font-size="9.40716px" dy="3.19">Gestión de Marketing</text>
+<rect id="label82_bg" class="for_r82" x="576.61134" y="1104.9646" width="98.10435" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label82" class="for_r82" text-anchor="start" x="581.27621" y="1113.06456" font-weight="400" font-size="9.2016px" dy="2.9">Generación de Leads</text>
+<rect id="label83_bg" class="for_r83" x="576.61134" y="1122.45435" width="101.68467" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label83" class="for_r83" text-anchor="start" x="581.27621" y="1130.55433" font-weight="400" font-size="9.2016px" dy="2.9">Seguimiento de Leads</text>
+<rect id="label84_bg" class="for_r84" x="576.61134" y="1139.94409" width="110.86668" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label84" class="for_r84" text-anchor="start" x="581.27621" y="1148.0441" font-weight="400" font-size="9.2016px" dy="2.9">Emisión de Cotizaciones</text>
+<rect id="label85_bg" class="for_r85" x="576.61134" y="1157.43396" width="113.94383" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label85" class="for_r85" text-anchor="start" x="581.27621" y="1165.53388" font-weight="400" font-size="9.2016px" dy="2.9">Negociación con Clientes</text>
+<rect id="label86_bg" class="for_r86" x="576.61134" y="1174.92371" width="158.93748" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label86" class="for_r86" text-anchor="start" x="581.27621" y="1183.02365" font-weight="400" font-size="9.2016px" dy="2.9">Creación de Campañas Publicitarias</text>
+<rect id="label87_bg" class="for_r87" x="576.61134" y="1192.41345" width="141.69828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label87" class="for_r87" text-anchor="start" x="581.27621" y="1200.51343" font-weight="400" font-size="9.2016px" dy="2.9">Promociones en Punto de Venta</text>
+<rect id="label88_bg" class="for_r88" x="-97.73723" y="747.23206" width="96.40649" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,61.32787)"></rect>
+<text id="label88" class="for_r88" text-anchor="end" x="-6.29754" y="756.04205" font-weight="400" font-size="10.22941px" dy="3.19" transform="translate(0,61.32787)">Logística de Salida</text>
+<rect id="label89_bg" class="for_r89" x="314.84751" y="680.30603" width="58.83891" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label89" class="for_r89" text-anchor="end" x="369.02158" y="689.11605" font-weight="400" font-size="9.40716px" dy="3.19">Distribución</text>
+<rect id="label90_bg" class="for_r90" x="170.26936" y="711.45435" width="203.41703" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label90" class="for_r90" text-anchor="end" x="369.02158" y="720.26437" font-weight="400" font-size="9.40716px" dy="3.19">Gestión de Almacenes de Producto Terminado</text>
+<rect id="label91_bg" class="for_r91" x="228.08189" y="773.75104" width="145.60453" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label91" class="for_r91" text-anchor="end" x="369.02158" y="782.56101" font-weight="400" font-size="9.40716px" dy="3.19">Gestión de Inventarios de Salida</text>
+<rect id="label92_bg" class="for_r92" x="576.61134" y="685.21002" width="123.27641" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label92" class="for_r92" text-anchor="start" x="581.27621" y="693.30997" font-weight="400" font-size="9.2016px" dy="2.9">Coordinación de Transporte</text>
+<rect id="label93_bg" class="for_r93" x="576.61134" y="702.69977" width="113.44065" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label93" class="for_r93" text-anchor="start" x="581.27621" y="710.79974" font-weight="400" font-size="9.2016px" dy="2.9">Seguimiento de Entregas</text>
+<rect id="label94_bg" class="for_r94" x="576.61134" y="720.18951" width="108.32859" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label94" class="for_r94" text-anchor="start" x="581.27621" y="728.28952" font-weight="400" font-size="9.2016px" dy="2.9">Preparación de Pedidos</text>
+<rect id="label95_bg" class="for_r95" x="576.61134" y="737.67932" width="120.72953" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label95" class="for_r95" text-anchor="start" x="581.27621" y="745.77929" font-weight="400" font-size="9.2016px" dy="2.9">Empaquetado y Etiquetado</text>
+<rect id="label96_bg" class="for_r96" x="576.61134" y="790.14862" width="175.26078" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label96" class="for_r96" text-anchor="start" x="581.27621" y="798.24861" font-weight="400" font-size="9.2016px" dy="2.9">Control de Stock de Producto Terminado</text>
+<rect id="label97_bg" class="for_r97" x="575.61134" y="807.63843" width="103.30766" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label97" class="for_r97" text-anchor="start" x="581.27621" y="815.73839" font-weight="400" font-size="9.2016px" dy="2.9">Auditoría de Inventario</text>
+<rect id="label98_bg" class="for_r98" x="-98.2841" y="1407.25757" width="96.95541" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,65.87067)"></rect>
+<text id="label98" class="for_r98" text-anchor="end" x="-6.29754" y="1416.06762" font-weight="400" font-size="10.22941px" dy="3.19" transform="translate(0,65.87067)">Servicios Posventa</text>
+<rect id="label99_bg" class="for_r99" x="71.76609" y="1386.68079" width="114.57592" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label99" class="for_r99" text-anchor="end" x="181.36202" y="1395.49079" font-weight="400" font-size="10.22941px" dy="3.19">Experiencia del Cliente</text>
+<rect id="label100_bg" class="for_r100" x="284.56626" y="1376.44482" width="89.12016" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label100" class="for_r100" text-anchor="end" x="369.02158" y="1385.25486" font-weight="400" font-size="9.40716px" dy="3.19">Atención al Cliente</text>
+<rect id="label101_bg" class="for_r101" x="288.19126" y="1438.74146" width="85.49516" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label101" class="for_r101" text-anchor="end" x="369.02158" y="1447.5515" font-weight="400" font-size="9.40716px" dy="3.19">Retroalimentación</text>
+<rect id="label102_bg" class="for_r102" x="274.59751" y="1469.88977" width="99.37995" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label102" class="for_r102" text-anchor="end" x="369.02158" y="1478.69982" font-weight="400" font-size="9.40716px" dy="3.19">Gestión de Garantías</text>
+<rect id="label103_bg" class="for_r103" x="576.61134" y="1419.78052" width="98.08195" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label103" class="for_r103" text-anchor="start" x="581.27621" y="1427.8805" font-weight="400" font-size="9.2016px" dy="2.9">Gestión de Reclamos</text>
+<rect id="label104_bg" class="for_r104" x="576.61134" y="1437.27026" width="120.22953" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label104" class="for_r104" text-anchor="start" x="581.27621" y="1445.37027" font-weight="400" font-size="9.2016px" dy="2.9">Soporte en Punto de Venta</text>
+<rect id="label105_bg" class="for_r105" x="575.61134" y="1489.73962" width="107.38578" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label105" class="for_r105" text-anchor="start" x="581.27621" y="1497.83959" font-weight="400" font-size="9.2016px" dy="2.9">Análisis de Satisfacción</text>
+<rect id="label106_bg" class="for_r106" x="576.61134" y="1507.22937" width="157.55766" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label106" class="for_r106" text-anchor="start" x="581.27621" y="1515.32937" font-weight="400" font-size="9.2016px" dy="2.9">Recopilación de Opiniones en Línea</text>
+<rect id="label107_bg" class="for_r107" x="576.61134" y="1524.71912" width="127.23618" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label107" class="for_r107" text-anchor="start" x="581.27621" y="1532.81914" font-weight="400" font-size="9.2016px" dy="2.9">Procesamiento de Garantías</text>
+<rect id="label108_bg" class="for_r108" x="576.61134" y="1542.20898" width="133.38596" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label108" class="for_r108" text-anchor="start" x="581.27621" y="1550.30892" font-weight="400" font-size="9.2016px" dy="2.9">Seguimiento de Reparaciones</text>
+<rect id="label109_bg" class="for_r109" x="-116.51848" y="1210.3667" width="115.36691" height="21" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,39.09389)"></rect>
+<text id="label109" class="for_r109" text-anchor="end" x="-6.29754" y="1221.01678" font-weight="400" font-size="13.5184px" dy="4.35" transform="translate(0,39.09389)">Soporte Continuo</text>
+<rect id="label110_bg" class="for_r110" x="144.29733" y="1151.41919" width="42.37336" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label110" class="for_r110" text-anchor="end" x="181.36202" y="1160.22928" font-weight="400" font-size="9.61272px" dy="3.19">Talento</text>
+<rect id="label111_bg" class="for_r111" x="167.57858" y="1203.69385" width="19.45506" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label111" class="for_r111" text-anchor="end" x="181.36202" y="1212.50395" font-weight="400" font-size="9.81829px" dy="3.19">IT</text>
+<rect id="label112_bg" class="for_r112" x="114.93795" y="1255.96851" width="71.73354" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(238.91112,17.79884)"></rect>
+<text id="label112" class="for_r112" text-anchor="end" x="181.36202" y="1264.77862" font-weight="400" font-size="9.61272px" dy="3.19" transform="translate(238.91112,17.79884)">Administrativa</text>
+<rect id="label113_bg" class="for_r113" x="130.48483" y="1314.55676" width="56.07594" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(238.91112,38.16543)"></rect>
+<text id="label113" class="for_r113" text-anchor="end" x="181.36202" y="1323.36684" font-weight="400" font-size="9.81829px" dy="3.19" transform="translate(238.91112,38.16543)">Financiera</text>
+<rect id="label114_bg" class="for_r114" x="140.8442" y="1458.80469" width="45.26597" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label114" class="for_r114" text-anchor="end" x="181.36202" y="1467.61474" font-weight="400" font-size="9.81829px" dy="3.19">Riesgos</text>
+<rect id="label115_bg" class="for_r115" x="303.86314" y="1177.1582" width="69.82328" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label115" class="for_r115" text-anchor="end" x="369.02158" y="1185.96824" font-weight="400" font-size="9.40716px" dy="3.19">Reclutamiento</text>
+<rect id="label116_bg" class="for_r116" x="310.76939" y="1202.18726" width="62.91703" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label116" class="for_r116" text-anchor="end" x="369.02158" y="1210.28729" font-weight="400" font-size="9.2016px" dy="2.9">Capacitación</text>
+<rect id="label117_bg" class="for_r117" x="576.61134" y="1209.9032" width="105.75907" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label117" class="for_r117" text-anchor="start" x="581.27621" y="1218.0032" font-weight="400" font-size="9.2016px" dy="2.9">Selección de Operarios</text>
+<rect id="label118_bg" class="for_r118" x="576.61134" y="1227.39294" width="113.94828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label118" class="for_r118" text-anchor="start" x="581.27621" y="1235.49298" font-weight="400" font-size="9.2016px" dy="2.9">Onboarding de Operarios</text>
+<rect id="label119_bg" class="for_r119" x="576.61134" y="1244.88281" width="114.57328" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label119" class="for_r119" text-anchor="start" x="581.27621" y="1252.98275" font-weight="400" font-size="9.2016px" dy="2.9">Formación en Confección</text>
+<rect id="label120_bg" class="for_r120" x="295.67564" y="1226.43481" width="78.01078" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label120" class="for_r120" text-anchor="end" x="369.02158" y="1235.24487" font-weight="400" font-size="9.40716px" dy="3.19">Soporte Técnico</text>
+<rect id="label121_bg" class="for_r121" x="302.30064" y="1257.58313" width="71.38578" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label121" class="for_r121" text-anchor="end" x="369.02158" y="1266.39319" font-weight="400" font-size="9.40716px" dy="3.19">Mantenimiento</text>
+<rect id="label122_bg" class="for_r122" x="576.61134" y="1262.37256" width="95.53037" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label122" class="for_r122" text-anchor="start" x="581.27621" y="1270.47253" font-weight="400" font-size="9.2016px" dy="2.9">Resolución de Fallos</text>
+<rect id="label123_bg" class="for_r123" x="576.61134" y="1279.8623" width="88.88194" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label123" class="for_r123" text-anchor="start" x="581.27621" y="1287.9623" font-weight="400" font-size="9.2016px" dy="2.9">Soporte a Usuarios</text>
+<rect id="label124_bg" class="for_r124" x="575.61134" y="1297.35205" width="116.58891" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label124" class="for_r124" text-anchor="start" x="581.27621" y="1305.45207" font-weight="400" font-size="9.2016px" dy="2.9">Actualización de Software</text>
+<rect id="label125_bg" class="for_r125" x="576.61134" y="1314.84192" width="125.30766" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label125" class="for_r125" text-anchor="start" x="581.27621" y="1322.94185" font-weight="400" font-size="9.2016px" dy="2.9">Mantenimiento de Hardware</text>
+<rect id="label126_bg" class="for_r126" x="278.78501" y="1290.64709" width="94.90141" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label126" class="for_r126" text-anchor="end" x="369.02158" y="1299.45712" font-weight="400" font-size="9.40716px" dy="3.19">Gestión Documental</text>
+<rect id="label127_bg" class="for_r127" x="287.75376" y="1315.67615" width="86.32588" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label127" class="for_r127" text-anchor="end" x="369.02158" y="1323.77617" font-weight="400" font-size="9.2016px" dy="2.9">Gestión de Gastos</text>
+<rect id="label128_bg" class="for_r128" x="576.61134" y="1332.33167" width="115.46665" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label128" class="for_r128" text-anchor="start" x="581.27621" y="1340.43162" font-weight="400" font-size="9.2016px" dy="2.9">Digitalización de Facturas</text>
+<rect id="label129_bg" class="for_r129" x="575.61134" y="1349.82141" width="97.03794" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label129" class="for_r129" text-anchor="start" x="581.27621" y="1357.9214" font-weight="400" font-size="9.2016px" dy="2.9">Archivo de Contratos</text>
+<rect id="label130_bg" class="for_r130" x="575.61134" y="1367.31116" width="110.33933" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label130" class="for_r130" text-anchor="start" x="581.27621" y="1375.41117" font-weight="400" font-size="9.2016px" dy="2.9">Aprobación de Compras</text>
+<rect id="label131_bg" class="for_r131" x="311.69126" y="1340.88904" width="61.99516" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label131" class="for_r131" text-anchor="end" x="369.02158" y="1349.69904" font-weight="400" font-size="9.40716px" dy="3.19">Contabilidad</text>
+<rect id="label132_bg" class="for_r132" x="323.76939" y="1407.59314" width="49.91703" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label132" class="for_r132" text-anchor="end" x="369.02158" y="1416.40318" font-weight="400" font-size="9.40716px" dy="3.19">Tesorería</text>
+<rect id="label133_bg" class="for_r133" x="576.61134" y="1384.80103" width="119.05137" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label133" class="for_r133" text-anchor="start" x="581.27621" y="1392.90095" font-weight="400" font-size="9.2016px" dy="2.9">Registro de Transacciones</text>
+<rect id="label134_bg" class="for_r134" x="576.61134" y="1402.29077" width="158.4343" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label134" class="for_r134" text-anchor="start" x="581.27621" y="1410.39072" font-weight="400" font-size="9.2016px" dy="2.9">Preparación de Estados Financieros</text>
+<rect id="label135_bg" class="for_r135" x="576.61134" y="1454.76013" width="110.99516" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label135" class="for_r135" text-anchor="start" x="581.27621" y="1462.86005" font-weight="400" font-size="9.2016px" dy="2.9">Gestión de Flujo de Caja</text>
+<rect id="label136_bg" class="for_r136" x="576.61134" y="1472.24988" width="145.65855" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label136" class="for_r136" text-anchor="start" x="581.27621" y="1480.34982" font-weight="400" font-size="9.2016px" dy="2.9">Gestión de Pagos a Proveedores</text>
+<rect id="label137_bg" class="for_r137" x="259.44126" y="1501.03809" width="114.53562" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label137" class="for_r137" text-anchor="end" x="369.02158" y="1509.84814" font-weight="400" font-size="9.40716px" dy="3.19">Identificación de Riesgos</text>
+<rect id="label138_bg" class="for_r138" x="264.69126" y="1532.1864" width="108.99516" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label138" class="for_r138" text-anchor="end" x="369.02158" y="1540.99645" font-weight="400" font-size="9.40716px" dy="3.19">Cumplimiento Tributario</text>
+<rect id="label139_bg" class="for_r139" x="575.61134" y="1559.69873" width="138.45591" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label139" class="for_r139" text-anchor="start" x="581.27621" y="1567.79869" font-weight="400" font-size="9.2016px" dy="2.9">Análisis de Riesgos Operativos</text>
+<rect id="label140_bg" class="for_r140" x="576.61134" y="1577.18848" width="153.82987" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label140" class="for_r140" text-anchor="start" x="581.27621" y="1585.28847" font-weight="400" font-size="9.2016px" dy="2.9">Evaluación de Riesgos Financieros</text>
+<rect id="label141_bg" class="for_r141" x="575.61134" y="1594.67822" width="85.58567" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label141" class="for_r141" text-anchor="start" x="581.27621" y="1602.77824" font-weight="400" font-size="9.2016px" dy="2.9">Auditorías SUNAT</text>
+<rect id="label142_bg" class="for_r142" x="576.61134" y="1612.16809" width="146.66483" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label142" class="for_r142" text-anchor="start" x="581.27621" y="1620.26802" font-weight="400" font-size="9.2016px" dy="2.9">Gestión de Deducciones Fiscales</text>
+<rect id="label143_bg" class="for_r143" x="266.19126" y="874.02527" width="107.68549" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label143" class="for_r143" text-anchor="end" x="369.02158" y="882.83524" font-weight="400" font-size="9.61272px" dy="3.19">Evaluación de Riesgos</text>
+<rect id="label144_bg" class="for_r144" x="277.41001" y="918.83209" width="96.46131" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label144" class="for_r144" text-anchor="end" x="369.02158" y="927.6421" font-weight="400" font-size="9.61272px" dy="3.19">Protección de Datos</text>
+<rect id="label145_bg" class="for_r145" x="576.61134" y="895.08728" width="128.96116" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label145" class="for_r145" text-anchor="start" x="581.27621" y="903.18726" font-weight="400" font-size="9.2016px" dy="2.9">Escaneo de Vulnerabilidades</text>
+<rect id="label146_bg" class="for_r146" x="576.61134" y="912.57709" width="140.66703" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label146" class="for_r146" text-anchor="start" x="581.27621" y="920.67704" font-weight="400" font-size="9.2016px" dy="2.9">Capacitación en Ciberseguridad</text>
+<rect id="label147_bg" class="for_r147" x="576.61134" y="947.55658" width="100.64695" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label147" class="for_r147" text-anchor="start" x="581.27621" y="955.65658" font-weight="400" font-size="9.2016px" dy="2.9">Monitoreo de Accesos</text>
+<rect id="label148_bg" class="for_r148" x="576.61134" y="965.04639" width="106.28013" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label148" class="for_r148" text-anchor="start" x="581.27621" y="973.14636" font-weight="400" font-size="9.2016px" dy="2.9">Respuesta a Incidentes</text>
+<rect id="label149_bg" class="for_r149" x="-188.26848" y="379.90622" width="186.63578" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(1.18273,68.3321)"></rect>
+<text id="label149" class="for_r149" text-anchor="end" x="-6.29754" y="389.42622" font-weight="400" font-size="11.05166px" dy="3.48" transform="translate(1.18273,68.3321)">Gestión Estratégica y Sostenibilidad</text>
+<rect id="label150_bg" class="for_r150" x="576.61134" y="251.79684" width="168.29203" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label150" class="for_r150" text-anchor="start" x="581.27621" y="259.89684" font-weight="400" font-size="9.2016px" dy="2.9">Implementación de Metodologías Lean</text>
+<rect id="label151_bg" class="for_r151" x="576.61134" y="216.81729" width="113.94828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label151" class="for_r151" text-anchor="start" x="581.27621" y="224.91729" font-weight="400" font-size="9.2016px" dy="2.9">Registro de Innovaciones</text>
+<rect id="label152_bg" class="for_r152" x="576.61134" y="321.75592" width="127.87016" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label152" class="for_r152" text-anchor="start" x="581.27621" y="329.85593" font-weight="400" font-size="9.2016px" dy="2.9">Foros de Intercambio Interno</text>
+<rect id="label153_bg" class="for_r153" x="259.64439" y="563.25208" width="114.04203" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label153" class="for_r153" text-anchor="end" x="369.02158" y="571.35205" font-weight="400" font-size="9.2016px" dy="2.9">Compromiso Comunitario</text>
+<rect id="label154_bg" class="for_r154" x="576.61134" y="475.33267" width="132.87388" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label154" class="for_r154" text-anchor="start" x="581.27621" y="483.43267" font-weight="400" font-size="9.2016px" dy="2.9">Gestión de Residuos Líquidos</text>
+<rect id="label155_bg" class="for_r155" x="576.61134" y="562.78156" width="130.31333" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label155" class="for_r155" text-anchor="start" x="581.27621" y="570.88155" font-weight="400" font-size="9.2016px" dy="2.9">Capacitación a Comunidades</text>
+<rect id="label156_bg" class="for_r156" x="575.61134" y="930.06683" width="104.85453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label156" class="for_r156" text-anchor="start" x="581.27621" y="938.16681" font-weight="400" font-size="9.2016px" dy="2.9">Auditoría de Seguridad</text>
+<rect id="label157_bg" class="for_r157" x="576.61134" y="982.53613" width="106.90141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label157" class="for_r157" text-anchor="start" x="581.27621" y="990.63613" font-weight="400" font-size="9.2016px" dy="2.9">Backup y Recuperación</text>
+<rect id="label158_bg" class="for_r158" x="-154.70598" y="1673.67749" width="153.07328" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label158" class="for_r158" text-anchor="end" x="-6.29754" y="1683.1975" font-weight="400" font-size="11.46278px" dy="3.48">Innovación y Competitividad</text>
+<rect id="label159_bg" class="for_r159" x="74.48484" y="1618.11328" width="112.08096" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label159" class="for_r159" text-anchor="end" x="181.36202" y="1626.92334" font-weight="400" font-size="9.81829px" dy="3.19">Innovación Tecnológica</text>
+<rect id="label160_bg" class="for_r160" x="56.87547" y="1677.85571" width="129.68911" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label160" class="for_r160" text-anchor="end" x="181.36202" y="1686.66582" font-weight="400" font-size="9.81829px" dy="3.19">Competitividad de Mercado</text>
+<rect id="label161_bg" class="for_r161" x="81.50047" y="1737.59827" width="104.60853" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-27.30515,21.3549)"></rect>
+<text id="label161" class="for_r161" text-anchor="end" x="181.36202" y="1746.4083" font-weight="400" font-size="9.81829px" dy="3.19" transform="translate(-27.30515,21.3549)">Alianzas Estratégicas</text>
+<rect id="label162_bg" class="for_r162" x="223.59751" y="1617.32471" width="150.38624" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label162" class="for_r162" text-anchor="end" x="369.02158" y="1626.1348" font-weight="400" font-size="9.40716px" dy="3.19">Adopción de Nuevas Tecnologías</text>
+<rect id="label163_bg" class="for_r163" x="219.73811" y="1648.47302" width="154.24232" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label163" class="for_r163" text-anchor="end" x="369.02158" y="1657.28312" font-weight="400" font-size="9.40716px" dy="3.19">Investigación de Nuevos Procesos</text>
+<rect id="label164_bg" class="for_r164" x="576.61134" y="1629.65784" width="191.12016" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label164" class="for_r164" text-anchor="start" x="581.27621" y="1637.75779" font-weight="400" font-size="9.2016px" dy="2.9">Implementación de Software CAD Avanzado</text>
+<rect id="label165_bg" class="for_r165" x="576.61134" y="1647.14758" width="162.46391" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label165" class="for_r165" text-anchor="start" x="581.27621" y="1655.24756" font-weight="400" font-size="9.2016px" dy="2.9">Integración de Impresión Textil Digital</text>
+<rect id="label166_bg" class="for_r166" x="576.61134" y="1664.63733" width="145.48338" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label166" class="for_r166" text-anchor="start" x="581.27621" y="1672.73734" font-weight="400" font-size="9.2016px" dy="2.9">Desarrollo de Tejidos Inteligentes</text>
+<rect id="label167_bg" class="for_r167" x="575.61134" y="1682.12708" width="178.49516" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label167" class="for_r167" text-anchor="start" x="581.27621" y="1690.22711" font-weight="400" font-size="9.2016px" dy="2.9">Automatización de Procesos de Acabado</text>
+<rect id="label168_bg" class="for_r168" x="246.37876" y="1682.17554" width="127.5937" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label168" class="for_r168" text-anchor="end" x="369.02158" y="1690.98559" font-weight="400" font-size="9.40716px" dy="3.19">Diferenciación de Productos</text>
+<rect id="label169_bg" class="for_r169" x="263.09751" y="1713.32385" width="110.87751" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label169" class="for_r169" text-anchor="end" x="369.02158" y="1722.13391" font-weight="400" font-size="9.40716px" dy="3.19">Expansión de Mercados</text>
+<rect id="label170_bg" class="for_r170" x="576.61134" y="1699.61694" width="174.28275" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label170" class="for_r170" text-anchor="start" x="581.27621" y="1707.71689" font-weight="400" font-size="9.2016px" dy="2.9">Lanzamiento de Colecciones Exclusivas</text>
+<rect id="label171_bg" class="for_r171" x="576.61134" y="1717.10669" width="156.3859" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label171" class="for_r171" text-anchor="start" x="581.27621" y="1725.20666" font-weight="400" font-size="9.2016px" dy="2.9">Personalización Masiva de Prendas</text>
+<rect id="label172_bg" class="for_r172" x="576.61134" y="1734.59644" width="179.92039" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label172" class="for_r172" text-anchor="start" x="581.27621" y="1742.69644" font-weight="400" font-size="9.2016px" dy="2.9">Penetración en Mercados Internacionales</text>
+<rect id="label173_bg" class="for_r173" x="576.61134" y="1752.08618" width="136.77305" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label173" class="for_r173" text-anchor="start" x="581.27621" y="1760.18621" font-weight="400" font-size="9.2016px" dy="2.9">Participación en Ferias Textiles</text>
+<rect id="label174_bg" class="for_r174" x="234.87876" y="1747.02637" width="139.09583" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label174" class="for_r174" text-anchor="end" x="369.02158" y="1755.83638" font-weight="400" font-size="9.40716px" dy="3.19">Colaboración con Proveedores</text>
+<rect id="label175_bg" class="for_r175" x="254.78501" y="1778.17468" width="119.18913" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label175" class="for_r175" text-anchor="end" x="369.02158" y="1786.9847" font-weight="400" font-size="9.40716px" dy="3.19">Alianzas con Instituciones</text>
+<rect id="label176_bg" class="for_r176" x="576.61134" y="1769.57605" width="115.46665" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label176" class="for_r176" text-anchor="start" x="581.27621" y="1777.67599" font-weight="400" font-size="9.2016px" dy="2.9">Co-desarrollo de Insumos</text>
+<rect id="label177_bg" class="for_r177" x="576.61134" y="1787.0658" width="116.10453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label177" class="for_r177" text-anchor="start" x="581.27621" y="1795.16576" font-weight="400" font-size="9.2016px" dy="2.9">Contratos de Exclusividad</text>
+<rect id="label178_bg" class="for_r178" x="576.61134" y="1804.55554" width="142.58146" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label178" class="for_r178" text-anchor="start" x="581.27621" y="1812.65554" font-weight="400" font-size="9.2016px" dy="2.9">Colaboración con Universidades</text>
+<rect id="label179_bg" class="for_r179" x="575.61134" y="1822.04529" width="110.83799" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label179" class="for_r179" text-anchor="start" x="581.27621" y="1830.14531" font-weight="400" font-size="9.2016px" dy="2.9">Asociaciones con ONGs</text>
+</g>
+</g></svg>

@@ -1,0 +1,84 @@
+// SankeyMATIC diagram inputs - Saved: 3/6/2025, 20:42:21
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+// Código SankeyMatic para el Diagrama 5: Flujo de Sostenibilidad a través de Áreas de Gestión
+// Nombres completos para nodo fuente, áreas de gestión (sin "Gestión"), y subprocesos
+// Pesos basados en el número de acciones por subproceso (2 por subproceso)
+
+// Flujos desde Sostenibilidad a Áreas de Gestión
+Sostenibilidad [2] Logística/Operativa
+Sostenibilidad [10] Cadena de Suministro Extendida
+Sostenibilidad [14] Sostenibilidad y RSE
+
+// Flujos desde Áreas de Gestión a Subprocesos
+Logística/Operativa [2] Control de Condiciones
+
+Cadena de Suministro Extendida [2] Selección de Proveedores ESG
+Cadena de Suministro Extendida [2] Certificación de Insumos
+Cadena de Suministro Extendida [2] Reducción de Emisiones
+Cadena de Suministro Extendida [2] Uso de Vehículos Sostenibles
+Cadena de Suministro Extendida [2] Implementación de Embalajes Reutilizables
+
+Sostenibilidad y RSE [2] Reciclaje de Retazos
+Sostenibilidad y RSE [2] Reutilización de Materiales
+Sostenibilidad y RSE [2] Optimización de Consumo
+Sostenibilidad y RSE [2] Gestión de Residuos Líquidos
+Sostenibilidad y RSE [2] Capacitación a Comunidades
+Sostenibilidad y RSE [2] Apoyo a Emprendedores Locales
+Sostenibilidad y RSE [2] Elaboración de Informes ESG
+
+// === Settings ===
+
+size w 980
+  h 1972
+margin l 12
+  r 12
+  t 18
+  b 4
+bg color #ffffff
+  transparent N
+node w 12
+  h 73.5
+  spacing 80.5
+  border 0
+  theme c
+  color #888888
+  opacity 1
+flow curvature 0.5
+  inheritfrom outside-in
+  color #999999
+  opacity 0.45
+layout order automatic
+  justifyorigins Y
+  justifyends Y
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0.9
+  fontface sans-serif
+  linespacing 0.05
+  relativesize 129
+  magnify 119
+labelname appears Y
+  size 16
+  weight 400
+labelvalue appears N
+  fullprecision Y
+  position below
+  weight 400
+labelposition autoalign -1
+  scheme auto
+  first before
+  breakpoint 4
+value format ',.'
+  prefix ''
+  suffix ''
+themeoffset a 6
+  b 0
+  c 1
+  d 0
+meta mentionsankeymatic Y
+  listimbalances Y

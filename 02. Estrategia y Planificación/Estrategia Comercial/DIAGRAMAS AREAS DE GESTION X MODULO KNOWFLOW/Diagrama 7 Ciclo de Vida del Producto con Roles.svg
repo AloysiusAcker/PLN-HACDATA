@@ -1,0 +1,535 @@
+<svg height="1972" width="980" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 3/6/2025, 21:06:43 -->
+<rect height="1972" width="980" fill="#ffffff"></rect>
+<g transform="translate(138.73625,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 250.18611C169.24882 250.18611 169.24882 339.72383 326.49764 339.72383" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Recepción de Algodón: 2</title></path>
+<path id="flow1" d="M12 292.02915C169.24882 292.02915 169.24882 392.29488 326.49764 392.29488" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Recepción de Tintes: 2</title></path>
+<path id="flow2" d="M12 124.65698C169.24882 124.65698 169.24882 76.86861 326.49764 76.86861" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Validación de Importaciones: 2</title></path>
+<path id="flow3" d="M12 208.34307C169.24882 208.34307 169.24882 234.58174 326.49764 234.58174" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Selección de Proveedores ESG: 2</title></path>
+<path id="flow4" d="M12 166.50002C169.24882 166.50002 169.24882 129.43965 326.49764 129.43965" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Entrada → Certificación de Insumos: 2</title></path>
+<path id="flow15" d="M12 344.6002C169.24882 344.6002 169.24882 182.0107 326.49764 182.0107" fill="none" stroke-width="41.84304" stroke="#e7298a" opacity="0.45"><title>Operaciones → Creación de Patrones: 2</title></path>
+<path id="flow16" d="M12 428.28629C169.24882 428.28629 169.24882 444.86592 326.49764 444.86592" fill="none" stroke-width="41.84304" stroke="#e7298a" opacity="0.45"><title>Operaciones → Prototipado de Prendas: 2</title></path>
+<path id="flow17" d="M12 470.12933C169.24882 470.12933 169.24882 497.43697 326.49764 497.43697" fill="none" stroke-width="41.84304" stroke="#e7298a" opacity="0.45"><title>Operaciones → Producción de Hilos: 2</title></path>
+<path id="flow18" d="M12 386.44324C169.24882 386.44324 169.24882 287.15279 326.49764 287.15279" fill="none" stroke-width="41.84304" stroke="#e7298a" opacity="0.45"><title>Operaciones → Control de Calidad de Hilos: 2</title></path>
+<path id="flow19" d="M12 553.81542C169.24882 553.81542 169.24882 602.57906 326.49764 602.57906" fill="none" stroke-width="41.84304" stroke="#e7298a" opacity="0.45"><title>Operaciones → Costura de Prendas: 2</title></path>
+<path id="flow20" d="M12 511.97237C169.24882 511.97237 169.24882 550.00802 326.49764 550.00802" fill="none" stroke-width="41.84304" stroke="#e7298a" opacity="0.45"><title>Operaciones → Acabado de Prendas: 2</title></path>
+<path id="flow33" d="M12 718.75183C169.24882 718.75183 169.24882 707.72115 326.49764 707.72115" fill="none" stroke-width="41.84304" stroke="#e6ab02" opacity="0.45"><title>Marketing y Ventas → Generación de Leads: 2</title></path>
+<path id="flow34" d="M12 739.67335v41.84304L326.49764 781.21372v-41.84304z" fill="#e6ab02" stroke-width="0.5" stroke="#e6ab02" opacity="0.45"><title>Marketing y Ventas → Seguimiento de Leads: 2</title></path>
+<path id="flow35" d="M12 802.43792C169.24882 802.43792 169.24882 812.86324 326.49764 812.86324" fill="none" stroke-width="41.84304" stroke="#e6ab02" opacity="0.45"><title>Marketing y Ventas → Emisión de Cotizaciones: 2</title></path>
+<path id="flow36" d="M12 844.28096C169.24882 844.28096 169.24882 918.00533 326.49764 918.00533" fill="none" stroke-width="41.84304" stroke="#e6ab02" opacity="0.45"><title>Marketing y Ventas → Negociación con Clientes: 2</title></path>
+<path id="flow37" d="M12 886.12401C169.24882 886.12401 169.24882 970.57638 326.49764 970.57638" fill="none" stroke-width="41.84304" stroke="#e6ab02" opacity="0.45"><title>Marketing y Ventas → Creación de Campañas Publicitarias: 2</title></path>
+<path id="flow38" d="M12 927.96705C169.24882 927.96705 169.24882 1128.28952 326.49764 1128.28952" fill="none" stroke-width="41.84304" stroke="#e6ab02" opacity="0.45"><title>Marketing y Ventas → Promociones en Punto de Venta: 2</title></path>
+<path id="flow51" d="M12 1273.4394C169.24882 1273.4394 169.24882 1338.5737 326.49764 1338.5737" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Coordinación de Transporte: 2</title></path>
+<path id="flow52" d="M12 1231.59636C169.24882 1231.59636 169.24882 1286.00265 326.49764 1286.00265" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Seguimiento de Entregas: 2</title></path>
+<path id="flow53" d="M12 1064.22418C169.24882 1064.22418 169.24882 1023.14742 326.49764 1023.14742" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Preparación de Pedidos: 2</title></path>
+<path id="flow54" d="M12 1147.91027C169.24882 1147.91027 169.24882 1180.86056 326.49764 1180.86056" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Empaquetado y Etiquetado: 2</title></path>
+<path id="flow55" d="M12 1189.75331C169.24882 1189.75331 169.24882 1233.43161 326.49764 1233.43161" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Control de Stock de Producto Terminado: 2</title></path>
+<path id="flow56" d="M12 1022.38114C169.24882 1022.38114 169.24882 865.43429 326.49764 865.43429" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Procesamiento de Devoluciones: 2</title></path>
+<path id="flow57" d="M12 1106.06723C169.24882 1106.06723 169.24882 1075.71847 326.49764 1075.71847" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Uso de Vehículos Sostenibles: 2</title></path>
+<path id="flow58" d="M12 980.5381C169.24882 980.5381 169.24882 655.15011 326.49764 655.15011" fill="none" stroke-width="41.84304" stroke="#d95f02" opacity="0.45"><title>Logística de Salida → Implementación de Embalajes Reutilizables: 2</title></path>
+<path id="flow75" d="M12 1643.15549C169.24882 1643.15549 169.24882 1653.99997 326.49764 1653.99997" fill="none" stroke-width="41.84304" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Gestión de Reclamos: 2</title></path>
+<path id="flow76" d="M12 1433.94027C169.24882 1433.94027 169.24882 1391.14474 326.49764 1391.14474" fill="none" stroke-width="41.84304" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Soporte en Punto de Venta: 2</title></path>
+<path id="flow77" d="M12 1580.39093v41.84304L326.49764 1622.35045v-41.84304z" fill="#66a61e" stroke-width="0.5" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Análisis de Satisfacción: 2</title></path>
+<path id="flow78" d="M12 1475.78332C332.49764 1475.78332 332.49764 1457.07941 652.99527 1457.07941" fill="none" stroke-width="41.84304" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Recopilación de Opiniones en Línea: 2</title></path>
+<path id="flow79" d="M12 1517.62636C332.49764 1517.62636 332.49764 1509.65046 652.99527 1509.65046" fill="none" stroke-width="41.84304" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Procesamiento de Garantías: 2</title></path>
+<path id="flow80" d="M12 1559.4694C332.49764 1559.4694 332.49764 1614.79255 652.99527 1614.79255" fill="none" stroke-width="41.84304" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Seguimiento de Reparaciones: 2</title></path>
+<path id="flow81" d="M12 1684.99854C332.49764 1684.99854 332.49764 1730.66264 652.99527 1730.66264" fill="none" stroke-width="41.84304" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Asesoramiento de Moda: 2</title></path>
+<path id="flow82" d="M12 1726.84158C332.49764 1726.84158 332.49764 1783.23369 652.99527 1783.23369" fill="none" stroke-width="41.84304" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Gestión de Pedidos Especiales: 2</title></path>
+<path id="flow83" d="M12 1768.68462C332.49764 1768.68462 332.49764 1835.80473 652.99527 1835.80473" fill="none" stroke-width="41.84304" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Reciclaje de Retazos: 2</title></path>
+<path id="flow84" d="M12 1810.52767C332.49764 1810.52767 332.49764 1888.37578 652.99527 1888.37578" fill="none" stroke-width="41.84304" stroke="#66a61e" opacity="0.45"><title>Servicios Posventa → Reutilización de Materiales: 2</title></path>
+<path id="flow5" d="M338.49764 329.26307C495.74646 329.26307 495.74646 300.24917 652.99527 300.24917" fill="none" stroke-width="20.92152" stroke="#a6761d" opacity="0.45"><title>Recepción de Algodón → Inspector de Calidad: 1</title></path>
+<path id="flow6" d="M338.49764 350.18459C495.74646 350.18459 495.74646 710.62401 652.99527 710.62401" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Recepción de Algodón → Operario de Almacén: 1</title></path>
+<path id="flow7" d="M338.49764 381.83412C495.74646 381.83412 495.74646 321.17069 652.99527 321.17069" fill="none" stroke-width="20.92152" stroke="#a6761d" opacity="0.45"><title>Recepción de Tintes → Inspector de Calidad: 1</title></path>
+<path id="flow8" d="M338.49764 402.75564C495.74646 402.75564 495.74646 731.54554 652.99527 731.54554" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Recepción de Tintes → Operario de Almacén: 1</title></path>
+<path id="flow9" d="M338.49764 66.40785C495.74646 66.40785 495.74646 51.16346 652.99527 51.16346" fill="none" stroke-width="20.92152" stroke="#1b9e77" opacity="0.45"><title>Validación de Importaciones → Analista de Importaciones: 1</title></path>
+<path id="flow10" d="M338.49764 87.32937C495.74646 87.32937 495.74646 82.81299 652.99527 82.81299" fill="none" stroke-width="20.92152" stroke="#d95f02" opacity="0.45"><title>Validación de Importaciones → Asistente Administrativo: 1</title></path>
+<path id="flow11" d="M338.49764 245.0425C495.74646 245.0425 495.74646 510.53335 652.99527 510.53335" fill="none" stroke-width="20.92152" stroke="#1b9e77" opacity="0.45"><title>Selección de Proveedores ESG → Analista de Sostenibilidad: 1</title></path>
+<path id="flow12" d="M338.49764 224.12098C495.74646 224.12098 495.74646 216.0286 652.99527 216.0286" fill="none" stroke-width="20.92152" stroke="#7570b3" opacity="0.45"><title>Selección de Proveedores ESG → Gerente de Compras: 1</title></path>
+<path id="flow13" d="M338.49764 139.90041C495.74646 139.90041 495.74646 489.61183 652.99527 489.61183" fill="none" stroke-width="20.92152" stroke="#1b9e77" opacity="0.45"><title>Certificación de Insumos → Analista de Sostenibilidad: 1</title></path>
+<path id="flow14" d="M338.49764 118.97889C495.74646 118.97889 495.74646 103.73451 652.99527 103.73451" fill="none" stroke-width="20.92152" stroke="#d95f02" opacity="0.45"><title>Certificación de Insumos → Asistente Administrativo: 1</title></path>
+<path id="flow21" d="M338.49764 171.54994C495.74646 171.54994 495.74646 152.72955 652.99527 152.72955" fill="none" stroke-width="20.92152" stroke="#7570b3" opacity="0.45"><title>Creación de Patrones → Diseñador Textil: 1</title></path>
+<path id="flow22" d="M338.49764 192.47146C495.74646 192.47146 495.74646 184.37908 652.99527 184.37908" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Creación de Patrones → Supervisor de Diseño: 1</title></path>
+<path id="flow23" d="M338.49764 434.40516C495.74646 434.40516 495.74646 373.74174 652.99527 373.74174" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Prototipado de Prendas → Operario de Confección: 1</title></path>
+<path id="flow24" d="M338.49764 455.32669C495.74646 455.32669 495.74646 405.39126 652.99527 405.39126" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Prototipado de Prendas → Técnico de Calidad: 1</title></path>
+<path id="flow25" d="M338.49764 486.97621C495.74646 486.97621 495.74646 457.96231 652.99527 457.96231" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Producción de Hilos → Operario de Hilatura: 1</title></path>
+<path id="flow26" d="M338.49764 507.89773C495.74646 507.89773 495.74646 584.02592 652.99527 584.02592" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Producción de Hilos → Supervisor de Producción: 1</title></path>
+<path id="flow27" d="M338.49764 297.61355C495.74646 297.61355 495.74646 279.32765 652.99527 279.32765" fill="none" stroke-width="20.92152" stroke="#a6761d" opacity="0.45"><title>Control de Calidad de Hilos → Inspector de Calidad: 1</title></path>
+<path id="flow28" d="M338.49764 276.69203C495.74646 276.69203 495.74646 247.67812 652.99527 247.67812" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Control de Calidad de Hilos → Técnico de Producción: 1</title></path>
+<path id="flow29" d="M338.49764 592.1183C495.74646 592.1183 495.74646 647.32497 652.99527 647.32497" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Costura de Prendas → Operario de Costura: 1</title></path>
+<path id="flow30" d="M338.49764 613.03982C495.74646 613.03982 495.74646 678.97449 652.99527 678.97449" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Costura de Prendas → Supervisor de Confección: 1</title></path>
+<path id="flow31" d="M338.49764 560.46878C495.74646 560.46878 495.74646 615.67544 652.99527 615.67544" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Acabado de Prendas → Operario de Acabado: 1</title></path>
+<path id="flow32" d="M338.49764 539.54725C495.74646 539.54725 495.74646 426.31278 652.99527 426.31278" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Acabado de Prendas → Técnico de Calidad: 1</title></path>
+<path id="flow39" d="M338.49764 697.26039C495.74646 697.26039 495.74646 899.45219 652.99527 899.45219" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Generación de Leads → Especialista en Marketing: 1</title></path>
+<path id="flow40" d="M338.49764 718.18191C495.74646 718.18191 495.74646 1015.32228 652.99527 1015.32228" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Generación de Leads → Vendedor: 1</title></path>
+<path id="flow41" d="M338.49764 770.75296C495.74646 770.75296 495.74646 1036.24381 652.99527 1036.24381" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Seguimiento de Leads → Vendedor: 1</title></path>
+<path id="flow42" d="M338.49764 749.83144C495.74646 749.83144 495.74646 846.88115 652.99527 846.88115" fill="none" stroke-width="20.92152" stroke="#d95f02" opacity="0.45"><title>Seguimiento de Leads → Asistente de Ventas: 1</title></path>
+<path id="flow43" d="M338.49764 823.324C495.74646 823.324 495.74646 952.02324 652.99527 952.02324" fill="none" stroke-width="20.92152" stroke="#1b9e77" opacity="0.45"><title>Emisión de Cotizaciones → Analista de Ventas: 1</title></path>
+<path id="flow44" d="M338.49764 802.40248C495.74646 802.40248 495.74646 867.80267 652.99527 867.80267" fill="none" stroke-width="20.92152" stroke="#d95f02" opacity="0.45"><title>Emisión de Cotizaciones → Asistente de Ventas: 1</title></path>
+<path id="flow45" d="M338.49764 928.46609C495.74646 928.46609 495.74646 1057.16533 652.99527 1057.16533" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Negociación con Clientes → Vendedor: 1</title></path>
+<path id="flow46" d="M338.49764 907.54457C495.74646 907.54457 495.74646 983.67276 652.99527 983.67276" fill="none" stroke-width="20.92152" stroke="#7570b3" opacity="0.45"><title>Negociación con Clientes → Gerente de Ventas: 1</title></path>
+<path id="flow47" d="M338.49764 960.11562C495.74646 960.11562 495.74646 920.37371 652.99527 920.37371" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Creación de Campañas Publicitarias → Especialista en Marketing: 1</title></path>
+<path id="flow48" d="M338.49764 981.03714C495.74646 981.03714 495.74646 1130.65789 652.99527 1130.65789" fill="none" stroke-width="20.92152" stroke="#7570b3" opacity="0.45"><title>Creación de Campañas Publicitarias → Diseñador Gráfico: 1</title></path>
+<path id="flow49" d="M338.49764 1138.75028C495.74646 1138.75028 495.74646 1246.52799 652.99527 1246.52799" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Promociones en Punto de Venta → Supervisor de Ventas: 1</title></path>
+<path id="flow50" d="M338.49764 1117.82875C495.74646 1117.82875 495.74646 1078.08685 652.99527 1078.08685" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Promociones en Punto de Venta → Vendedor: 1</title></path>
+<path id="flow59" d="M338.49764 1328.11294C495.74646 1328.11294 495.74646 1351.67008 652.99527 1351.67008" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Coordinación de Transporte → Coordinador de Logística: 1</title></path>
+<path id="flow60" d="M338.49764 1349.03446C495.74646 1349.03446 495.74646 1414.96913 652.99527 1414.96913" fill="none" stroke-width="20.92152" stroke="#d95f02" opacity="0.45"><title>Coordinación de Transporte → Asistente de Transporte: 1</title></path>
+<path id="flow61" d="M338.49764 1296.46341C495.74646 1296.46341 495.74646 1330.74856 652.99527 1330.74856" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Seguimiento de Entregas → Coordinador de Logística: 1</title></path>
+<path id="flow62" d="M338.49764 1275.54189C495.74646 1275.54189 495.74646 1214.87846 652.99527 1214.87846" fill="none" stroke-width="20.92152" stroke="#d95f02" opacity="0.45"><title>Seguimiento de Entregas → Asistente de Logística: 1</title></path>
+<path id="flow63" d="M338.49764 1012.68666C495.74646 1012.68666 495.74646 773.38858 652.99527 773.38858" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Preparación de Pedidos → Operario de Almacén: 1</title></path>
+<path id="flow64" d="M338.49764 1033.60819C495.74646 1033.60819 495.74646 1162.30742 652.99527 1162.30742" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Preparación de Pedidos → Supervisor de Almacén: 1</title></path>
+<path id="flow65" d="M338.49764 1170.3998C495.74646 1170.3998 495.74646 794.3101 652.99527 794.3101" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Empaquetado y Etiquetado → Operario de Almacén: 1</title></path>
+<path id="flow66" d="M338.49764 1191.32132C495.74646 1191.32132 495.74646 1278.17751 652.99527 1278.17751" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Empaquetado y Etiquetado → Técnico de Embalaje: 1</title></path>
+<path id="flow67" d="M338.49764 1243.89237C495.74646 1243.89237 495.74646 1383.3196 652.99527 1383.3196" fill="none" stroke-width="20.92152" stroke="#1b9e77" opacity="0.45"><title>Control de Stock de Producto Terminado → Analista de Inventario: 1</title></path>
+<path id="flow68" d="M338.49764 1222.97085C495.74646 1222.97085 495.74646 815.23162 652.99527 815.23162" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Control de Stock de Producto Terminado → Operario de Almacén: 1</title></path>
+<path id="flow69" d="M338.49764 854.97353C495.74646 854.97353 495.74646 342.09221 652.99527 342.09221" fill="none" stroke-width="20.92152" stroke="#a6761d" opacity="0.45"><title>Procesamiento de Devoluciones → Inspector de Calidad: 1</title></path>
+<path id="flow70" d="M338.49764 875.89505C495.74646 875.89505 495.74646 1193.95694 652.99527 1193.95694" fill="none" stroke-width="20.92152" stroke="#d95f02" opacity="0.45"><title>Procesamiento de Devoluciones → Asistente de Logística: 1</title></path>
+<path id="flow71" d="M338.49764 1065.25771C495.74646 1065.25771 495.74646 552.37639 652.99527 552.37639" fill="none" stroke-width="20.92152" stroke="#1b9e77" opacity="0.45"><title>Uso de Vehículos Sostenibles → Analista de Sostenibilidad: 1</title></path>
+<path id="flow72" d="M338.49764 1086.17923C495.74646 1086.17923 495.74646 1309.82704 652.99527 1309.82704" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Uso de Vehículos Sostenibles → Coordinador de Logística: 1</title></path>
+<path id="flow73" d="M338.49764 644.68935C495.74646 644.68935 495.74646 531.45487 652.99527 531.45487" fill="none" stroke-width="20.92152" stroke="#1b9e77" opacity="0.45"><title>Implementación de Embalajes Reutilizables → Analista de Sostenibilidad: 1</title></path>
+<path id="flow74" d="M338.49764 665.61087C495.74646 665.61087 495.74646 752.46706 652.99527 752.46706" fill="none" stroke-width="20.92152" stroke="#666666" opacity="0.45"><title>Implementación de Embalajes Reutilizables → Operario de Almacén: 1</title></path>
+<path id="flow85" d="M338.49764 1643.53921C495.74646 1643.53921 495.74646 1572.68226 652.99527 1572.68226" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Gestión de Reclamos → Representante de Servicio al Cliente: 1</title></path>
+<path id="flow86" d="M338.49764 1664.46073C495.74646 1664.46073 495.74646 1688.55236 652.99527 1688.55236" fill="none" stroke-width="20.92152" stroke="#e7298a" opacity="0.45"><title>Gestión de Reclamos → Supervisor de Atención: 1</title></path>
+<path id="flow87" d="M338.49764 1380.68398C495.74646 1380.68398 495.74646 1099.00837 652.99527 1099.00837" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Soporte en Punto de Venta → Vendedor: 1</title></path>
+<path id="flow88" d="M338.49764 1401.6055C495.74646 1401.6055 495.74646 1551.76074 652.99527 1551.76074" fill="none" stroke-width="20.92152" stroke="#66a61e" opacity="0.45"><title>Soporte en Punto de Venta → Representante de Servicio al Cliente: 1</title></path>
+<path id="flow89" d="M338.49764 1611.88969C495.74646 1611.88969 495.74646 1656.90283 652.99527 1656.90283" fill="none" stroke-width="20.92152" stroke="#e6ab02" opacity="0.45"><title>Análisis de Satisfacción → Anal: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="103.73546" height="209.21522" width="12" fill="#d95f02" fill-opacity="1"><title>Logística de Entrada:
+10</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="326.49764" y="318.80231" height="41.84304" width="12" fill="#7570b3" fill-opacity="1"><title>Recepción de Algodón:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="326.49764" y="371.37336" height="41.84304" width="12" fill="#7570b3" fill-opacity="1"><title>Recepción de Tintes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="326.49764" y="55.94708" height="41.84304" width="12" fill="#e7298a" fill-opacity="1"><title>Validación de Importaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="326.49764" y="213.66022" height="41.84304" width="12" fill="#66a61e" fill-opacity="1"><title>Selección de Proveedores ESG:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="326.49764" y="108.51813" height="41.84304" width="12" fill="#e6ab02" fill-opacity="1"><title>Certificación de Insumos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="652.99527" y="268.86689" height="83.68609" width="12" fill="#a6761d" fill-opacity="1"><title>Inspector de Calidad:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="652.99527" y="700.16325" height="125.52913" width="12" fill="#666666" fill-opacity="1"><title>Operario de Almacén:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="652.99527" y="40.7027" height="20.92152" width="12" fill="#1b9e77" fill-opacity="1"><title>Analista de Importaciones:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="652.99527" y="72.35223" height="41.84304" width="12" fill="#d95f02" fill-opacity="1"><title>Asistente Administrativo:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="652.99527" y="479.15107" height="83.68609" width="12" fill="#1b9e77" fill-opacity="1"><title>Analista de Sostenibilidad:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="652.99527" y="205.56784" height="20.92152" width="12" fill="#7570b3" fill-opacity="1"><title>Gerente de Compras:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="0" y="323.67868" height="251.05826" width="12" fill="#e7298a" fill-opacity="1"><title>Operaciones:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="326.49764" y="161.08918" height="41.84304" width="12" fill="#66a61e" fill-opacity="1"><title>Creación de Patrones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="326.49764" y="423.9444" height="41.84304" width="12" fill="#e6ab02" fill-opacity="1"><title>Prototipado de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="326.49764" y="476.51545" height="41.84304" width="12" fill="#a6761d" fill-opacity="1"><title>Producción de Hilos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="326.49764" y="266.23127" height="41.84304" width="12" fill="#666666" fill-opacity="1"><title>Control de Calidad de Hilos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="326.49764" y="581.65754" height="41.84304" width="12" fill="#1b9e77" fill-opacity="1"><title>Costura de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="326.49764" y="529.08649" height="41.84304" width="12" fill="#d95f02" fill-opacity="1"><title>Acabado de Prendas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="652.99527" y="142.26879" height="20.92152" width="12" fill="#7570b3" fill-opacity="1"><title>Diseñador Textil:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="652.99527" y="173.91832" height="20.92152" width="12" fill="#e7298a" fill-opacity="1"><title>Supervisor de Diseño:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="652.99527" y="363.28098" height="20.92152" width="12" fill="#666666" fill-opacity="1"><title>Operario de Confección:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="652.99527" y="394.9305" height="41.84304" width="12" fill="#66a61e" fill-opacity="1"><title>Técnico de Calidad:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="652.99527" y="447.50155" height="20.92152" width="12" fill="#666666" fill-opacity="1"><title>Operario de Hilatura:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="652.99527" y="573.56516" height="20.92152" width="12" fill="#e7298a" fill-opacity="1"><title>Supervisor de Producción:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="652.99527" y="237.21736" height="20.92152" width="12" fill="#66a61e" fill-opacity="1"><title>Técnico de Producción:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="652.99527" y="636.86421" height="20.92152" width="12" fill="#666666" fill-opacity="1"><title>Operario de Costura:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="652.99527" y="668.51373" height="20.92152" width="12" fill="#e7298a" fill-opacity="1"><title>Supervisor de Confección:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="652.99527" y="605.21468" height="20.92152" width="12" fill="#666666" fill-opacity="1"><title>Operario de Acabado:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="0" y="697.83031" height="251.05826" width="12" fill="#e6ab02" fill-opacity="1"><title>Marketing y Ventas:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="326.49764" y="686.79963" height="41.84304" width="12" fill="#a6761d" fill-opacity="1"><title>Generación de Leads:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="326.49764" y="739.37068" height="41.84304" width="12" fill="#666666" fill-opacity="1"><title>Seguimiento de Leads:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="326.49764" y="791.94172" height="41.84304" width="12" fill="#1b9e77" fill-opacity="1"><title>Emisión de Cotizaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="326.49764" y="897.08381" height="41.84304" width="12" fill="#d95f02" fill-opacity="1"><title>Negociación con Clientes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="326.49764" y="949.65486" height="41.84304" width="12" fill="#66a61e" fill-opacity="1"><title>Creación de Campañas Publicitarias:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="326.49764" y="1107.36799" height="41.84304" width="12" fill="#7570b3" fill-opacity="1"><title>Promociones en Punto de Venta:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="652.99527" y="888.99143" height="41.84304" width="12" fill="#e7298a" fill-opacity="1"><title>Especialista en Marketing:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="652.99527" y="1004.86152" height="104.60761" width="12" fill="#66a61e" fill-opacity="1"><title>Vendedor:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r38" class="for_r38" x="652.99527" y="836.42039" height="41.84304" width="12" fill="#d95f02" fill-opacity="1"><title>Asistente de Ventas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r39" class="for_r39" x="652.99527" y="941.56248" height="20.92152" width="12" fill="#1b9e77" fill-opacity="1"><title>Analista de Ventas:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r40" class="for_r40" x="652.99527" y="973.212" height="20.92152" width="12" fill="#7570b3" fill-opacity="1"><title>Gerente de Ventas:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r41" class="for_r41" x="652.99527" y="1120.19713" height="20.92152" width="12" fill="#7570b3" fill-opacity="1"><title>Diseñador Gráfico:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r42" class="for_r42" x="652.99527" y="1236.06723" height="20.92152" width="12" fill="#e7298a" fill-opacity="1"><title>Supervisor de Ventas:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r43" class="for_r43" x="0" y="959.61657" height="334.74435" width="12" fill="#d95f02" fill-opacity="1"><title>Logística de Salida:
+16</title></rect>
+</g>
+<g class="node">
+<rect id="r44" class="for_r44" x="326.49764" y="1317.65218" height="41.84304" width="12" fill="#e6ab02" fill-opacity="1"><title>Coordinación de Transporte:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r45" class="for_r45" x="326.49764" y="1265.08113" height="41.84304" width="12" fill="#666666" fill-opacity="1"><title>Seguimiento de Entregas:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r46" class="for_r46" x="326.49764" y="1002.2259" height="41.84304" width="12" fill="#a6761d" fill-opacity="1"><title>Preparación de Pedidos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r47" class="for_r47" x="326.49764" y="1159.93904" height="41.84304" width="12" fill="#666666" fill-opacity="1"><title>Empaquetado y Etiquetado:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r48" class="for_r48" x="326.49764" y="1212.51008" height="41.84304" width="12" fill="#666666" fill-opacity="1"><title>Control de Stock de Producto Terminado:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r49" class="for_r49" x="326.49764" y="844.51277" height="41.84304" width="12" fill="#1b9e77" fill-opacity="1"><title>Procesamiento de Devoluciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r50" class="for_r50" x="326.49764" y="1054.79695" height="41.84304" width="12" fill="#d95f02" fill-opacity="1"><title>Uso de Vehículos Sostenibles:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r51" class="for_r51" x="326.49764" y="634.22858" height="41.84304" width="12" fill="#7570b3" fill-opacity="1"><title>Implementación de Embalajes Reutilizables:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r52" class="for_r52" x="652.99527" y="1299.36627" height="62.76457" width="12" fill="#e7298a" fill-opacity="1"><title>Coordinador de Logística:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r53" class="for_r53" x="652.99527" y="1404.50837" height="20.92152" width="12" fill="#d95f02" fill-opacity="1"><title>Asistente de Transporte:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r54" class="for_r54" x="652.99527" y="1183.49618" height="41.84304" width="12" fill="#d95f02" fill-opacity="1"><title>Asistente de Logística:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r55" class="for_r55" x="652.99527" y="1151.84666" height="20.92152" width="12" fill="#e7298a" fill-opacity="1"><title>Supervisor de Almacén:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r56" class="for_r56" x="652.99527" y="1267.71675" height="20.92152" width="12" fill="#66a61e" fill-opacity="1"><title>Técnico de Embalaje:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r57" class="for_r57" x="652.99527" y="1372.85884" height="20.92152" width="12" fill="#1b9e77" fill-opacity="1"><title>Analista de Inventario:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r58" class="for_r58" x="0" y="1413.01875" height="418.43043" width="12" fill="#66a61e" fill-opacity="1"><title>Servicios Posventa:
+20</title></rect>
+</g>
+<g class="node">
+<rect id="r59" class="for_r59" x="326.49764" y="1633.07845" height="41.84304" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Reclamos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r60" class="for_r60" x="326.49764" y="1370.22322" height="41.84304" width="12" fill="#a6761d" fill-opacity="1"><title>Soporte en Punto de Venta:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r61" class="for_r61" x="326.49764" y="1580.5074" height="41.84304" width="12" fill="#666666" fill-opacity="1"><title>Análisis de Satisfacción:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r62" class="for_r62" x="652.99527" y="1436.15789" height="41.84304" width="12" fill="#1b9e77" fill-opacity="1"><title>Recopilación de Opiniones en Línea:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r63" class="for_r63" x="652.99527" y="1488.72893" height="41.84304" width="12" fill="#1b9e77" fill-opacity="1"><title>Procesamiento de Garantías:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r64" class="for_r64" x="652.99527" y="1593.87103" height="41.84304" width="12" fill="#666666" fill-opacity="1"><title>Seguimiento de Reparaciones:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r65" class="for_r65" x="652.99527" y="1709.74112" height="41.84304" width="12" fill="#d95f02" fill-opacity="1"><title>Asesoramiento de Moda:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r66" class="for_r66" x="652.99527" y="1762.31216" height="41.84304" width="12" fill="#e6ab02" fill-opacity="1"><title>Gestión de Pedidos Especiales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r67" class="for_r67" x="652.99527" y="1814.88321" height="41.84304" width="12" fill="#7570b3" fill-opacity="1"><title>Reciclaje de Retazos:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r68" class="for_r68" x="652.99527" y="1867.45425" height="41.84304" width="12" fill="#e7298a" fill-opacity="1"><title>Reutilización de Materiales:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r69" class="for_r69" x="652.99527" y="1541.29998" height="41.84304" width="12" fill="#66a61e" fill-opacity="1"><title>Representante de Servicio al Cliente:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r70" class="for_r70" x="652.99527" y="1678.09159" height="20.92152" width="12" fill="#e7298a" fill-opacity="1"><title>Supervisor de Atención:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r71" class="for_r71" x="652.99527" y="1646.44207" height="20.92152" width="12" fill="#e6ab02" fill-opacity="1"><title>Anal:
+1</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="351.26375" y="1947" font-size="15.49333px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-114.4716" y="198.82306" width="112.83891" height="18" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="208.34307" font-weight="400" font-size="11.2464px" dy="3.48">Logística de Entrada</text>
+<rect id="label1_bg" class="for_r1" x="220.85417" y="330.91382" width="104.01078" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="320.2001" y="339.72383" font-weight="400" font-size="9.4288px" dy="3.19">Recepción de Algodón</text>
+<rect id="label2_bg" class="for_r2" x="229.77604" y="383.48489" width="95.3744" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="320.2001" y="392.29488" font-weight="400" font-size="9.4288px" dy="3.19">Recepción de Tintes</text>
+<rect id="label3_bg" class="for_r3" x="196.47917" y="68.05861" width="128.66364" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="320.2001" y="76.86861" font-weight="400" font-size="9.4288px" dy="3.19">Validación de Importaciones</text>
+<rect id="label4_bg" class="for_r4" x="182.65104" y="225.77174" width="142.21391" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="320.2001" y="234.58174" font-weight="400" font-size="9.4288px" dy="3.19">Selección de Proveedores ESG</text>
+<rect id="label5_bg" class="for_r5" x="211.97917" y="120.62965" width="113.16108" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="320.2001" y="129.43965" font-weight="400" font-size="9.4288px" dy="3.19">Certificación de Insumos</text>
+<rect id="label6_bg" class="for_r6" x="666.62794" y="301.89993" width="100.85758" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="671.29281" y="310.70993" font-weight="400" font-size="9.8832px" dy="3.19">Inspector de Calidad</text>
+<rect id="label7_bg" class="for_r7" x="666.62794" y="754.1178" width="107.02476" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="671.29281" y="762.92782" font-weight="400" font-size="10.3376px" dy="3.19">Operario de Almacén</text>
+<rect id="label8_bg" class="for_r8" x="665.62794" y="43.06346" width="116.98777" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="671.29281" y="51.16346" font-weight="400" font-size="9.2016px" dy="2.9">Analista de Importaciones</text>
+<rect id="label9_bg" class="for_r9" x="665.62794" y="84.46375" width="110.72953" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="671.29281" y="93.27375" font-weight="400" font-size="9.4288px" dy="3.19">Asistente Administrativo</text>
+<rect id="label10_bg" class="for_r10" x="665.62794" y="512.18408" width="124.38181" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="671.29281" y="520.99411" font-weight="400" font-size="9.8832px" dy="3.19">Analista de Sostenibilidad</text>
+<rect id="label11_bg" class="for_r11" x="666.62794" y="207.92859" width="96.03794" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="671.29281" y="216.0286" font-weight="400" font-size="9.2016px" dy="2.9">Gerente de Compras</text>
+<rect id="label12_bg" class="for_r12" x="-77.70598" y="438.97781" width="76.21754" height="19" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="end" x="-6.29754" y="449.20781" font-weight="400" font-size="11.7008px" dy="3.77">Operaciones</text>
+<rect id="label13_bg" class="for_r13" x="224.01042" y="173.2007" width="101.13313" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="end" x="320.2001" y="182.0107" font-weight="400" font-size="9.4288px" dy="3.19">Creación de Patrones</text>
+<rect id="label14_bg" class="for_r14" x="216.15104" y="436.05591" width="108.99848" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="end" x="320.2001" y="444.86592" font-weight="400" font-size="9.4288px" dy="3.19">Prototipado de Prendas</text>
+<rect id="label15_bg" class="for_r15" x="231.35417" y="488.62698" width="93.79676" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="end" x="320.2001" y="497.43697" font-weight="400" font-size="9.4288px" dy="3.19">Producción de Hilos</text>
+<rect id="label16_bg" class="for_r16" x="200.44792" y="278.3428" width="124.69227" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="end" x="320.2001" y="287.15279" font-weight="400" font-size="9.4288px" dy="3.19">Control de Calidad de Hilos</text>
+<rect id="label17_bg" class="for_r17" x="231.33854" y="593.76904" width="93.80134" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="end" x="320.2001" y="602.57906" font-weight="400" font-size="9.4288px" dy="3.19">Costura de Prendas</text>
+<rect id="label18_bg" class="for_r18" x="226.13542" y="541.198" width="99.00541" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="end" x="320.2001" y="550.00802" font-weight="400" font-size="9.4288px" dy="3.19">Acabado de Prendas</text>
+<rect id="label19_bg" class="for_r19" x="666.62794" y="144.62955" width="75.02641" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="671.29281" y="152.72955" font-weight="400" font-size="9.2016px" dy="2.9">Diseñador Textil</text>
+<rect id="label20_bg" class="for_r20" x="666.62794" y="176.27907" width="97.69828" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="671.29281" y="184.37908" font-weight="400" font-size="9.2016px" dy="2.9">Supervisor de Diseño</text>
+<rect id="label21_bg" class="for_r21" x="666.62794" y="365.64172" width="106.90141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="start" x="671.29281" y="373.74174" font-weight="400" font-size="9.2016px" dy="2.9">Operario de Confección</text>
+<rect id="label22_bg" class="for_r22" x="665.62794" y="407.04202" width="91.37016" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="start" x="671.29281" y="415.85202" font-weight="400" font-size="9.4288px" dy="3.19">Técnico de Calidad</text>
+<rect id="label23_bg" class="for_r23" x="666.62794" y="449.8623" width="92.57328" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="start" x="671.29281" y="457.96231" font-weight="400" font-size="9.2016px" dy="2.9">Operario de Hilatura</text>
+<rect id="label24_bg" class="for_r24" x="666.62794" y="575.92596" width="115.08891" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="671.29281" y="584.02592" font-weight="400" font-size="9.2016px" dy="2.9">Supervisor de Producción</text>
+<rect id="label25_bg" class="for_r25" x="665.62794" y="239.57811" width="104.32328" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="671.29281" y="247.67812" font-weight="400" font-size="9.2016px" dy="2.9">Técnico de Producción</text>
+<rect id="label26_bg" class="for_r26" x="666.62794" y="639.22498" width="93.08891" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="start" x="671.29281" y="647.32497" font-weight="400" font-size="9.2016px" dy="2.9">Operario de Costura</text>
+<rect id="label27_bg" class="for_r27" x="666.62794" y="670.87451" width="115.08891" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="start" x="671.29281" y="678.97449" font-weight="400" font-size="9.2016px" dy="2.9">Supervisor de Confección</text>
+<rect id="label28_bg" class="for_r28" x="666.62794" y="607.57544" width="96.68266" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="start" x="671.29281" y="615.67544" font-weight="400" font-size="9.2016px" dy="2.9">Operario de Acabado</text>
+<rect id="label29_bg" class="for_r29" x="-110.87785" y="813.12946" width="109.38081" height="19" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="end" x="-6.29754" y="823.35944" font-weight="400" font-size="11.7008px" dy="3.77">Marketing y Ventas</text>
+<rect id="label30_bg" class="for_r30" x="225.04167" y="698.91113" width="100.09821" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="end" x="320.2001" y="707.72115" font-weight="400" font-size="9.4288px" dy="3.19">Generación de Leads</text>
+<rect id="label31_bg" class="for_r31" x="221.38542" y="751.48218" width="103.76411" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="end" x="320.2001" y="760.2922" font-weight="400" font-size="9.4288px" dy="3.19">Seguimiento de Leads</text>
+<rect id="label32_bg" class="for_r32" x="211.97917" y="804.05322" width="113.16566" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="end" x="320.2001" y="812.86324" font-weight="400" font-size="9.4288px" dy="3.19">Emisión de Cotizaciones</text>
+<rect id="label33_bg" class="for_r33" x="208.83854" y="909.19531" width="116.31641" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="end" x="320.2001" y="918.00533" font-weight="400" font-size="9.4288px" dy="3.19">Negociación con Clientes</text>
+<rect id="label34_bg" class="for_r34" x="162.76042" y="961.76636" width="162.38606" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="end" x="320.2001" y="970.57638" font-weight="400" font-size="9.4288px" dy="3.19">Creación de Campañas Publicitarias</text>
+<rect id="label35_bg" class="for_r35" x="180.01042" y="1119.47949" width="144.85453" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="end" x="320.2001" y="1128.28952" font-weight="400" font-size="9.4288px" dy="3.19">Promociones en Punto de Venta</text>
+<rect id="label36_bg" class="for_r36" x="666.62794" y="901.10297" width="117.07328" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="start" x="671.29281" y="909.91295" font-weight="400" font-size="9.4288px" dy="3.19">Especialista en Marketing</text>
+<rect id="label37_bg" class="for_r37" x="665.62794" y="1048.35522" width="54.65116" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="start" x="671.29281" y="1057.16533" font-weight="400" font-size="10.1104px" dy="3.19">Vendedor</text>
+<rect id="label38_bg" class="for_r38" x="665.62794" y="848.53192" width="94.28617" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label38" class="for_r38" text-anchor="start" x="671.29281" y="857.34191" font-weight="400" font-size="9.4288px" dy="3.19">Asistente de Ventas</text>
+<rect id="label39_bg" class="for_r39" x="665.62794" y="943.92328" width="87.33933" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label39" class="for_r39" text-anchor="start" x="671.29281" y="952.02324" font-weight="400" font-size="9.2016px" dy="2.9">Analista de Ventas</text>
+<rect id="label40_bg" class="for_r40" x="666.62794" y="975.57275" width="86.85148" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label40" class="for_r40" text-anchor="start" x="671.29281" y="983.67276" font-weight="400" font-size="9.2016px" dy="2.9">Gerente de Ventas</text>
+<rect id="label41_bg" class="for_r41" x="666.62794" y="1122.55786" width="83.88578" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label41" class="for_r41" text-anchor="start" x="671.29281" y="1130.65789" font-weight="400" font-size="9.2016px" dy="2.9">Diseñador Gráfico</text>
+<rect id="label42_bg" class="for_r42" x="666.62794" y="1238.42798" width="97.58329" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label42" class="for_r42" text-anchor="start" x="671.29281" y="1246.52799" font-weight="400" font-size="9.2016px" dy="2.9">Supervisor de Ventas</text>
+<rect id="label43_bg" class="for_r43" x="-117.8466" y="1117.04883" width="116.21391" height="20" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label43" class="for_r43" text-anchor="end" x="-6.29754" y="1126.98875" font-weight="400" font-size="12.6096px" dy="4.06">Logística de Salida</text>
+<rect id="label44_bg" class="for_r44" x="198.86979" y="1329.76367" width="125.99516" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label44" class="for_r44" text-anchor="end" x="320.2001" y="1338.5737" font-weight="400" font-size="9.4288px" dy="3.19">Coordinación de Transporte</text>
+<rect id="label45_bg" class="for_r45" x="209.33854" y="1277.19263" width="115.80128" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label45" class="for_r45" text-anchor="end" x="320.2001" y="1286.00265" font-weight="400" font-size="9.4288px" dy="3.19">Seguimiento de Entregas</text>
+<rect id="label46_bg" class="for_r46" x="214.57292" y="1014.3374" width="110.56693" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label46" class="for_r46" text-anchor="end" x="320.2001" y="1023.14742" font-weight="400" font-size="9.4288px" dy="3.19">Preparación de Pedidos</text>
+<rect id="label47_bg" class="for_r47" x="201.47917" y="1172.05054" width="123.38578" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label47" class="for_r47" text-anchor="end" x="320.2001" y="1180.86056" font-weight="400" font-size="9.4288px" dy="3.19">Empaquetado y Etiquetado</text>
+<rect id="label48_bg" class="for_r48" x="145.65104" y="1224.62158" width="179.21391" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label48" class="for_r48" text-anchor="end" x="320.2001" y="1233.43161" font-weight="400" font-size="9.4288px" dy="3.19">Control de Stock de Producto Terminado</text>
+<rect id="label49_bg" class="for_r49" x="180.02604" y="856.62427" width="145.11454" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label49" class="for_r49" text-anchor="end" x="320.2001" y="865.43429" font-weight="400" font-size="9.4288px" dy="3.19">Procesamiento de Devoluciones</text>
+<rect id="label50_bg" class="for_r50" x="190.49479" y="1066.90845" width="134.65043" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label50" class="for_r50" text-anchor="end" x="320.2001" y="1075.71847" font-weight="400" font-size="9.4288px" dy="3.19">Uso de Vehículos Sostenibles</text>
+<rect id="label51_bg" class="for_r51" x="132.91667" y="646.34009" width="192.23289" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label51" class="for_r51" text-anchor="end" x="320.2001" y="655.15011" font-weight="400" font-size="9.4288px" dy="3.19">Implementación de Embalajes Reutilizables</text>
+<rect id="label52_bg" class="for_r52" x="666.62794" y="1321.93848" width="118.19004" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label52" class="for_r52" text-anchor="start" x="671.29281" y="1330.74856" font-weight="400" font-size="9.656px" dy="3.19">Coordinador de Logística</text>
+<rect id="label53_bg" class="for_r53" x="665.62794" y="1406.86914" width="107.90141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label53" class="for_r53" text-anchor="start" x="671.29281" y="1414.96913" font-weight="400" font-size="9.2016px" dy="2.9">Asistente de Transporte</text>
+<rect id="label54_bg" class="for_r54" x="665.62794" y="1195.60767" width="102.90141" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label54" class="for_r54" text-anchor="start" x="671.29281" y="1204.4177" font-weight="400" font-size="9.4288px" dy="3.19">Asistente de Logística</text>
+<rect id="label55_bg" class="for_r55" x="666.62794" y="1154.2074" width="104.33891" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label55" class="for_r55" text-anchor="start" x="671.29281" y="1162.30742" font-weight="400" font-size="9.2016px" dy="2.9">Supervisor de Almacén</text>
+<rect id="label56_bg" class="for_r56" x="665.62794" y="1270.07751" width="96.65141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label56" class="for_r56" text-anchor="start" x="671.29281" y="1278.17751" font-weight="400" font-size="9.2016px" dy="2.9">Técnico de Embalaje</text>
+<rect id="label57_bg" class="for_r57" x="665.62794" y="1375.2196" width="99.21391" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label57" class="for_r57" text-anchor="start" x="671.29281" y="1383.3196" font-weight="400" font-size="9.2016px" dy="2.9">Analista de Inventario</text>
+<rect id="label58_bg" class="for_r58" x="-126.25285" y="1611.58398" width="125.10357" height="21" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label58" class="for_r58" text-anchor="end" x="-6.29754" y="1622.23397" font-weight="400" font-size="13.5184px" dy="4.35">Servicios Posventa</text>
+<rect id="label59_bg" class="for_r59" x="225.07292" y="1645.18994" width="100.0752" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label59" class="for_r59" text-anchor="end" x="320.2001" y="1653.99997" font-weight="400" font-size="9.4288px" dy="3.19">Gestión de Reclamos</text>
+<rect id="label60_bg" class="for_r60" x="201.99479" y="1382.33472" width="122.87016" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label60" class="for_r60" text-anchor="end" x="320.2001" y="1391.14474" font-weight="400" font-size="9.4288px" dy="3.19">Soporte en Punto de Venta</text>
+<rect id="label61_bg" class="for_r61" x="215.16667" y="1592.6189" width="109.69828" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label61" class="for_r61" text-anchor="end" x="320.2001" y="1601.42892" font-weight="400" font-size="9.4288px" dy="3.19">Análisis de Satisfacción</text>
+<rect id="label62_bg" class="for_r62" x="666.62794" y="1448.26941" width="161.08891" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label62" class="for_r62" text-anchor="start" x="671.29281" y="1457.07941" font-weight="400" font-size="9.4288px" dy="3.19">Recopilación de Opiniones en Línea</text>
+<rect id="label63_bg" class="for_r63" x="666.62794" y="1500.84045" width="129.92661" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label63" class="for_r63" text-anchor="start" x="671.29281" y="1509.65046" font-weight="400" font-size="9.4288px" dy="3.19">Procesamiento de Garantías</text>
+<rect id="label64_bg" class="for_r64" x="666.62794" y="1605.98254" width="136.22349" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label64" class="for_r64" text-anchor="start" x="671.29281" y="1614.79255" font-weight="400" font-size="9.4288px" dy="3.19">Seguimiento de Reparaciones</text>
+<rect id="label65_bg" class="for_r65" x="665.62794" y="1721.85254" width="112.83891" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label65" class="for_r65" text-anchor="start" x="671.29281" y="1730.66264" font-weight="400" font-size="9.4288px" dy="3.19">Asesoramiento de Moda</text>
+<rect id="label66_bg" class="for_r66" x="666.62794" y="1774.42358" width="140.40916" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label66" class="for_r66" text-anchor="start" x="671.29281" y="1783.23369" font-weight="400" font-size="9.4288px" dy="3.19">Gestión de Pedidos Especiales</text>
+<rect id="label67_bg" class="for_r67" x="666.62794" y="1826.99463" width="98.50669" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label67" class="for_r67" text-anchor="start" x="671.29281" y="1835.80473" font-weight="400" font-size="9.4288px" dy="3.19">Reciclaje de Retazos</text>
+<rect id="label68_bg" class="for_r68" x="666.62794" y="1879.56567" width="122.59025" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label68" class="for_r68" text-anchor="start" x="671.29281" y="1888.37578" font-weight="400" font-size="9.4288px" dy="3.19">Reutilización de Materiales</text>
+<rect id="label69_bg" class="for_r69" x="666.62794" y="1553.4115" width="162.63578" height="17" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label69" class="for_r69" text-anchor="start" x="671.29281" y="1562.2215" font-weight="400" font-size="9.4288px" dy="3.19">Representante de Servicio al Cliente</text>
+<rect id="label70_bg" class="for_r70" x="666.62794" y="1680.45239" width="104.35453" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label70" class="for_r70" text-anchor="start" x="671.29281" y="1688.55236" font-weight="400" font-size="9.2016px" dy="2.9">Supervisor de Atención</text>
+<rect id="label71_bg" class="for_r71" x="665.62794" y="1648.80286" width="29.15141" height="16" rx="4" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label71" class="for_r71" text-anchor="start" x="671.29281" y="1656.90283" font-weight="400" font-size="9.2016px" dy="2.9">Anal</text>
+</g>
+</g></svg>

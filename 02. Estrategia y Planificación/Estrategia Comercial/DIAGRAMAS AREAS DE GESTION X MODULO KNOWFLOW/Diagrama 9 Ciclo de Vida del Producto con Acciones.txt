@@ -1,0 +1,179 @@
+// SankeyMATIC diagram inputs - Saved: 3/6/2025, 21:14:48
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+```
+// Código SankeyMatic para el Diagrama 7: Ciclo de Vida del Producto con Acciones
+// Nombres completos para etapas, subprocesos, y acciones
+// Pesos: 2 por subproceso (basado en acciones), 1 por acción (contribución uniforme)
+
+// Logística de Entrada
+Logística de Entrada [2] Recepción de Algodón
+Logística de Entrada [2] Recepción de Tintes
+Logística de Entrada [2] Validación de Importaciones
+Logística de Entrada [2] Selección de Proveedores ESG
+Logística de Entrada [2] Certificación de Insumos
+Recepción de Algodón [1] Verificar calidad de algodón
+Recepción de Algodón [1] Registrar en ticket
+Recepción de Tintes [1] Comprobar especificaciones de color
+Recepción de Tintes [1] Actualizar inventario en sistema
+Validación de Importaciones [1] Revisar documentación aduanera
+Validación de Importaciones [1] Actualizar ticket
+Selección de Proveedores ESG [1] Evaluar impacto ambiental
+Selección de Proveedores ESG [1] Seleccionar proveedores
+Certificación de Insumos [1] Verificar certificaciones orgánicas
+Certificación de Insumos [1] Documentar cumplimiento
+
+// Operaciones
+Operaciones [2] Creación de Patrones
+Operaciones [2] Prototipado de Prendas
+Operaciones [2] Producción de Hilos
+Operaciones [2] Control de Calidad de Hilos
+Operaciones [2] Costura de Prendas
+Operaciones [2] Acabado de Prendas
+Creación de Patrones [1] Diseñar patrón digital
+Creación de Patrones [1] Validar diseño
+Prototipado de Prendas [1] Confeccionar prototipos
+Prototipado de Prendas [1] Realizar pruebas de ajuste
+Producción de Hilos [1] Configurar máquinas de hilado
+Producción de Hilos [1] Supervisar proceso
+Control de Calidad de Hilos [1] Inspeccionar grosor y resistencia
+Control de Calidad de Hilos [1] Registrar defectos
+Costura de Prendas [1] Coser componentes
+Costura de Prendas [1] Verificar costuras
+Acabado de Prendas [1] Realizar planchado y empaquetado
+Acabado de Prendas [1] Etiquetar productos
+
+// Marketing y Ventas
+Marketing y Ventas [2] Generación de Leads
+Marketing y Ventas [2] Seguimiento de Leads
+Marketing y Ventas [2] Emisión de Cotizaciones
+Marketing y Ventas [2] Negociación con Clientes
+Marketing y Ventas [2] Creación de Campañas Publicitarias
+Marketing y Ventas [2] Promociones en Punto de Venta
+Generación de Leads [1] Crear campañas en Gamarra
+Generación de Leads [1] Capturar leads en ticket
+Seguimiento de Leads [1] Contactar leads vía WhatsApp
+Seguimiento de Leads [1] Registrar interacciones en CRM
+Emisión de Cotizaciones [1] Generar cotización
+Emisión de Cotizaciones [1] Enviar al cliente
+Negociación con Clientes [1] Ofrecer descuentos por volumen
+Negociación con Clientes [1] Firmar contratos de venta
+Creación de Campañas Publicitarias [1] Diseñar anuncios para redes sociales
+Creación de Campañas Publicitarias [1] Segmentar audiencias locales
+Promociones en Punto de Venta [1] Configurar descuentos en tienda
+Promociones en Punto de Venta [1] Capacitar a vendedores
+
+// Logística de Salida
+Logística de Salida [2] Coordinación de Transporte
+Logística de Salida [2] Seguimiento de Entregas
+Logística de Salida [2] Preparación de Pedidos
+Logística de Salida [2] Empaquetado y Etiquetado
+Logística de Salida [2] Control de Stock de Producto Terminado
+Logística de Salida [2] Procesamiento de Devoluciones
+Logística de Salida [2] Uso de Vehículos Sostenibles
+Logística de Salida [2] Implementación de Embalajes Reutilizables
+Coordinación de Transporte [1] Asignar transportista
+Coordinación de Transporte [1] Notificar entrega
+Seguimiento de Entregas [1] Monitorear estado de envíos en tiempo real
+Seguimiento de Entregas [1] Informar al cliente sobre retrasos
+Preparación de Pedidos [1] Recolectar prendas según órdenes
+Preparación de Pedidos [1] Verificar exactitud del pedido
+Empaquetado y Etiquetado [1] Empaquetar prendas para envío
+Empaquetado y Etiquetado [1] Generar etiquetas de despacho
+Control de Stock de Producto Terminado [1] Actualizar inventario tras despachos
+Control de Stock de Producto Terminado [1] Registrar devoluciones
+Procesamiento de Devoluciones [1] Inspeccionar prendas devueltas
+Procesamiento de Devoluciones [1] Registrar motivo de devolución
+Uso de Vehículos Sostenibles [1] Seleccionar transportistas con flota eléctrica
+Uso de Vehículos Sostenibles [1] Monitorear emisiones
+Implementación de Embalajes Reutilizables [1] Diseñar empaques retornables
+Implementación de Embalajes Reutilizables [1] Gestionar retorno de empaques
+
+// Servicios Posventa
+Servicios Posventa [2] Gestión de Reclamos
+Servicios Posventa [2] Soporte en Punto de Venta
+Servicios Posventa [2] Análisis de Satisfacción
+Servicios Posventa [2] Recopilación de Opiniones en Línea
+Servicios Posventa [2] Procesamiento de Garantías
+Servicios Posventa [2] Seguimiento de Reparaciones
+Servicios Posventa [2] Asesoramiento de Moda
+Servicios Posventa [2] Gestión de Pedidos Especiales
+Servicios Posventa [2] Reciclaje de Retazos
+Servicios Posventa [2] Reutilización de Materiales
+Gestión de Reclamos [1] Registrar reclamo en ticket
+Gestión de Reclamos [1] Proponer devolución
+Soporte en Punto de Venta [1] Atender consultas en tienda
+Soporte en Punto de Venta [1] Escalar casos complejos
+Análisis de Satisfacción [1] Enviar encuestas postventa
+Análisis de Satisfacción [1] Evaluar NPS
+Recopilación de Opiniones en Línea [1] Monitorear reseñas en redes sociales
+Recopilación de Opiniones en Línea [1] Responder a comentarios
+Procesamiento de Garantías [1] Verificar elegibilidad de garantía
+Procesamiento de Garantías [1] Gestionar reemplazos o reparaciones
+Seguimiento de Reparaciones [1] Registrar estado de reparaciones
+Seguimiento de Reparaciones [1] Notificar al cliente sobre avances
+Asesoramiento de Moda [1] Ofrecer recomendaciones de prendas
+Asesoramiento de Moda [1] Crear guías de estilo personalizadas
+Gestión de Pedidos Especiales [1] Procesar solicitudes de personalización
+Gestión de Pedidos Especiales [1] Coordinar con producción
+Reciclaje de Retazos [1] Clasificar retazos
+Reciclaje de Retazos [1] Registrar reciclaje
+Reutilización de Materiales [1] Diseñar productos con retazos
+Reutilización de Materiales [1] Gestionar inventario de reutilización
+```
+
+// === Settings ===
+
+size w 980
+  h 1972
+margin l 12
+  r 12
+  t 18
+  b 4
+bg color #ffffff
+  transparent N
+node w 12
+  h 73.5
+  spacing 80.5
+  border 0
+  theme c
+  color #888888
+  opacity 1
+flow curvature 0.5
+  inheritfrom outside-in
+  color #999999
+  opacity 0.45
+layout order automatic
+  justifyorigins Y
+  justifyends Y
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0.9
+  fontface sans-serif
+  linespacing 0.05
+  relativesize 129
+  magnify 119
+labelname appears Y
+  size 16
+  weight 400
+labelvalue appears N
+  fullprecision Y
+  position below
+  weight 400
+labelposition autoalign -1
+  scheme auto
+  first before
+  breakpoint 4
+value format ',.'
+  prefix ''
+  suffix ''
+themeoffset a 6
+  b 0
+  c 1
+  d 0
+meta mentionsankeymatic Y
+  listimbalances Y
